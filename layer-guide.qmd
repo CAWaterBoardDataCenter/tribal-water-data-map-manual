@@ -172,13 +172,13 @@ Data Update Frequency: As needed
 
 ### Groundwater Basins
 
-This layer is .... \[1 sentence\]
+This layer shows the boundaries of 515 groundwater basins and subbasins as defined by the California Department of Water Resources.
 
 ![](images/layer-guide_groundwater-basins.png)
 
 \[1 paragraph description\]
 
-Source: California Department of Water Resources \[add link\]
+Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e)
 
 Data Update Frequency: As needed
 
