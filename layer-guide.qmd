@@ -170,6 +170,18 @@ Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://www
 
 Data Update Frequency: As needed
 
+### Groundwater Basins
+
+This layer is .... \[1 sentence\]
+
+\[Image\]
+
+\[1 paragraph description\]
+
+Source: California Department of Water Resources \[add link\]
+
+Data Update Frequency: As needed
+
 ### County Boundaries
 
 This layer shows County boundaries within California.
