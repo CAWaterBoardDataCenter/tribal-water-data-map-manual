@@ -174,7 +174,7 @@ Data Update Frequency: As needed
 
 This layer is .... \[1 sentence\]
 
-\[Image\]
+![](images/layer-guide_groundwater-basins.png)
 
 \[1 paragraph description\]
 
