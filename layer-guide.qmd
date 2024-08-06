@@ -104,6 +104,20 @@ Data Update Frequency: As needed
 
 Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
+### Drought Intensity
+
+This layer shows regions in California impacted by drought.
+
+![](images/drought_intensity_layer.png)
+
+Drought severity is determined by precipitation deviation, stream flow, soil moisture content, subjective observation, and reported impact.
+
+Source: [U.S. Drought Monitor](https://droughtmonitor.unl.edu/)
+
+Data Update Frequency: Weekly, on Thursdays
+
+Contact: [National Drought Mitigation Center (NDMC)](https://drought.unl.edu/)
+
 ## Environmental Justice Layers
 
 ### Superfund Sites
@@ -175,8 +189,6 @@ Data Update Frequency: As needed
 This layer shows the boundaries of 515 groundwater basins and subbasins as defined by the California Department of Water Resources.
 
 ![](images/layer-guide_groundwater-basins.png)
-
-\[1 paragraph description\]
 
 Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e)
 
