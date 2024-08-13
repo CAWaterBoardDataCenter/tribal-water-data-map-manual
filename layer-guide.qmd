@@ -104,6 +104,20 @@ Data Update Frequency: As needed
 
 Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
+### Aquifer Water Quality Risk
+
+This layer shows estimated water quality risk for domestic wells and state small water systems for a variety of contaminants.
+
+![](images/layer-guide-aquifer-water-quality.png)
+
+This layer was developed for use by the State Water Boards SAFER Program to help prioritize areas where domestic wells and state small water systems may be accessing groundwater that does not meet primary drinking water standards.
+
+Source: [Groundwater Ambient Monitoring and Assessment (GAMA) Program](https://www.waterboards.ca.gov/gama/)
+
+Data Update Frequency: As needed
+
+Contact: [SAFER Program](https://www.waterboards.ca.gov/safer/)
+
 ### Drought Intensity
 
 This layer shows regions in California impacted by drought.
@@ -191,6 +205,16 @@ This layer shows the boundaries of 515 groundwater basins and subbasins as defin
 ![](images/layer-guide_groundwater-basins.png)
 
 Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e)
+
+Data Update Frequency: As needed
+
+### Groundwater Sustainability Agencies
+
+This layer shows the boundaries of California's Groundwater Sustainability Agencies as defined on the DWR SGMA Data Viewer.
+
+![](images/layer-guide-gsa-boundaries.png)
+
+Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e), for use by [Groundwater Ambient Monitoring and Assessment (GAMA) Program](https://www.waterboards.ca.gov/gama/)
 
 Data Update Frequency: As needed
 

@@ -27,7 +27,7 @@ This guide compiles some (hopefully) helpful information about the workflow for 
 
 2.  Login with the OIMA_Mapper credentials.
 
-    -   You may have to switch your active portal to [gispublic.waterboards.ca.gov/portal/](http://gispublic.waterboards.ca.gov/portal/), which you can do by clicking the \"Sign in\" option in the upper right.
+    -   You may have to switch your active portal to [gispublic.waterboards.ca.gov/portal/](http://gispublic.waterboards.ca.gov/portal/), which you can do by clicking the "Sign in" option in the upper right.
 
 ![](workflow-guide-images/portal-switch.png){fig-align="center" width="230"}
 
@@ -54,9 +54,9 @@ If you found a data download hosted beyond internal agencies:
 
 2.  Login (upper right hand corner) to the ArcGIS Creator Portal with the **OIMA_Mapper** account (obtain the password from Anna Holder).
 
-3.  In the top navigation bar, click \"Content.\"
+3.  In the top navigation bar, click "Content."
 
-4.  In the top left, click the \"+ New item\" button. 
+4.  In the top left, click the "+ New item" button. 
 
 5.  Add or drag & drop the data file you want to add --- or, paste in the URL. 
 
@@ -66,7 +66,7 @@ If you found a data download hosted beyond internal agencies:
 
 1.  Click on the Tribal Water Data Initiatives Map to open it.
 
-2.  On the right, click \"Open in Map Viewer Classic.\" 
+2.  On the right, click "Open in Map Viewer Classic." 
 
 3.  At the bottom of the list of layers on the left, there will be a button to **Add a layer**. 
 
@@ -76,7 +76,7 @@ If you found a data download hosted beyond internal agencies:
 
     -   Organize/reorder it appropriately by clicking and dragging it.
     -   Rename it with the correct number and an appropriate title by pressing the three dots → rename. 
-    -   If applicable, adjust its properties (how it\'ll show up visually on the map) by pressing the three dots → properties. 
+    -   If applicable, adjust its properties (how it'll show up visually on the map) by pressing the three dots → properties. 
 
 6.  **Make sure to save!** If you created a new layer, you will likely be prompted to update sharing permissions, which you should go ahead and do. 
 
@@ -100,13 +100,13 @@ After editing a layer, find it in the list of layers on the left and right click
 
 ### Clipping a Layer
 
-While you would typically want to find data downloads whose scope is only California as this data is more robust, this isn\'t always possible! There is a simple way to clip California from a layer.
+While you would typically want to find data downloads whose scope is only California as this data is more robust, this isn't always possible! There is a simple way to clip California from a layer.
 
 1.  Open the data layer in ArcGIS Pro. 
 
-2.  Make sure you\'re logged into OIMA_Mapper. Then, from \"Portal,\" find \"California_State_Boundary_shp.\" (This is a shapefile of California\'s border) and add it as a layer to the current map. 
+2.  Make sure you're logged into OIMA_Mapper. Then, from "Portal," find "California_State_Boundary_shp." (This is a shapefile of California's border) and add it as a layer to the current map. 
 
-3.  In the Analysis tab at the top, go to \"Tools.\" Search for \"Clip.\"
+3.  In the Analysis tab at the top, go to "Tools." Search for "Clip."
 
 4.  Use the data layer as the input field, and the California boundary shapefile as the clip feature.
 
@@ -138,7 +138,7 @@ Feature layers are not publicly shared until the GIS team pushes.
 
 3.  Locate and open the Layer Guide .qmd file. 
 
-4.  Edit the user manual to reflect any changes that you\'ve made to the map. To add a new layer, include:
+4.  Edit the user manual to reflect any changes that you've made to the map. To add a new layer, include:
 
     -   Layer name
     -   Succinct description
@@ -151,9 +151,9 @@ Feature layers are not publicly shared until the GIS team pushes.
 
 6.  Stage your local changes by checking them in the top right interface. 
 
-7.  Commit them by pressing \"Commit\" and adding a commit message (brief description of changes).
+7.  Commit them by pressing "Commit" and adding a commit message (brief description of changes).
 
-8.  Push these changes to the main repo by pressing \"Push.\"
+8.  Push these changes to the main repo by pressing "Push."
 
 ![](workflow-guide-images/git-workflow.png){fig-align="center" width="523"}
 
