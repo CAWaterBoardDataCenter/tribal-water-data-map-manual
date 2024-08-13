@@ -1,0 +1,166 @@
+# Workflow Guide
+
+This guide compiles some (hopefully) helpful information about the workflow for adding layers to the map.
+
+## Setup
+
+### Useful Contacts
+
+-   *For GIS-related support:* GIS Team ([GIS\@Waterboards.ca.gov](mailto:GIS@Waterboards.ca.gov))
+-   *For Information Security support*: Information Security Officer ([ISO\@Waterboards.ca.gov](mailto:ISO@Waterboards.ca.gov))
+
+### Setting up Virtual Desktop
+
+1.  Contact WB Help ([help\@Waterboards.ca.gov](mailto:help@waterboards.ca.gov)) with a request for virtual desktop access.
+
+2.  You will receive your login (something\@epa). The password will **be the same as your WB email password**.
+
+3.  The most relevant shortcuts on desktop are:
+
+    -   **SWRCB GIS Portal:** Central hub to edit map and save files, research for potential data layers hosted by other agencies within the organization
+
+    -   **GIS VDI FAQ Doc:** Explains best practices for virtual desktop and ArcGIS usage
+
+### Accessing ArcGIS Pro
+
+1.  Open the ArcGIS Pro application. 
+
+2.  Login with the OIMA_Mapper credentials.
+
+    -   You may have to switch your active portal to [gispublic.waterboards.ca.gov/portal/](http://gispublic.waterboards.ca.gov/portal/), which you can do by clicking the \"Sign in\" option in the upper right.
+
+![](workflow-guide-images/portal-switch.png){fig-align="center" width="230"}
+
+## Layer Workflow
+
+From my experience, it was easiest to use ArcGIS to edit/manipulate data and layers, and MapViewer (via the GIS Portal) to consolidate and edit the Map itself.
+
+### Researching Data Layers
+
+1.  Identify data layers specifically requested by Tribal partners, or data that you feel would be a benefit to have access to. Helpful sources include:
+
+    -   [California Open Data Portal](https://data.ca.gov/)
+    -   [California State Geoportal](https://gis.data.ca.gov/)
+    -   ArcGIS Online
+    -   Organization search within the SWRCB GIS Portal
+
+2.  Assess the quality of the data. Some things to consider include publication source and date, completeness, and scope.
+
+### Creating a Data Layer
+
+If you found a data download hosted beyond internal agencies:
+
+1.  Locate the relevant data download (ideally in GeoJSON, Shapefile, or CSV format), or URL to the data source.
+
+2.  Login (upper right hand corner) to the ArcGIS Creator Portal with the **OIMA_Mapper** account (obtain the password from Anna Holder).
+
+3.  In the top navigation bar, click \"Content.\"
+
+4.  In the top left, click the \"+ New item\" button. 
+
+5.  Add or drag & drop the data file you want to add --- or, paste in the URL. 
+
+6.  When prompted, host it as a feature layer (both file and feature layer, not just file).
+
+### Adding a Layer to Map (via MapViewer)
+
+1.  Click on the Tribal Water Data Initiatives Map to open it.
+
+2.  On the right, click \"Open in Map Viewer Classic.\" 
+
+3.  At the bottom of the list of layers on the left, there will be a button to **Add a layer**. 
+
+4.  You can add layers from a variety of sources, including **My Content** (if you created a layer as above), **My Organizations** (you found an internal layer to add), and **My Favorites**. 
+
+5.  Organize the new layer.
+
+    -   Organize/reorder it appropriately by clicking and dragging it.
+    -   Rename it with the correct number and an appropriate title by pressing the three dots → rename. 
+    -   If applicable, adjust its properties (how it\'ll show up visually on the map) by pressing the three dots → properties. 
+
+6.  **Make sure to save!** If you created a new layer, you will likely be prompted to update sharing permissions, which you should go ahead and do. 
+
+7.  Use the eye button to make only the new layer visible, and screenshot the map. This photo will be used in the user manual.
+
+![](workflow-guide-images/layer-editing.png){fig-align="center" width="329"}
+
+## Working with ArcGIS Pro
+
+### Editing a Layer
+
+1.  Open a downloaded data file with ArcGIS Pro. 
+
+2.  Key features include:
+
+    -   *Catalog pane (right):* If not visible, go to View → Windows. Here, you can link a folder to create and save new shapefiles, layers, etc.
+    -   *Portal tab:* Access items from the SWRCB GIS Portal, including the Map itself!
+    -   Transformation warnings are OK, just ignore. 
+
+After editing a layer, find it in the list of layers on the left and right click it. Select **Share as Web Layer** if possible, and it will save to the portal.
+
+### Clipping a Layer
+
+While you would typically want to find data downloads whose scope is only California as this data is more robust, this isn\'t always possible! There is a simple way to clip California from a layer.
+
+1.  Open the data layer in ArcGIS Pro. 
+
+2.  Make sure you\'re logged into OIMA_Mapper. Then, from \"Portal,\" find \"California_State_Boundary_shp.\" (This is a shapefile of California\'s border) and add it as a layer to the current map. 
+
+3.  In the Analysis tab at the top, go to \"Tools.\" Search for \"Clip.\"
+
+4.  Use the data layer as the input field, and the California boundary shapefile as the clip feature.
+
+5.  This new clipping should appear as a layer. Save it as a web layer if possible.
+
+## Wrapping Up
+
+### Edit the Layer Page
+
+1.  Navigate to the layer that you created. This can be through My Content, or by clicking on the layer from the Tribal Water Data Initiatives Map (scroll down). 
+
+2.  Edit the layer page, filling in the fields with an appropriate title, description, header, etc. **Make sure to cite data if it is taken from an external source** --- these sources will often have specific instructions on how to cite, or additional agencies they want cited. 
+
+3.  ***TO BE UPDATED: Thumbnail***
+
+### Sharing Layers Publicly
+
+Feature layers are not publicly shared until the GIS team pushes.
+
+1.  ***TO BE UPDATED: Public publishing request form via GIS Wiki?***
+
+2.  Only applicable if your feature layer is not already publicly shared data (i.e. you have sourced and created this data layer yourself which is probably not the case): the Information Security Officer (ISO) requires that you submit a Data Categorization Package (Data Cat). [Check the Data Cat instructions document here](https://cawaterboards.sharepoint.com/sites/RiskManagement/DataCategorizationLibrary/Forms/AllItems.aspx).
+
+### Edit the User Manual
+
+1.  Copy the GitHub repo with RStudio. (Anna can help you with this initial setup!)
+
+2.  Before each work session, make sure to **pull any changes**. This ensures that the copied repository you have on your local device is up-to-date with changes that someone else may have made. 
+
+3.  Locate and open the Layer Guide .qmd file. 
+
+4.  Edit the user manual to reflect any changes that you\'ve made to the map. To add a new layer, include:
+
+    -   Layer name
+    -   Succinct description
+    -   Screenshot
+    -   More information (only if necessary)
+    -   Source
+    -   Update frequency
+
+5.  Save your local changes.
+
+6.  Stage your local changes by checking them in the top right interface. 
+
+7.  Commit them by pressing \"Commit\" and adding a commit message (brief description of changes).
+
+8.  Push these changes to the main repo by pressing \"Push.\"
+
+### Update GitHub Issue Board
+
+1.  Self-explanatory! Comment & close the issue.
+
+## Closing
+
+And that's it! Have a great fellowship.
+
+*Written by Kevin Song*
