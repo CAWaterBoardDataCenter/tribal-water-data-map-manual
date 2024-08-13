@@ -82,7 +82,7 @@ If you found a data download hosted beyond internal agencies:
 
 7.  Use the eye button to make only the new layer visible, and screenshot the map. This photo will be used in the user manual.
 
-![](workflow-guide-images/layer-editing.png){fig-align="center" width="329"}
+![](workflow-guide-images/layer-editing.png){fig-align="center" width="304"}
 
 ## Working with ArcGIS Pro
 
@@ -154,6 +154,8 @@ Feature layers are not publicly shared until the GIS team pushes.
 7.  Commit them by pressing \"Commit\" and adding a commit message (brief description of changes).
 
 8.  Push these changes to the main repo by pressing \"Push.\"
+
+![](workflow-guide-images/git-workflow.png){fig-align="center" width="523"}
 
 ### Update GitHub Issue Board
 
