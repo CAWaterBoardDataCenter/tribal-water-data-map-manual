@@ -80,7 +80,7 @@ If you found a data download hosted beyond internal agencies:
 
 6.  **Make sure to save!** If you created a new layer, you will likely be prompted to update sharing permissions, which you should go ahead and do. 
 
-7.  Use the eye button to make only the new layer visible, and screenshot the map. This photo will be used in the user manual.
+7.  Use the eye button to make only the new layer visible, and **screenshot the map** for future use. This photo will be used to make a thumbnail and user guide entry.
 
 ![](workflow-guide-images/layer-editing.png){fig-align="center" width="304"}
 
@@ -120,15 +120,23 @@ While you would typically want to find data downloads whose scope is only Califo
 
 2.  Edit the layer page, filling in the fields with an appropriate title, description, header, etc. **Make sure to cite data if it is taken from an external source** --- these sources will often have specific instructions on how to cite, or additional agencies they want cited. 
 
-3.  ***TO BE UPDATED: Thumbnail***
+### Creating a Thumbnail
+
+1.  Access the [thumbnails guide](https://drive.google.com/drive/u/0/folders/1wS0ZZgf3x0yTxnt5Y-Lz9dB1XKxui7-L), which houses the templates to create standardized thumbnails for Waterboards GIS content.
+2.  Find the appropriate **overlay** --- i.e. "Image Layer," "Point Feature Layer," etc.
+3.  Add your screenshot to the slide and resize it such that it fits within the exposed area of the overlay. Right-click the map screenshot and "Send to back" to see the overlay over the image.
+4.  Once the thumbnail looks good, **screenshot it** and save it.
+5.  Go to the layer page on the portal. In the top left above the thumbnail, press "Edit thumbnail" and upload your created thumbnail.
 
 ### Sharing Layers Publicly
 
-Feature layers are not publicly shared until the GIS team pushes.
+Waterboards GIS content must be approved by the GIS team before being publicly shared. Since the Tribal Water Data Initiatives map is public, any content or layers that you add must also be publicly shared --- otherwise, the **entire map will not be visible publicly.**
 
-1.  ***TO BE UPDATED: Public publishing request form via GIS Wiki?***
-
-2.  Only applicable if your feature layer is not already publicly shared data (i.e. you have sourced and created this data layer yourself which is probably not the case): the Information Security Officer (ISO) requires that you submit a Data Categorization Package (Data Cat). [Check the Data Cat instructions document here](https://cawaterboards.sharepoint.com/sites/RiskManagement/DataCategorizationLibrary/Forms/AllItems.aspx).
+1.  Navigate to the [GIS Wiki](https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/experience/?id=f95bb914c05c4abe91013b78894182e1&page=GIS-Data#layout_1016_block_13) and scroll down on this page to access the Public Publishing Request form. Fill out the fields and submit.
+    -   *Data Steward:* Your supervisor
+    -   *Program:* OIMA
+    -   *Username / Folder:* OIMA_Mapper / Whatever folder you put the content in in the portal
+2.  **This step only applicable if your content includes data that is not already public:** This is unlikely, unless you've sourced data yourself. The Information Security Officer (ISO) requires that you submit a Data Categorization Package (Data Cat). [Check the Data Cat instructions document here](https://cawaterboards.sharepoint.com/sites/RiskManagement/DataCategorizationLibrary/Forms/AllItems.aspx).
 
 ### Edit the User Manual
 
@@ -165,4 +173,4 @@ Feature layers are not publicly shared until the GIS team pushes.
 
 And that's it! Have a great fellowship.
 
-*Written by Kevin Song*
+*Written by [Kevin Song](https://github.com/kevinjsong)*

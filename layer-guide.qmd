@@ -122,7 +122,7 @@ Contact: [SAFER Program](https://www.waterboards.ca.gov/safer/)
 
 This layer shows regions in California impacted by drought.
 
-![](images/drought_intensity_layer.png)
+![](images/layer-guide_drought_intensity_layer.png)
 
 Drought severity is determined by precipitation deviation, stream flow, soil moisture content, subjective observation, and reported impact.
 
