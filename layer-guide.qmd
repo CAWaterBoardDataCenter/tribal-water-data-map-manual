@@ -202,7 +202,7 @@ Data Update Frequency: As needed
 
 This layer shows the boundaries of 515 groundwater basins and subbasins as defined by the California Department of Water Resources.
 
-![](images/layer-guide_groundwater-basins.png)
+![](images/layer-guide-groundwater-basins.png)
 
 Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e)
 
@@ -215,6 +215,28 @@ This layer shows the boundaries of California's Groundwater Sustainability Agenc
 ![](images/layer-guide-gsa-boundaries.png)
 
 Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e), for use by [Groundwater Ambient Monitoring and Assessment (GAMA) Program](https://www.waterboards.ca.gov/gama/)
+
+Data Update Frequency: As needed
+
+### Oil and Gas Wells
+
+This layer shows oil and gas well locations (and their associated records) across California.
+
+![](images/layer-guide-oil-gas-wells.png)
+
+Source: [WellFinder](https://www.conservation.ca.gov/calgem/Pages/WellFinder.aspx), published by the California Department of Conservation and Geologic Energy Management Division
+
+Data Update Frequency: As needed
+
+### Mines
+
+This layer shows all mines in California.
+
+![](images/layer-guide-mines.png)
+
+This data is published with the intent to aid mine reclamation and is gathered via annual reports under Public Resources Code section 2207.
+
+Source: California Department of Conservation Division of Mine Reclamation
 
 Data Update Frequency: As needed
 
