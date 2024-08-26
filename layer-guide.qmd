@@ -58,13 +58,11 @@ Data Update Frequency: As needed
 
 ## Environmental Data Layers
 
-### 2020-2022 Integrated Report (linear)
+### State Water Bodies (rivers, streams, and beaches)
 
-This layer shows the 2020-2022 Integrated Report for linear waterbodies in California, such as rivers, streams, and beaches.
+This layer shows linear waterbodies in California, such as rivers, streams, and beaches, which were assessed for 305(b) in the 2020-2022 California Integrated Report. Light green waterbodies are listed in Category 1, 2, or 3. Dark green waterbodies represent those placed on the 303(d) list of impaired waters.
 
 ![](images/layer-guide_integrated-report-linear.png)
-
-State Water Resources Control Board Division of Water Quality staff have developed this map to graphically display the waterbodies assessed in the 2020-2022 California Integrated Report. This map contains waterbodies assessed for 305(b) categorization, including those placed on the 303(d) list of impaired waters.
 
 Note, these are not the final assessments. 
 
@@ -74,13 +72,11 @@ Data Update Frequency: Every two years
 
 Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
 
-### Integrated Report (polygon) 2020-2022
+### State Water Bodies (bays, lakes and reservoirs)
 
-This layer shows a spatial representation of the 2020-2022 Integrated Report-non-linear (polygon) waterbodies in California, such as bays, lakes, and reservoirs.
+This layer shows non-linear (polygon) waterbodies in California, such as bays, lakes, and reservoirs, which were assessed for 305(b) in the 2020-2022 California Integrated Report. Light green waterbodies are listed in Category 1, 2, or 3. Dark green waterbodies represent those placed on the 303(d) list of impaired waters.
 
 ![](images/layer-guide_integrated-report-non-linear.png)
-
-State Water Resources Control Board Division of Water Quality staff have developed this map to graphically display the waterbodies assessed in the 2020-2022 California Integrated Report. This map contains waterbodies assessed for 305(b) categorization, including those placed on the 303(d) list of impaired waters.
 
 Note, these are not the final assessments. 
 
@@ -92,7 +88,7 @@ Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov
 
 ### CalEnviroScreen 4.0
 
-This layer shows the CalEnviroScreen 4.0 based on the CL Score percentile (ClscoreP).
+This layer shows the CalEnviroScreen (CES) 4.0 based on the CES Score percentile.
 
 CalEnviroScreen is a screening methodology that can be used to help identify California communities that are disproportionately burdened by multiple sources of pollution.
 
@@ -178,7 +174,7 @@ Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenvir
 
 This map shows the disadvantaged communities designated by CalEPA for the purpose of SB 535. These areas represent the 25% highest scoring census tracts in CalEnviroScreen 4.0, census tracts previously identified in the top 25% in CalEnviroScreen 3.0, census tracts with high amounts of pollution and low populations, and federally recognized tribal areasas identified by the Census in the 2021 American Indian Areas Related National Geodatabase.
 
-![](images/layer-guide_agricultural-pesticides.png)
+![](images/layer-guide_disadvantaged-communities.png)
 
 Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
 
