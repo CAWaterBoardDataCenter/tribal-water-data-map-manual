@@ -56,6 +56,18 @@ Source: [California State Water Resources Control Board (SWRCB)](https://gispubl
 
 Data Update Frequency: As needed
 
+### Regulated Wastewater Treatment & Discharge Facilities
+
+Layer showing NPDES and WDR facilities regulated by State Water Board programs, as reflected in the California Integrated Water Quality System (CIWQS) project.
+
+![](images/layer-guide_regulated_facilities.png)
+
+These facilities mandatorily hold active permits to discharge into or alter the surface or ground water. More information about these permits can be found in the CIWQS database.
+
+Source: [California Integrated Water Quality System (CIWQS)](https://www.waterboards.ca.gov/ciwqs/publicreports.html)
+
+Data Update Frequency: Nightly
+
 ## Environmental Data Layers
 
 ### State Water Bodies (rivers, streams, and beaches)
