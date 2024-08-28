@@ -124,7 +124,7 @@
     "href": "layer-guide.html#ca-water-boards-layers",
     "title": "3  Layer Guide",
     "section": "3.2 CA Water Boards Layers",
-    "text": "3.2 CA Water Boards Layers\n\n3.2.1 Regional Water Board Boundaries\nLayer showing the boundaries of the nine Regional Water Quality Control Boards in California.\n\nSource: California State Water Resources Control Board (SWRCB)\nData Update Frequency: As needed",
+    "text": "3.2 CA Water Boards Layers\n\n3.2.1 Regional Water Board Boundaries\nLayer showing the boundaries of the nine Regional Water Quality Control Boards in California.\n\nSource: California State Water Resources Control Board (SWRCB)\nData Update Frequency: As needed\n\n\n3.2.2 Regulated Wastewater Treatment & Discharge Facilities\nLayer showing NPDES and WDR facilities regulated by State Water Board programs, as reflected in the California Integrated Water Quality System (CIWQS) project.\n\nThese facilities mandatorily hold active permits to discharge into or alter the surface or ground water. More information about these permits can be found in the CIWQS database.\nSource: California Integrated Water Quality System (CIWQS)\nData Update Frequency: Nightly",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Layer Guide</span>"
     ]
