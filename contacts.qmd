@@ -6,26 +6,28 @@ If you would like to join the Team, please email Anna Holder at: [anna.holder\@w
 
 ## OIMA
 
-| Name                                                 | Title                                             |
-|------------------------------------------------------|---------------------------------------------------|
-| [Anna Holder](mailto:anna.holder@waterboards.ca.gov) | Environmental Scientist & OIMA Tribal Coordinator |
-| Leah Benton                                          | CivicSpark Fellow                                 |
+| Name | Title |
+|---------------------------|-------------------------------------------|
+| [Anna Holder](mailto:anna.holder@waterboards.ca.gov) | Open Data Science, Equity & Tribal Coordinator |
 
 ## Tribal Partners
 
-| Name           | Title                  | Affiliation                                                                                                              |
-|----------------|------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Sarah Ryan     | Environmental Director | Big Valley Band of Pomo Indians, Environmental Protection Department ([Big Valley EPA](https://www.bvrancheria.com/epa)) |
-| Meyo Marrufo   | Environmental Director | Guidiville Rancheria                                                                                                     |
-| Shasta Gaughen | Director               | Pala Band of Mission Indians, Environmental Department ([PED](http://ped.palatribe.com/))                                |
+| Name | Title | Affiliation |
+|-------------|-------------|-----------------------------------------------|
+| Sarah Ryan | Environmental Director | Big Valley Band of Pomo Indians, Environmental Protection Department ([Big Valley EPA](https://www.bvrancheria.com/epa)) |
+| Meyo Marrufo | Environmental Director | Guidiville Rancheria |
+| Shasta Gaughen | Director | Pala Band of Mission Indians, Environmental Department ([PED](http://ped.palatribe.com/)) |
 
 : Tribal partners listed in ascending order by Affiliation
 
 We also regularly receive critical feedback from the California Issues Workgroup of the US EPA Region 9 Regional Tribal Operations Committee ([RTOC](https://www.epa.gov/tribal-pacific-sw/regional-tribal-operations-committee-rtoc)). See the [Resource Chapter](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/resources.html) of this User Manual for past presentations.
 
-## Former OIMA Fellows & Interns
+## Former OIMA Fellows
 
-| Name              | Title             | Year      |
-|-------------------|-------------------|-----------|
-| Josh Davenport    | Stanford Fellow   | 2023      |
-| Badhia Yunes Katz | CivicSpark Fellow | 2022-2023 |
+| Name              | Title             | Fellowship Period |
+|-------------------|-------------------|-------------------|
+| Kevin Song        | Stanford Fellow   | Summer 2024       |
+| Daly Wettermark   | Stanford Fellow   | Summer 2024       |
+| Leah Benton       | CivicSpark Fellow | 2023-2024         |
+| Josh Davenport    | Stanford Fellow   | Summer 2023       |
+| Badhia Yunes Katz | CivicSpark Fellow | 2022-2023         |
