@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.56">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-d859e973abc70fa6c94a7b306477489c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -200,7 +200,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#oima" id="toc-oima" class="nav-link active" data-scroll-target="#oima"><span class="header-section-number">5.1</span> OIMA</a></li>
   <li><a href="#tribal-partners" id="toc-tribal-partners" class="nav-link" data-scroll-target="#tribal-partners"><span class="header-section-number">5.2</span> Tribal Partners</a></li>
-  <li><a href="#former-oima-fellows-interns" id="toc-former-oima-fellows-interns" class="nav-link" data-scroll-target="#former-oima-fellows-interns"><span class="header-section-number">5.3</span> Former OIMA Fellows &amp; Interns</a></li>
+  <li><a href="#former-oima-fellows" id="toc-former-oima-fellows" class="nav-link" data-scroll-target="#former-oima-fellows"><span class="header-section-number">5.3</span> Former OIMA Fellows</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/CAWaterBoardDataCenter/tribal-water-data-map-manual/edit/main/contacts.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/CAWaterBoardDataCenter/tribal-water-data-map-manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -240,11 +240,7 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td><a href="mailto:anna.holder@waterboards.ca.gov">Anna Holder</a></td>
-<td>Environmental Scientist &amp; OIMA Tribal Coordinator</td>
-</tr>
-<tr class="even">
-<td>Leah Benton</td>
-<td>CivicSpark Fellow</td>
+<td>Open Data Science, Equity &amp; Tribal Coordinator</td>
 </tr>
 </tbody>
 </table>
@@ -280,23 +276,38 @@ ul.task-list li input[type="checkbox"] {
 </table>
 <p>We also regularly receive critical feedback from the California Issues Workgroup of the US EPA Region 9 Regional Tribal Operations Committee (<a href="https://www.epa.gov/tribal-pacific-sw/regional-tribal-operations-committee-rtoc">RTOC</a>). See the <a href="https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/resources.html">Resource Chapter</a> of this User Manual for past presentations.</p>
 </section>
-<section id="former-oima-fellows-interns" class="level2" data-number="5.3">
-<h2 data-number="5.3" class="anchored" data-anchor-id="former-oima-fellows-interns"><span class="header-section-number">5.3</span> Former OIMA Fellows &amp; Interns</h2>
+<section id="former-oima-fellows" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="former-oima-fellows"><span class="header-section-number">5.3</span> Former OIMA Fellows</h2>
 <table class="caption-top table">
 <thead>
 <tr class="header">
 <th>Name</th>
 <th>Title</th>
-<th>Year</th>
+<th>Fellowship Period</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Josh Davenport</td>
+<td>Kevin Song</td>
 <td>Stanford Fellow</td>
-<td>2023</td>
+<td>Summer 2024</td>
 </tr>
 <tr class="even">
+<td>Daly Wettermark</td>
+<td>Stanford Fellow</td>
+<td>Summer 2024</td>
+</tr>
+<tr class="odd">
+<td>Leah Benton</td>
+<td>CivicSpark Fellow</td>
+<td>2023-2024</td>
+</tr>
+<tr class="even">
+<td>Josh Davenport</td>
+<td>Stanford Fellow</td>
+<td>Summer 2023</td>
+</tr>
+<tr class="odd">
 <td>Badhia Yunes Katz</td>
 <td>CivicSpark Fellow</td>
 <td>2022-2023</td>
@@ -390,8 +401,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -502,7 +511,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

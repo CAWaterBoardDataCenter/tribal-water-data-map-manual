@@ -44,7 +44,7 @@
     "href": "map-guide.html",
     "title": "2  Map Guide",
     "section": "",
-    "text": "2.1 Opening the Web Map\nThe link will take you to the main Portal of the map where you will find basic information like:",
+    "text": "2.1 Opening the Web Map\nThis guide serves to provide greater detail about functions within the Tribal Water Data Map.\nThe link will take you to the main Portal of the map where you will find basic information like:",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Map Guide</span>"
     ]
@@ -104,7 +104,7 @@
     "href": "layer-guide.html",
     "title": "3  Layer Guide",
     "section": "",
-    "text": "3.1 Tribal Land Layers",
+    "text": "3.1 Tribal Land Layers\nThis guide serves to provide greater detail about each layer included in the Tribal Water Data Map.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Layer Guide</span>"
     ]
@@ -164,7 +164,7 @@
     "href": "resources.html",
     "title": "4  Resources",
     "section": "",
-    "text": "4.1 Websites\nWater Boards’ Tribal Water Data Initiatives",
+    "text": "4.1 Websites\nHere you will find a curated list of presentations, webpages and other resources related to the development, implementation and scaling of the Water Board’s Tribal Water Data Map.\nAll Water Boards authors are bolded below.\nWater Boards’ Tribal Water Data Initiatives",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resources</span>"
     ]
@@ -194,7 +194,7 @@
     "href": "contacts.html",
     "title": "5  Meet the Team!",
     "section": "",
-    "text": "5.1 OIMA",
+    "text": "5.1 OIMA\nThe development of the Map and this User Manual has been a team effort from the start. Below is a list of team members within OIMA and tribal partners who have been integral to the development of these resources.\nIf you would like to join the Team, please email Anna Holder at: anna.holder@waterboards.ca.gov.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Meet the Team!</span>"
     ]
@@ -204,7 +204,7 @@
     "href": "contacts.html#oima",
     "title": "5  Meet the Team!",
     "section": "",
-    "text": "Name\nTitle\n\n\n\n\nAnna Holder\nEnvironmental Scientist & OIMA Tribal Coordinator\n\n\nLeah Benton\nCivicSpark Fellow",
+    "text": "Name\nTitle\n\n\n\n\nAnna Holder\nOpen Data Science, Equity & Tribal Coordinator",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Meet the Team!</span>"
     ]
@@ -220,11 +220,11 @@
     ]
   },
   {
-    "objectID": "contacts.html#former-oima-fellows-interns",
-    "href": "contacts.html#former-oima-fellows-interns",
+    "objectID": "contacts.html#former-oima-fellows",
+    "href": "contacts.html#former-oima-fellows",
     "title": "5  Meet the Team!",
-    "section": "5.3 Former OIMA Fellows & Interns",
-    "text": "5.3 Former OIMA Fellows & Interns\n\n\n\nName\nTitle\nYear\n\n\n\n\nJosh Davenport\nStanford Fellow\n2023\n\n\nBadhia Yunes Katz\nCivicSpark Fellow\n2022-2023",
+    "section": "5.3 Former OIMA Fellows",
+    "text": "5.3 Former OIMA Fellows\n\n\n\nName\nTitle\nFellowship Period\n\n\n\n\nKevin Song\nStanford Fellow\nSummer 2024\n\n\nDaly Wettermark\nStanford Fellow\nSummer 2024\n\n\nLeah Benton\nCivicSpark Fellow\n2023-2024\n\n\nJosh Davenport\nStanford Fellow\nSummer 2023\n\n\nBadhia Yunes Katz\nCivicSpark Fellow\n2022-2023",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Meet the Team!</span>"
     ]
