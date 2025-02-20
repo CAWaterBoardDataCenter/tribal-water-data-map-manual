@@ -25,7 +25,7 @@ This guide compiles some (hopefully) helpful information about the workflow for 
 
 1.  Open the ArcGIS Pro application. 
 
-2.  Login with the OIMA_Mapper credentials.
+2.  Login with the OIMA credentials - (you will need to get the login and password from Anna Holder)
 
     -   You may have to switch your active portal to [gispublic.waterboards.ca.gov/portal/](http://gispublic.waterboards.ca.gov/portal/), which you can do by clicking the "Sign in" option in the upper right.
 
@@ -52,7 +52,7 @@ If you found a data download hosted beyond internal agencies:
 
 1.  Locate the relevant data download (ideally in GeoJSON, Shapefile, or CSV format), or URL to the data source.
 
-2.  Login (upper right hand corner) to the ArcGIS Creator Portal with the **OIMA_Mapper** account (obtain the password from Anna Holder).
+2.  Login (upper right hand corner) to the ArcGIS Creator Portal with the OIMA credentials account (you will need to get the login and password from Anna Holder).
 
 3.  In the top navigation bar, click "Content."
 
@@ -104,7 +104,7 @@ While you would typically want to find data downloads whose scope is only Califo
 
 1.  Open the data layer in ArcGIS Pro. 
 
-2.  Make sure you're logged into OIMA_Mapper. Then, from "Portal," find "California_State_Boundary_shp." (This is a shapefile of California's border) and add it as a layer to the current map. 
+2.  Make sure you're logged into the OIMA credentials. Then, from "Portal," find "California_State_Boundary_shp." (This is a shapefile of California's border) and add it as a layer to the current map. 
 
 3.  In the Analysis tab at the top, go to "Tools." Search for "Clip."
 
