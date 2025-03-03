@@ -54,7 +54,7 @@
     "href": "map-guide.html#opening-the-web-map",
     "title": "2  Map Guide",
     "section": "",
-    "text": "Map viewing options; if you have ArcGIS Desktop installed on the computer you are working on, you can opt to open the map directly on the App, otherwise just click on “Open Map Viewer Classic” to open it.\nA description of the map that highlights the purpose and goals.\nLayer dictionary where you can click on each of the Layers and find out more detailed information, including its source.\nIt isn’t necessary, but if you have an account with ESRI, you can sign in.",
+    "text": "Map viewing options:\n\nIf you have ArcGIS Desktop installed on the computer you are working on, you can opt to open the map directly on the App, otherwise just click on “Open Map Viewer” to open it.\n\nMap description:\n\nA description of the map that highlights the purpose and goals.\n\nLayer dictionary:\n\nYou can click on each of the layers and find out more detailed information, including the source.\n\nOptional sign in:\n\nIt isn’t necessary, but if you have an account with ESRI, you can sign in.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Map Guide</span>"
     ]
