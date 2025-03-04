@@ -22,7 +22,7 @@ The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=f5b1251
 
     -   It isn't necessary, but if you have an account with ESRI, you can sign in.
 
-![](images/map-guide_open-map.png){fig-alt="A screenshot of the Tribal Water Data Map home screen with arrows pointing to each section included in the written description above."}
+![](images/map-guide_open-map.png){fig-alt="A screenshot of the Tribal Water Data Map home page with arrows pointing to basic information described above."}
 
 ## **Navigating the Map**
 
@@ -42,7 +42,7 @@ Do the following to navigate the map:
 
 6.  **Expand the Legend** pane by dragging the points on the edge of right edge of the menu.
 
-![](images/map-guide_navigate-map.png)
+![](images/map-guide_navigate-map.png){fig-alt="A screenshot of the Map with default layers visible. Arrows pointing to various navigation functions on the map mentioned above."}
 
 ## **Navigating Layers**
 
