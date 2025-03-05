@@ -26,31 +26,35 @@ The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=f5b1251
 
 ## **Navigating the Map**
 
-After you have clicked on Open Map Viewer, the web map will open with two default layers being displayed: Regional Board Boundaries and Indigenous Territories.
+After you have clicked on 'Open in Map Viewer', the web map will open with two default layers being displayed: Regional Board Boundaries and Indigenous Territories.
 
-Do the following to navigate the map:
+To navigate the map:
 
-1.  To zoom you can use the **Zoom in** and **Zoom out** buttons on the map, the mouse and wheel button, or press Shift + Plus Sign (zoom in) and Shift + Minus Sign (zoom out) on the keyboard. To zoom in, you can also press the Shift key while dragging a box on the map.
+1.  To zoom you can use the **Zoom in** and **Zoom out** buttons on the bottom right of map, the mouse and wheel button, or press Shift + Plus Sign (zoom in) and Shift + Minus Sign (zoom out) on the keyboard. To zoom in, you can also press the Shift key while dragging a box on the map.
 
 2.  To go back to the main view, press the **house icon**.
 
-3.  To **pan the map**, use the mouse or the arrow keys on your keyboard. 
+3.  **Collapse the legend** pane by clicking on the arrow on the upper-right corner of the menu.
 
-4.  If you're using a Mac with OS X 10.6 or later, you can use multitouch gestures by dragging two fingers to pan and zoom the map. The default behavior is to pan. To zoom in or out, press Shift while dragging two fingers toward you to zoom in or dragging two fingers away from you to zoom out.
+4.  Scroll through the **map options** in the sidebar on the left
 
-5.  **Collapse the Legend** pane by clicking on the arrow on the upper-right corner of the menu.
+    -   Map options include Layers, Tables and Charts, viewing the BaseMap, Viewing the Map Properties, and more.
 
-6.  **Expand the Legend** pane by dragging the points on the edge of right edge of the menu.
+5.  To **pan the map**, use the mouse or the arrow keys on your keyboard. 
 
-![](images/map-guide_navigate-map.png){fig-alt="A screenshot of the Map with default layers visible. Arrows pointing to various navigation functions on the map mentioned above."}
+6.  If you're using a Mac with OS X 10.6 or later, you can use multitouch gestures by dragging two fingers to pan and zoom the map. The default behavior is to pan. To zoom in or out, press Shift while dragging two fingers toward you to zoom in or dragging two fingers away from you to zoom out.
+
+![](images/map-guide_navigate-map.png){fig-alt="A screenshot of the Map with default layers visible. Arrows pointing to navigation functions 1 through 4 on the map mentioned above."}
 
 ## **Navigating Layers**
 
--   On the left hand side you will see the legend of the layers, the blue outlines are the Regional Board Boundaries, and the different Indigenous Territories are color coded and defined on that menu.
+-   On the left hand side you will see the legend of the layers. The blue outlines and numbers are the Regional Board Boundaries and Designations, and the different Indigenous Territories are color coded and defined on that menu.
 
--   You can click on a map area of California to find out what Regional Board, or Indigenous Territory is there. The information will be shown in a pop-up menu.
+-   You can click on a map area of California to find out what Regional Board, or Indigenous Territory is in a specific location. The information will be shown in a pop-up menu.
 
 -   On this example, the right border of California was clicked and a pop-up showed that the area belongs to Region 6 of the Regional Boards.
+
+-   To see more information on the map, click on any of the items in the menu bar on the left side of the screen (shown in the inset on the picture below). For example, to view other layers you can click on the Layers icon, which is highlighted in the square.
 
 ![](images/map-guide_navigate-layers.png)
 

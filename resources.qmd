@@ -8,6 +8,18 @@ All Water Boards authors are **bolded** below.
 
 [Water Boards' Tribal Water Data Initiatives](https://www.waterboards.ca.gov/resources/oima/tribal_water_data_initiatives/)
 
+## SWAMP Information 
+
+-   The Surface Water Ambient Monitoring Program (SWAMP) unit falls within the OIMA at the State Water Resources Control Board
+
+-   Below are resources directly from the SWAMP website that may be useful in addition to this map:
+
+    -   [SWAMP Data Dashboard](https://gispublic.waterboards.ca.gov/swamp-data/)
+
+    -   [Safe to Swim Map](https://mywaterquality.ca.gov/safe-to-swim/content/interactive_map/index.html)
+
+    -   [Freshwater Harmful Algal Bloom (FHAB) Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/freshwater_cyanobacteria.html)
+
 ## Presentations
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [Using California Water Board's Tribal Water Data Map to Understand Pollution & Climate in your Area](https://drive.google.com/file/d/1fJSZywbhhlgFK6H-LSwDVOmc_iJZEErZ/view?usp=sharing). Jan 2025. **Anna Holder**. [National Tribal Data Resilience Workgroup](https://tribalclimatehealth.org/tools-resources/data-development/). [Recording](https://youtu.be/im4xqnCkJ90?si=j6hubFR5mtjhcI7y&t=793)
