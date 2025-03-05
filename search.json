@@ -34,7 +34,7 @@
     "href": "about-oima.html#tribal-water-data-initiatives",
     "title": "1  About OIMA",
     "section": "1.2 Tribal Water Data Initiatives",
-    "text": "1.2 Tribal Water Data Initiatives\nOIMA is committed to advancing equity, inclusion, and belonging in our work, our office, and at the Water Boards. Meaningful engagement and partnership with California Native American Tribes (tribes) is fundamental to this work.\nOIMA has begun to work with Tribal partners on a series of water data initiatives -- including the Tribal Water Data Map and this User Manual -- to build relationships and work together to better understand, streamline, and improve the interactions between Water Board data systems and those of our Tribal government partners.\nVisit our Tribal Water Data Initiatives website for information on other initiatives.",
+    "text": "1.2 Tribal Water Data Initiatives\nOIMA is committed to advancing equity, inclusion, and belonging in our work, our office, and at the Water Boards. Meaningful engagement and partnership with California Native American Tribes (tribes) is fundamental to this work.\nOIMA has begun to work with Tribal partners on a series of water data initiatives – including the Tribal Water Data Map and this User Manual – to build relationships and work together to better understand, streamline, and improve the interactions between Water Board data systems and those of our Tribal government partners.\nVisit our Tribal Water Data Initiatives website for information on other initiatives.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>About OIMA</span>"
     ]
@@ -64,7 +64,7 @@
     "href": "map-guide.html#navigating-the-map",
     "title": "2  Map Guide",
     "section": "2.2 Navigating the Map",
-    "text": "2.2 Navigating the Map\nAfter you have clicked on Open Map Viewer, the web map will open with two default layers being displayed: Regional Board Boundaries and Indigenous Territories.\nDo the following to navigate the map:\n\nTo zoom you can use the Zoom in and Zoom out buttons on the map, the mouse and wheel button, or press Shift + Plus Sign (zoom in) and Shift + Minus Sign (zoom out) on the keyboard. To zoom in, you can also press the Shift key while dragging a box on the map.\nTo go back to the main view, press the house icon.\nTo pan the map, use the mouse or the arrow keys on your keyboard. \nIf you’re using a Mac with OS X 10.6 or later, you can use multitouch gestures by dragging two fingers to pan and zoom the map. The default behavior is to pan. To zoom in or out, press Shift while dragging two fingers toward you to zoom in or dragging two fingers away from you to zoom out.\nCollapse the Legend pane by clicking on the arrow on the upper-right corner of the menu.\nExpand the Legend pane by dragging the points on the edge of right edge of the menu.",
+    "text": "2.2 Navigating the Map\nAfter you have clicked on ‘Open in Map Viewer’, the web map will open with two default layers being displayed: Regional Board Boundaries and Indigenous Territories.\nTo navigate the map:\n\nTo zoom you can use the Zoom in and Zoom out buttons on the bottom right of map, the mouse and wheel button, or press Shift + Plus Sign (zoom in) and Shift + Minus Sign (zoom out) on the keyboard. To zoom in, you can also press the Shift key while dragging a box on the map.\nTo go back to the main view, press the house icon.\nCollapse the legend pane by clicking on the arrow on the upper-right corner of the menu.\nScroll through the map options in the sidebar on the left\n\nMap options include Layers, Tables and Charts, viewing the BaseMap, Viewing the Map Properties, and more.\n\nTo pan the map, use the mouse or the arrow keys on your keyboard. \nIf you’re using a Mac with OS X 10.6 or later, you can use multitouch gestures by dragging two fingers to pan and zoom the map. The default behavior is to pan. To zoom in or out, press Shift while dragging two fingers toward you to zoom in or dragging two fingers away from you to zoom out.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Map Guide</span>"
     ]
@@ -74,7 +74,7 @@
     "href": "map-guide.html#navigating-layers",
     "title": "2  Map Guide",
     "section": "2.3 Navigating Layers",
-    "text": "2.3 Navigating Layers\n\nOn the left hand side you will see the legend of the layers, the blue outlines are the Regional Board Boundaries, and the different Indigenous Territories are color coded and defined on that menu.\nYou can click on a map area of California to find out what Regional Board, or Indigenous Territory is there. The information will be shown in a pop-up menu.\nOn this example, the right border of California was clicked and a pop-up showed that the area belongs to Region 6 of the Regional Boards.\n\n\n*To see more information, and the rest of the layers, go to the Content Tab.",
+    "text": "2.3 Navigating Layers\n\nOn the left hand side you will see the legend of the layers. The blue outlines and numbers are the Regional Board Boundaries and Designations, and the different Indigenous Territories are color coded and defined on that menu.\nYou can click on a map area of California to find out what Regional Board, or Indigenous Territory is in a specific location. The information will be shown in a pop-up menu.\nOn this example, the right border of California was clicked and a pop-up showed that the area belongs to Region 6 of the Regional Boards.\nTo see more information on the map, click on any of the items in the menu bar on the left side of the screen (shown in the inset on the picture below). For example, to view other layers you can click on the Layers icon, which is highlighted in the square.\n\n\n*To see more information, and the rest of the layers, go to the Content Tab.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Map Guide</span>"
     ]
@@ -170,11 +170,21 @@
     ]
   },
   {
+    "objectID": "resources.html#swamp-information",
+    "href": "resources.html#swamp-information",
+    "title": "4  Resources",
+    "section": "4.2 SWAMP Information",
+    "text": "4.2 SWAMP Information\n\nThe Surface Water Ambient Monitoring Program (SWAMP) unit falls within the OIMA at the State Water Resources Control Board\nBelow are resources directly from the SWAMP website that may be useful in addition to this map:\n\nSWAMP Data Dashboard\nSafe to Swim Map\nFreshwater Harmful Algal Bloom (FHAB) Program",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
     "objectID": "resources.html#presentations",
     "href": "resources.html#presentations",
     "title": "4  Resources",
-    "section": "4.2 Presentations",
-    "text": "4.2 Presentations\n Using California Water Board’s Tribal Water Data Map to Understand Pollution & Climate in your Area. Jan 2025. Anna Holder. National Tribal Data Resilience Workgroup. Recording\n Using California Water Board’s Tribal Water Data Map to Understand Pollution in your Area. Oct 2023 (Fall Tribal Conference). Anna Holder, Sarah Ryan. Tribal EPA & US EPA Region 9 Annual Conference. Recording\n CA Water Boards’ Tribal Water Data Resources Update. Aug 2023 (Summer Meeting). Badhia Yunes Katz, Anna Holder. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).\n Introduction to CA Water Boards’ Tribal Water Data Resources. Feb 2023 (Winter Meeting). Badhia Yunes Katz, Anna Holder. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).",
+    "section": "4.3 Presentations",
+    "text": "4.3 Presentations\n Using California Water Board’s Tribal Water Data Map to Understand Pollution & Climate in your Area. Jan 2025. Anna Holder. National Tribal Data Resilience Workgroup. Recording\n Using California Water Board’s Tribal Water Data Map to Understand Pollution in your Area. Oct 2023 (Fall Tribal Conference). Anna Holder, Sarah Ryan. Tribal EPA & US EPA Region 9 Annual Conference. Recording\n CA Water Boards’ Tribal Water Data Resources Update. Aug 2023 (Summer Meeting). Badhia Yunes Katz, Anna Holder. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).\n Introduction to CA Water Boards’ Tribal Water Data Resources. Feb 2023 (Winter Meeting). Badhia Yunes Katz, Anna Holder. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resources</span>"
     ]
@@ -183,8 +193,8 @@
     "objectID": "resources.html#other-data-visualization-tools",
     "href": "resources.html#other-data-visualization-tools",
     "title": "4  Resources",
-    "section": "4.3 Other Data Visualization Tools",
-    "text": "4.3 Other Data Visualization Tools\nTribal Drinking Water - This tool is intended to compile and display information that can inform and help prioritize outreach related to drinking water issues in tribal areas within California. It is a work in progress, and is not intended to be a comprehensive source of tribal-related water data.\nHealthy Places Index (HPI) - The HPI maps data on social conditions that drive health — like education, job opportunities, clean air and water, and other indicators that are positively associated with life expectancy at birth. The HPI is a project of the Public Health Alliance of Southern California, with the aim of supporting efforts to prioritize equitable community investments and policy.\nSocial Vulnerability Index (SVI) - The SVI is designed to identify and quantify communities experiencing social vulnerability and help public health officials and local planners better prepare for and respond to emergency events. It is developed by the US Centers for Disease Control and Prevention and Agency for Toxic Substances and Disease Registry.",
+    "section": "4.4 Other Data Visualization Tools",
+    "text": "4.4 Other Data Visualization Tools\nTribal Drinking Water - This tool is intended to compile and display information that can inform and help prioritize outreach related to drinking water issues in tribal areas within California. It is a work in progress, and is not intended to be a comprehensive source of tribal-related water data.\nHealthy Places Index (HPI) - The HPI maps data on social conditions that drive health — like education, job opportunities, clean air and water, and other indicators that are positively associated with life expectancy at birth. The HPI is a project of the Public Health Alliance of Southern California, with the aim of supporting efforts to prioritize equitable community investments and policy.\nSocial Vulnerability Index (SVI) - The SVI is designed to identify and quantify communities experiencing social vulnerability and help public health officials and local planners better prepare for and respond to emergency events. It is developed by the US Centers for Disease Control and Prevention and Agency for Toxic Substances and Disease Registry.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resources</span>"
     ]
@@ -250,11 +260,11 @@
     ]
   },
   {
-    "objectID": "contribute.html#how-we-contribute",
-    "href": "contribute.html#how-we-contribute",
+    "objectID": "contribute.html#how-we-contribute-at-oima",
+    "href": "contribute.html#how-we-contribute-at-oima",
     "title": "6  Contributing",
-    "section": "6.2 How we contribute",
-    "text": "6.2 How we contribute\nWe develop the content for this User Manual using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\n\n6.2.1 Setup\nTo contribute, OIMA Team members must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the instillation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nCreate your free personal account GitHub account\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.",
+    "section": "6.2 How we contribute at OIMA",
+    "text": "6.2 How we contribute at OIMA\nWe develop the content for this User Manual using RStudio, build the book using Quarto (via RStudio), and collaborate and publish using GitHub (also via RStudio).\n\n6.2.1 Setup\nTo contribute, OIMA Team members must do the following, and it should only take about 20 minutes to complete:\n\nInstall R and RStudio\nBoth R and RStudio should be available in the Software Center (for Windows 10) or Company Portal (for Windows 11) – if you don’t see them in your Software Center/Company Portal or you have issues/questions during the installation process, please send a request to the DIT HelpDesk and they can help you install them.\nAlso see these step by step instructions on how to install these programs – you will only need to go through steps 1 and 2\nIf you are new to R, it would also be helpful if you could review the Getting Started Module so you can begin to familiarize yourself with the fundamentals of the program.\nInstall Quarto\nQuarto download and install instructions\nCreate a GitHub Account\nCreate your free personal account GitHub account\nTips on choosing your username\nDownload and Install Git\nFollow your operating system’s normal Git installation process. Note: you will not see an application called Git listed but if the installation process completed it was likely successful, and we will confirm together.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Contributing</span>"
     ]
