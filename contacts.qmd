@@ -7,19 +7,19 @@ If you would like to join the Team, please email Anna Holder at: [anna.holder\@w
 ## OIMA
 
 | Name | Title |
-|----|----|
+|------------------------------------|------------------------------------|
 | [Anna Holder](mailto:anna.holder@waterboards.ca.gov) | Open Data Science, Equity & Tribal Coordinator |
 | Hannah Merges | 2025 California Sea Grant Fellow |
 
 ## Tribal Partners
 
 | Name | Title | Affiliation |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Sarah Ryan | Environmental Director | Big Valley Band of Pomo Indians, Environmental Protection Department ([Big Valley EPA](https://www.bvrancheria.com/epa)) |
-| Meyo Marrufo | Environmental Director | Guidiville Rancheria |
+| Meyo Marrufo | Former Environmental Director | Guidiville Rancheria |
 | Shasta Gaughen | Director | Pala Band of Mission Indians, Environmental Department ([PED](http://ped.palatribe.com/)) |
 
-: Tribal partners listed in ascending order by Affiliation
+: Tribal partners listed in ascending order by Affiliation. We are appreciative and grateful for Meyo Marrufo and Shasta Gaughen who invested time to provide us early feedback on the content of the [Tribal Water Data Initiatives Webpage](https://www.waterboards.ca.gov/resources/oima/tribal_water_data_initiatives/), the [Tribal Water Data Map](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8), and this [Manual](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/).
 
 We also regularly receive critical feedback from the California Issues Workgroup of the US EPA Region 9 Regional Tribal Operations Committee ([RTOC](https://www.epa.gov/tribal-pacific-sw/regional-tribal-operations-committee-rtoc)). See the [Resource Chapter](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/resources.html) of this User Manual for past presentations.
 
