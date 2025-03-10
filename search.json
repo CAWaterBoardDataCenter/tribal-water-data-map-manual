@@ -64,17 +64,17 @@
     "href": "map-guide.html#navigating-the-map",
     "title": "2  Map Guide",
     "section": "2.2 Navigating the Map",
-    "text": "2.2 Navigating the Map\nAfter you have clicked on ‘Open in Map Viewer’, the web map will open with two default layers being displayed: Regional Board Boundaries and Indigenous Territories.\nTo navigate the map:\n\nTo zoom you can use the Zoom in and Zoom out buttons on the bottom right of map, the mouse and wheel button, or press Shift + Plus Sign (zoom in) and Shift + Minus Sign (zoom out) on the keyboard. To zoom in, you can also press the Shift key while dragging a box on the map.\nTo go back to the main view, press the house icon.\nCollapse the legend pane by clicking on the arrow on the upper-right corner of the menu.\nScroll through the map options in the sidebar on the left\n\nMap options include Layers, Tables and Charts, viewing the BaseMap, Viewing the Map Properties, and more.\n\nTo pan the map, use the mouse or the arrow keys on your keyboard. \nIf you’re using a Mac with OS X 10.6 or later, you can use multitouch gestures by dragging two fingers to pan and zoom the map. The default behavior is to pan. To zoom in or out, press Shift while dragging two fingers toward you to zoom in or dragging two fingers away from you to zoom out.",
+    "text": "2.2 Navigating the Map\nAfter you have clicked on ‘Open in Map Viewer’, the web map will open with two default layers being displayed: Regional Board Boundaries and Indigenous Territories.\nTo navigate the map:\n\nTo zoom you can use the Zoom in and Zoom out buttons on the bottom right of map, the mouse and wheel button, or press Shift + Plus Sign (zoom in) and Shift + Minus Sign (zoom out) on the keyboard. To zoom in, you can also press the Shift key while dragging a box on the map.\nTo go back to the main view, press the house icon.\nCollapse the legend pane by clicking on the arrow on the upper-right corner of the menu.\nScroll through the map options in the sidebar on the left\n\nMap options include Layers, Tables and Charts, viewing the BaseMap, Viewing the Map Properties, and more.\nTo expand the map options to see icons and words, click on the ‘&gt;&gt;’ arrows in the bottom lefthand corner (see Navigating Legend and Layers section below for picture).\n\nTo pan the map, use the mouse or the arrow keys on your keyboard. \nIf you’re using a Mac with OS X 10.6 or later, you can use multitouch gestures by dragging two fingers to pan and zoom the map. The default behavior is to pan. To zoom in or out, press Shift while dragging two fingers toward you to zoom in or dragging two fingers away from you to zoom out.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Map Guide</span>"
     ]
   },
   {
-    "objectID": "map-guide.html#navigating-layers",
-    "href": "map-guide.html#navigating-layers",
+    "objectID": "map-guide.html#navigating-legend-and-layers",
+    "href": "map-guide.html#navigating-legend-and-layers",
     "title": "2  Map Guide",
-    "section": "2.3 Navigating Layers",
-    "text": "2.3 Navigating Layers\n\nOn the left hand side you will see the legend of the layers. The blue outlines and numbers are the Regional Board Boundaries and Designations, and the different Indigenous Territories are color coded and defined on that menu.\nYou can click on a map area of California to find out what Regional Board, or Indigenous Territory is in a specific location. The information will be shown in a pop-up menu.\nOn this example, the right border of California was clicked and a pop-up showed that the area belongs to Region 6 of the Regional Boards.\nTo see more information on the map, click on any of the items in the menu bar on the left side of the screen (shown in the inset on the picture below). For example, to view other layers you can click on the Layers icon, which is highlighted in the square.\n\n\n*To see more information, and the rest of the layers, go to the Content Tab.",
+    "section": "2.3 Navigating Legend and Layers",
+    "text": "2.3 Navigating Legend and Layers\n\nTo see information on the map, click on any of the items in the menu bar on the left side of the screen. For example, to view other layers you can click on the Layers icon, which is displayed directly to the right of the menu bar.\nAlso in the menu bar, is the legend (shown in the inset below the pop-up menu). The legend gives more details about each layer that is currently selected. For example, the blue outlines and numbers are the Regional Board Boundaries and Designations, and the different Indigenous Territories are color coded and defined on that menu.\nYou can also click on a map area of California to find out what Regional Board, or Indigenous Territory is in a specific location. The information will be shown in a pop-up menu.\n\nIn this example, the right border of California was clicked and a pop-up showed that the area belongs to Region 6 of the Regional Boards.\n\nAdditional map properties for exploration and analysis can be found on the panel on the right side of the screen for map properties and effects, to add a sketch, or to use measurement tools.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Map Guide</span>"
     ]
@@ -83,8 +83,8 @@
     "objectID": "map-guide.html#displayingremoving-view-of-layers",
     "href": "map-guide.html#displayingremoving-view-of-layers",
     "title": "2  Map Guide",
-    "section": "2.4 Displaying/removing View of Layers",
-    "text": "2.4 Displaying/removing View of Layers\n\nOn the Contents Pane menu, all the layers of the map will be listed (but not yet displayed)\nOnly Regional Boards Boundaries and Indigenous Territories are displayed, and we can tell by the checked box to the left of the layer name.",
+    "section": "2.4 Displaying/Removing View of Layers",
+    "text": "2.4 Displaying/Removing View of Layers\n\nOn the Menu Bar, click Layers . All the layers of the map will be listed (but not yet displayed). The layer categories (3.1, 3.2, 3.3, 3.4, and 3.5) are coordinated with the section in the Layer Guide that outlines each layer and its important/relevant information.\nUpon opening the map, only Regional Boards Boundaries and Indigenous Territories will be displayed. You can confirm this by looking at the layer name and seeing an eye icon (you may need to hover over the layer to see the eye icon). If the eye icon has a slash through it, that means the layer is not currently visible on the map. You need to click on the eye icon specifically to display/remove the layer.\n\nIf you just click the layer name and not the eye icon, you will pull up the properties information about that layer on the right side of the map (shown on the right hand side for Tribal Census Tract 2021 layer).",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Map Guide</span>"
     ]
@@ -94,7 +94,7 @@
     "href": "map-guide.html#adjusting-layer-transparency",
     "title": "2  Map Guide",
     "section": "2.5 Adjusting Layer Transparency",
-    "text": "2.5 Adjusting Layer Transparency\nTo change the transparency of the layers:\n\nHover over the layer you’d like to change the transparency.\nClick on the three dots on below the layer name, on the right.\nSelect Transparency, and slide the button to the desired transparency.\nThe more transparency, the less visible the layer will be.",
+    "text": "2.5 Adjusting Layer Transparency\nTo change the transparency of the layers:\n\nSelect the layer of which you’d like to change the transparency:\n\nYou can either click on the three dots next to the layer name and select “Show properties” or\nYou can click on the layer name and the properties panel will pop up on the right side of the screen.\n\nScroll down to Appearance\nSelect Transparency, and slide the button to the desired transparency\n\nThe more transparency, the less visible the layer will be.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Map Guide</span>"
     ]
@@ -224,7 +224,7 @@
     "href": "contacts.html#tribal-partners",
     "title": "5  Meet the Team!",
     "section": "5.2 Tribal Partners",
-    "text": "5.2 Tribal Partners\n\nTribal partners listed in ascending order by Affiliation\n\n\nName\nTitle\nAffiliation\n\n\n\n\nSarah Ryan\nEnvironmental Director\nBig Valley Band of Pomo Indians, Environmental Protection Department (Big Valley EPA)\n\n\nMeyo Marrufo\nEnvironmental Director\nGuidiville Rancheria\n\n\nShasta Gaughen\nDirector\nPala Band of Mission Indians, Environmental Department (PED)\n\n\n\nWe also regularly receive critical feedback from the California Issues Workgroup of the US EPA Region 9 Regional Tribal Operations Committee (RTOC). See the Resource Chapter of this User Manual for past presentations.",
+    "text": "5.2 Tribal Partners\n\nTribal partners listed in ascending order by Affiliation. We are appreciative and grateful for Meyo Marrufo and Shasta Gaughen who invested time to provide us early feedback on the content of the Tribal Water Data Initiatives Webpage, the Tribal Water Data Map, and this Manual.\n\n\nName\nTitle\nAffiliation\n\n\n\n\nSarah Ryan\nEnvironmental Director\nBig Valley Band of Pomo Indians, Environmental Protection Department (Big Valley EPA)\n\n\nMeyo Marrufo\nFormer Environmental Director\nGuidiville Rancheria\n\n\nShasta Gaughen\nDirector\nPala Band of Mission Indians, Environmental Department (PED)\n\n\n\nWe also regularly receive critical feedback from the California Issues Workgroup of the US EPA Region 9 Regional Tribal Operations Committee (RTOC). See the Resource Chapter of this User Manual for past presentations.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Meet the Team!</span>"
     ]
