@@ -39,6 +39,7 @@ To navigate the map:
 4.  Scroll through the **map options** in the sidebar on the left
 
     -   Map options include Layers, Tables and Charts, viewing the BaseMap, Viewing the Map Properties, and more.
+    -   To expand the map options to see icons and words, click on the '\>\>' arrows in the bottom lefthand corner (see Navigating Legend and Layers section below for picture).
 
 5.  To **pan the map**, use the mouse or the arrow keys on your keyboard. 
 
@@ -46,40 +47,44 @@ To navigate the map:
 
 ![](images/map-guide_navigate-map.png){fig-alt="A screenshot of the Map with default layers visible. Arrows pointing to navigation functions 1 through 4 on the map mentioned above."}
 
-## **Navigating Layers**
+## **Navigating Legend and Layers**
 
--   On the left hand side you will see the legend of the layers. The blue outlines and numbers are the Regional Board Boundaries and Designations, and the different Indigenous Territories are color coded and defined on that menu.
+-   To see information on the map, click on any of the items in the **menu bar** on the left side of the screen. For example, to view other layers you can click on the **Layers** icon, which is displayed directly to the right of the menu bar.
 
--   You can click on a map area of California to find out what Regional Board, or Indigenous Territory is in a specific location. The information will be shown in a pop-up menu.
+-   Also in the menu bar, is the **legend** (shown in the inset below the pop-up menu). The legend gives more details about each layer that is currently selected. For example, the blue outlines and numbers are the Regional Board Boundaries and Designations, and the different Indigenous Territories are color coded and defined on that menu.
 
--   On this example, the right border of California was clicked and a pop-up showed that the area belongs to Region 6 of the Regional Boards.
+-   You can also click on a map area of California to find out what Regional Board, or Indigenous Territory is in a specific location. The information will be shown in a **pop-up menu**.
 
--   To see more information on the map, click on any of the items in the menu bar on the left side of the screen (shown in the inset on the picture below). For example, to view other layers you can click on the Layers icon, which is highlighted in the square.
+    -   In this example, the right border of California was clicked and a pop-up showed that the area belongs to Region 6 of the Regional Boards.
 
-![](images/map-guide_navigate-layers.png)
+-   **Additional map properties** for exploration and analysis can be found on the panel on the right side of the screen for map properties and effects, to add a sketch, or to use measurement tools.
 
-\*To see more information, and the rest of the layers, **go to the Content Tab**.
+![](images/map-guide_navigate-layers.png){fig-alt="A screenshot of the Map with layers for Indigenous Territories and Regional Water Board Boundaries visible. Moving from left to right across the picture: Menu bar is expanded showing various map options including layers, legend, charts, basemap, tables, bookmarks, etc. Next to the menu bar, the layers tab is expanded showing some of the layers included on this map. A pop-up menu for Region 6 of the Regional Water Board Boundaries layer is above an inset that shows a picture of the legend. To the far right of the picture, a pink arrow is pointing to a pink box that highlights the map properties."}
 
-![](images/map-guide_content-tab.png){width="250"}
+## **Displaying/Removing View of Layers**
 
-## **Displaying/removing View of Layers**
+-   On the **Menu Bar**, click **Layers** . All the layers of the map will be listed (but not yet displayed). The layer categories (3.1, 3.2, 3.3, 3.4, and 3.5) are coordinated with the section in the [Layer Guide](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/layer-guide.html) that outlines each layer and its important/relevant information.
 
--   On the Contents Pane menu, all the layers of the map will be listed (but not yet displayed)
+-   Upon opening the map, only Regional Boards Boundaries and Indigenous Territories will be displayed. You can confirm this by looking at the layer name and seeing an eye icon (you may need to hover over the layer to see the eye icon). If the eye icon has a slash through it, that means the layer is [not]{.underline} currently visible on the map. You need to click on the eye icon specifically to display/remove the layer.
 
--   Only Regional Boards Boundaries and Indigenous Territories are displayed, and we can tell by the checked box to the left of the layer name.
+    -   If you just click the layer name and not the eye icon, you will pull up the **properties** information about that layer on the right side of the map (shown on the right hand side for Tribal Census Tract 2021 layer).
 
-![](images/map-guide_content-pane.png)
+![](images/map-guide_content-pane.png){fig-alt="A screenshot of the Map zoomed in with layers for Indigenous Territories and Regional Water Board Boundaries visible. Menu bar is expanded with Layers section selected. Spaces to the right of the layer names are outlined with a pink box. Bracket with label is present next to all Visible layers. Layers that are Not Visible are identified as such and represented by eye icon with a slash through it. Far right side of the picture shows Properties panel expanded as a result of clicking the layer name rather than the eye icon."}
 
 ## **Adjusting Layer Transparency**
 
 To change the transparency of the layers:
 
--   Hover over the layer you'd like to change the transparency.
+-   Select the layer of which you'd like to change the transparency:
 
--   Click on the three dots on below the layer name, on the right.
+    -   You can either click on the three dots next to the layer name and select "Show properties" [or]{.underline}
 
--   Select Transparency, and slide the button to the desired transparency.
+    -   You can click on the layer name and the properties panel will pop up on the right side of the screen.
 
-    The more transparency, the less visible the layer will be.
+-   Scroll down to **Appearance**
 
-![](images/map-guide_transparency.png)
+-   Select **Transparency**, and slide the button to the desired transparency
+
+    -   The more transparency, the less visible the layer will be.
+
+![](images/map-guide_transparency.png){fig-alt="A screenshot of the zoomed in Map with layers for Indigenous Territories and Regional Water Board Boundaries visible. Menu bar is expanded with Layers section selected. Indigenous Territories layer is selected, three dots to the right of layer name are clicked and the pop up menu shows list of options. The Show propoerties option is outlined with a pink box to indicate which option to select from the menu. The right side of the picture shows the expanded Properties menu for the Indigenous Terrtitories layer. the Appearance section is outlined with a pink box and there is a pink arrow pointing towards the transparency bar."}
