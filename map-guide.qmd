@@ -4,7 +4,7 @@ This guide serves to provide greater detail about functions within the Tribal Wa
 
 ## **Opening the Web Map**
 
-The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=f5b1251a504f451b8462d6de2fc18f36) will take you to the main Portal of the map where you will find basic information like:
+The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c1841907240e1a4d896c8cf2302a8) will take you to the main Portal of the map where you will find basic information like:
 
 1.  **Map viewing options**:
 
@@ -16,7 +16,8 @@ The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=f5b1251
 
 3.  **Layer dictionary**:
 
-    -   You can click on each of the layers and find out more detailed information, including the source.
+    -   You can click on each of the layers and find out more detailed information, including the source, a description of the source and the data, and the type of layer.
+    -   If you only want to visualize one specific layer, you can click on the layer name in the Layer Dictionary and choose "Visualization" in the top right corner
 
 4.  **Optional sign in**:
 

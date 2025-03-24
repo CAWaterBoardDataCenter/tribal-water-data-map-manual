@@ -66,7 +66,7 @@ If you found a data download hosted beyond internal agencies:
 
 1.  Click on the Tribal Water Data Initiatives Map to open it.
 
-2.  On the right, click "Open in Map Viewer Classic." 
+2.  On the right, click "Open in Map Viewer." 
 
 3.  At the bottom of the list of layers on the left, there will be a button to **Add a layer**. 
 
@@ -104,11 +104,11 @@ While you would typically want to find data downloads whose scope is only Califo
 
 1.  Open the data layer in ArcGIS Pro. 
 
-2.  Make sure you're logged into the OIMA credentials. Then, from "Portal," find "California_State_Boundary_shp." (This is a shapefile of California's border) and add it as a layer to the current map. 
+2.  Make sure you're logged into the OIMA credentials. Then, under "Catalog", on the right hand side, click the subheading "Portal," and find "California_State_Boundary_shp" in the "Misc" folder (This is a shapefile of California's border). Add it as a layer to the current map. 
 
-3.  In the Analysis tab at the top, go to "Tools." Search for "Clip."
+3.  On the top row of the ribbon toolbar, find the Analysis tab. From there, go to "Tools." Search for "Clip."
 
-4.  Use the data layer as the input field, and the California boundary shapefile as the clip feature.
+4.  Use the data layer as the input field, and the California boundary shapefile as the clip feature. Click "Run" at the bottom.
 
 5.  This new clipping should appear as a layer. Save it as a web layer if possible.
 

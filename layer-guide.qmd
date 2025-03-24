@@ -8,19 +8,19 @@ This guide serves to provide greater detail about each layer included in the Tri
 
 Layer displaying historic Indigenous Territories within California.
 
-![](images/layer-guide_indigenous-territories.png)
+![](images/layer-guide_indigenous-territories%20(2).png)
 
 Source: [native-land.ca](https://native-land.ca/)
 
 Data Update Frequency: As needed
 
-Contact: [Native Land Digital](https://native-land.ca/how-to-contribute/adding-maps/)
+Contact: [Native Land Digital](https://native-land.ca/contact)
 
-Native Land Digital strives to create and foster conversations about the history of colonialism, Indigenous ways of knowing, and settler-Indigenous relations, through educational resources such as our map and Territory Acknowledgement Guide. We strive to go beyond old ways of talking about Indigenous people and to develop a platform where Indigenous communities can represent themselves and their histories on their own terms. In doing so, Native Land Digital creates spaces where non-Indigenous people can be invited and challenged to learn more about the lands they inhabit, the history of those lands, and how to actively be part of a better future going forward together.
+[Native Land Digital](https://native-land.ca/about/why-it-matters) "strives to create and foster conversations about the history of colonialism, Indigenous ways of knowing, and settler-Indigenous relations, through educational resources such as our map and Territory Acknowledgement Guide. We strive to go beyond old ways of talking about Indigenous people and to develop a platform where Indigenous communities can represent themselves and their histories on their own terms. In doing so, Native Land Digital creates spaces where non-Indigenous people can be invited and challenged to learn more about the lands they inhabit, the history of those lands, and how to actively be part of a better future going forward together."
 
 ### Tribal Census Tract 2021
 
-Layer showing Tribal areas identified by the U.S. Census Bureau.
+Layer showing Tribal areas identified by the U.S. Census Bureau. Symbology for this layer is shown on the right hand side. You can zoom in further to see specific areas more closely.
 
 ![](images/layer-guide_tribal-census-tract.png)
 
@@ -30,7 +30,7 @@ Data Update Frequency: Every 10 years
 
 Contact: [U.S Census Bureau](https://www.census.gov/about/contact-us.html)
 
-### Indian Lands and Native Entities
+### American Indian Lands and Tribal Entities
 
 Layer showing American Indians Reservations/Federally Recognized Tribal Entities.
 
@@ -42,7 +42,7 @@ Data Update Frequency: As needed
 
 Contact: [Cal OES](https://www.caloes.ca.gov/office-of-the-director/policy-administration/tribal-coordination/)
 
-The American Indians Reservations/Federally Recognized Tribal Entities dataset depicts feature location, selected demographics and other associated data for the 561 Federally Recognized Tribal entities in the contiguous U.S. and Alaska. Categories included are: American Indian Reservations (AIR), Federally Recognized Tribal Entities (FRTE) and Alaska Native Villages (ANV).
+The American Indians Reservations/Federally Recognized Tribal Entities data set depicts feature location, selected demographics and other associated data for the 561 Federally Recognized Tribal entities in the contiguous U.S. and Alaska. Categories included are: American Indian Reservations (AIR), Federally Recognized Tribal Entities (FRTE) and Alaska Native Villages (ANV).
 
 ## CA Water Boards Layers
 
@@ -58,21 +58,31 @@ Data Update Frequency: As needed
 
 ### Regulated Wastewater Treatment & Discharge Facilities
 
-Layer showing NPDES and WDR facilities regulated by State Water Board programs, as reflected in the California Integrated Water Quality System (CIWQS) project.
+Layer showing National Pollutant Discharge Elimination System (NPDES) and Waste Discharge Requirements (WDR) facilities regulated by State Water Board programs, as reflected in the California Integrated Water Quality System (CIWQS) project.
 
 ![](images/layer-guide_regulated_facilities.png)
 
-These facilities mandatorily hold active permits to discharge into or alter the surface or ground water. More information about these permits can be found in the CIWQS database.
+These facilities are mandated to hold active permits to discharge into or alter the surface or ground water. More information about these permits can be found in the CIWQS database.
 
 Source: [California Integrated Water Quality System (CIWQS)](https://www.waterboards.ca.gov/ciwqs/publicreports.html)
 
 Data Update Frequency: Nightly
 
-## Environmental Data Layers
+### Sanitary Sewer System Spills
 
-### State Water Bodies (rivers, streams, and beaches)
+Layer showing locations with XXXXXXXX
 
-This layer shows linear waterbodies in California, such as rivers, streams, and beaches, which were assessed for 305(b) in the 2020-2022 California Integrated Report. Light green waterbodies are listed in Category 1, 2, or 3. Dark green waterbodies represent those placed on the 303(d) list of impaired waters.
+![](images/layer-guide_sanitary-sewer-spills.png)
+
+Source:
+
+Data Update Frequency:
+
+### 2024 Integrated Report
+
+#### State Water Bodies (rivers, streams, and beaches)
+
+This layer shows linear waterbodies in California, such as rivers, streams, and beaches, which were assessed for 305(b) in the 2022-2024 California Integrated Report. Blue waterbodies are listed in Category 1, 2, or 3. Orange waterbodies represent those placed on the 303(d) list of impaired waters.
 
 ![](images/layer-guide_integrated-report-linear.png)
 
@@ -84,9 +94,9 @@ Data Update Frequency: Every two years
 
 Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
 
-### State Water Bodies (bays, lakes and reservoirs)
+#### State Water Bodies (bays, lakes and reservoirs)
 
-This layer shows non-linear (polygon) waterbodies in California, such as bays, lakes, and reservoirs, which were assessed for 305(b) in the 2020-2022 California Integrated Report. Light green waterbodies are listed in Category 1, 2, or 3. Dark green waterbodies represent those placed on the 303(d) list of impaired waters.
+This layer shows non-linear (polygon) waterbodies in California, such as bays, lakes, and reservoirs, which were assessed for 305(b) in the 2020-2022 California Integrated Report. Blue waterbodies are listed in Category 1, 2, or 3. Orange waterbodies represent those placed on the 303(d) list of impaired waters.
 
 ![](images/layer-guide_integrated-report-non-linear.png)
 
@@ -97,6 +107,26 @@ Source: [California State Water Resources Control Board (SWRCB)](https://gispubl
 Data Update Frequency: Every 2 years
 
 Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
+
+### Waterbodies that haven't been assessed
+
+#### State Water Bodies (rivers, streams, and beaches)
+
+![](images/layer-guide_unassessedwaterbodies_rivers.png)
+
+#### State Water Bodies (bays, lakes and reservoirs)
+
+![](images/layer-guide-unassessedwaterbodies-bays.png)
+
+### Basin Plan Beneficial Uses
+
+#### State Water Bodies (rivers, streams, and beaches)
+
+![](images/layer-guide_basin-use.png)
+
+#### State Water Bodies (bays, lakes and reservoirs)
+
+## Environmental Data Layers
 
 ### CalEnviroScreen 4.0
 
@@ -114,6 +144,16 @@ Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenvir
 
 ### Aquifer Water Quality Risk
 
+#### State Small Water Systems
+
+![](images/layer-guide_small-water-systems.png)
+
+#### Source Data (All Contaminants)
+
+![](images/layer-guide_source-contaminants.png)
+
+#### Water Quality Risk by Section (All Contaminants)
+
 This layer shows estimated water quality risk for domestic wells and state small water systems for a variety of contaminants.
 
 ![](images/layer-guide-aquifer-water-quality.png)
@@ -126,9 +166,19 @@ Data Update Frequency: As needed
 
 Contact: [SAFER Program](https://www.waterboards.ca.gov/safer/)
 
+#### Arsenic
+
+#### Hexavalent Chromium
+
+#### Nitrate
+
+#### Tricholoropropane
+
+#### Uranium
+
 ### Drought Intensity
 
-This layer shows regions in California impacted by drought.
+Drought Outlook: This layer shows regions in California impacted by drought.
 
 ![](images/layer-guide_drought_intensity_layer.png)
 
