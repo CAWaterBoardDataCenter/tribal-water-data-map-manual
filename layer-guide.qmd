@@ -2,6 +2,8 @@
 
 This guide serves to provide greater detail about each layer included in the Tribal Water Data Map.
 
+[NOTE:]{.underline} When opening the map in Map Viewer, the **default** layers that will be displayed include the Indigenous Territories layer (at 50% transparency) and the California Regional Boards Boundaries. To see more details about these layers, read below or click on the layer in the [Layer Dictionary](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=16e2736dbf924effbbab3c771bf569fd) (see instructions on [Map Guide](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/map-guide.html) page)
+
 ## Tribal Land Layers
 
 ### Indigenous Territories
@@ -20,7 +22,7 @@ Contact: [Native Land Digital](https://native-land.ca/contact)
 
 ### Tribal Census Tract 2021
 
-Layer showing Tribal areas identified by the U.S. Census Bureau. Symbology for this layer is shown on the right hand side. You can zoom in further to see specific areas more closely.
+Layer showing Tribal areas identified by the U.S. Census Bureau. Symbology for this layer is shown on the right hand side. You can zoom in further to see specific areas more closely. **Note of limitation**:
 
 ![](images/layer-guide_tribal-census-tract.png)
 
@@ -128,19 +130,27 @@ Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov
 
 ## Environmental Data Layers
 
-### CalEnviroScreen 4.0
+### Oil and Gas Wells
 
-This layer shows the CalEnviroScreen (CES) 4.0 based on the CES Score percentile.
+This layer shows oil and gas well locations (and their associated records) across California.
 
-CalEnviroScreen is a screening methodology that can be used to help identify California communities that are disproportionately burdened by multiple sources of pollution.
+![](images/layer-guide-oil-gas-wells.png)
 
-![](images/layer-guide_cal-enviro-screen.png)
-
-Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+Source: [WellFinder](https://www.conservation.ca.gov/calgem/Pages/WellFinder.aspx), published by the California Department of Conservation and Geologic Energy Management Division
 
 Data Update Frequency: As needed
 
-Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
+### Mines
+
+This layer shows all mines in California.
+
+![](images/layer-guide-mines.png)
+
+This data is published with the intent to aid mine reclamation and is gathered via annual reports under Public Resources Code section 2207.
+
+Source: California Department of Conservation Division of Mine Reclamation
+
+Data Update Frequency: As needed
 
 ### Aquifer Water Quality Risk
 
@@ -220,11 +230,13 @@ Data Update Frequency: As needed
 
 Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
 
-### Agricultural Pesticides
+### CalEnviroScreen 4.0
 
-This indicator represents the reported use of 132 hazardous and volatile pesticides in 2017-2019. Only pesticides used on agricultural commodities are included in the indicator. The data is averaged over the census tract area, and some application may be adjacent to (instead of within) the census tract.
+This layer shows the CalEnviroScreen (CES) 4.0 based on the CES Score percentile.
 
-![](images/layer-guide_agricultural-pesticides.png)
+CalEnviroScreen is a screening methodology that can be used to help identify California communities that are disproportionately burdened by multiple sources of pollution. CI score ranges from 10 to 100, with
+
+![](images/layer-guide_cal-enviro-screen.png)
 
 Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
 
@@ -244,6 +256,18 @@ Data Update Frequency: As needed
 
 Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
+### Agricultural Pesticides
+
+This indicator represents the reported use of 132 hazardous and volatile pesticides in 2017-2019. Only pesticides used on agricultural commodities are included in the indicator. The data is averaged over the census tract area, and some application may be adjacent to (instead of within) the census tract.
+
+![](images/layer-guide_agricultural-pesticides.png)
+
+Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+
+Data Update Frequency: As needed
+
+Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
+
 ### Household Plumbing Adequacy
 
 This layer shows the ratio of households that do *not* have access to adequate plumbing.
@@ -256,7 +280,7 @@ Source: [California Healthy Places Index (HPI)](https://www.healthyplacesindex.o
 
 Data Update Frequency: Dependent on HPI's component indicators, typically annually
 
-## Other Government Layers
+## Land Use Layers
 
 ### Non-private Land Holders
 
@@ -267,6 +291,34 @@ This layer shows boundaries for non-private land holders in California.
 Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fgispublic.waterboards.ca.gov%2Fportalserver%2Frest%2Fservices%2FHosted%2FNonPrivate_California_Land_Ownership%2FFeatureServer%2F0&source=sd)
 
 Data Update Frequency: As needed
+
+### California National Parks 
+
+### State Park Boundaries
+
+This layer shows the State Parks in California.
+
+![](images/layer-guide_statepark-boundaries-01.png)
+
+Source: [California Dept. of Pesticides Regulation (DPR)](https://www.parks.ca.gov/?page_id=29682)
+
+Data Update Frequency: As needed
+
+### County Boundaries
+
+This layer shows County boundaries within California.
+
+![](images/layer-guide_california-counties.png)
+
+In this dataset, all bays (plus bay islands and constructed features) are merged into the mainland, and coastal features (such as islands and constructed features) are not included, with the exception of the Channel Islands which ARE included.
+
+Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://hub.arcgis.com/datasets/CALFIRE-Forestry::california-counties/about)
+
+Data Update Frequency: As needed
+
+### Census Tracts 
+
+## Groundwater Layers
 
 ### Groundwater Basins
 
@@ -285,49 +337,5 @@ This layer shows the boundaries of California's Groundwater Sustainability Agenc
 ![](images/layer-guide-gsa-boundaries.png)
 
 Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e), for use by [Groundwater Ambient Monitoring and Assessment (GAMA) Program](https://www.waterboards.ca.gov/gama/)
-
-Data Update Frequency: As needed
-
-### Oil and Gas Wells
-
-This layer shows oil and gas well locations (and their associated records) across California.
-
-![](images/layer-guide-oil-gas-wells.png)
-
-Source: [WellFinder](https://www.conservation.ca.gov/calgem/Pages/WellFinder.aspx), published by the California Department of Conservation and Geologic Energy Management Division
-
-Data Update Frequency: As needed
-
-### Mines
-
-This layer shows all mines in California.
-
-![](images/layer-guide-mines.png)
-
-This data is published with the intent to aid mine reclamation and is gathered via annual reports under Public Resources Code section 2207.
-
-Source: California Department of Conservation Division of Mine Reclamation
-
-Data Update Frequency: As needed
-
-### County Boundaries
-
-This layer shows County boundaries within California.
-
-![](images/layer-guide_california-counties.png)
-
-In this dataset, all bays (plus bay islands and constructed features) are merged into the mainland, and coastal features (such as islands and constructed features) are not included, with the exception of the Channel Islands which ARE included.
-
-Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://hub.arcgis.com/datasets/CALFIRE-Forestry::california-counties/about)
-
-Data Update Frequency: As needed
-
-### State Park Boundaries
-
-This layer shows the State Parks in California.
-
-![](images/layer-guide_statepark-boundaries-01.png)
-
-Source: [California Dept. of Pesticides Regulation (DPR)](https://www.parks.ca.gov/?page_id=29682)
 
 Data Update Frequency: As needed
