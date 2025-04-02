@@ -2,7 +2,11 @@
 
 This guide serves to provide greater detail about each layer included in the Tribal Water Data Map.
 
-[NOTE:]{.underline} When opening the map in Map Viewer, the **default** layers that will be displayed include the Indigenous Territories layer (at 50% transparency) and the California Regional Boards Boundaries. To see more details about these layers, read below or click on the layer in the [Layer Dictionary](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=16e2736dbf924effbbab3c771bf569fd) (see instructions on [Map Guide](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/map-guide.html) page)
+::: callout-note
+## Note on default map settings
+
+When opening the map in Map Viewer, the **default** layers that will be displayed include the Indigenous Territories layer (at 50% transparency) and the California Regional Boards Boundaries. To see more details about these layers, read below or click on the layer in the [Layer Dictionary](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=16e2736dbf924effbbab3c771bf569fd) (see instructions on [Map Guide](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/map-guide.html) page)
+:::
 
 ## Tribal Land Layers
 
@@ -81,6 +85,10 @@ Source:
 Data Update Frequency:
 
 ### 2024 Integrated Report
+
+::: callout-warning
+add links or more text to make it so that if anyone who has never heard of IR can understand this layer
+:::
 
 #### State Water Bodies (rivers, streams, and beaches)
 
@@ -292,7 +300,7 @@ Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://www
 
 Data Update Frequency: As needed
 
-### California National Parks 
+### California National Parks
 
 ### State Park Boundaries
 
@@ -316,7 +324,7 @@ Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://hub
 
 Data Update Frequency: As needed
 
-### Census Tracts 
+### Census Tracts
 
 ## Groundwater Layers
 

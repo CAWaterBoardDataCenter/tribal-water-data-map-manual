@@ -19,11 +19,7 @@ The [link](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=a71c184
     -   You can click on each of the layers and find out more detailed information, including the source, a description of the source and the data, and the type of layer.
     -   If you only want to visualize one specific layer, you can click on the layer name in the Layer Dictionary and choose "Visualization" in the top right corner
 
-4.  **Optional sign in**:
-
-    -   It isn't necessary, but if you have an account with ESRI, you can sign in.
-
-![](images/map-guide_open-map.png){fig-alt="A screenshot of the Tribal Water Data Map home page with arrows pointing to basic information described above."}
+![](images/map-guide_open-map.png){fig-alt="A screenshot of the Tribal Water Data Map home page with arrows pointing to: 1. Map Viewing Options button, 2. Map Description, and 3. Layer Dictionary"}
 
 ## **Navigating the Map**
 
