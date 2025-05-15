@@ -10,20 +10,6 @@ When opening the map in Map Viewer, the **default** layers that will be displaye
 
 ## Tribal Land Layers
 
-### Indigenous Territories
-
-Layer displaying historic Indigenous Territories within California.
-
-![](images/layer-guide_indigenous-territories%20(2).png)
-
-Source: [native-land.ca](https://native-land.ca/)
-
-Data Update Frequency: As needed
-
-Contact: [Native Land Digital](https://native-land.ca/contact)
-
-[Native Land Digital](https://native-land.ca/about/why-it-matters) "strives to create and foster conversations about the history of colonialism, Indigenous ways of knowing, and settler-Indigenous relations, through educational resources such as our map and Territory Acknowledgement Guide. We strive to go beyond old ways of talking about Indigenous people and to develop a platform where Indigenous communities can represent themselves and their histories on their own terms. In doing so, Native Land Digital creates spaces where non-Indigenous people can be invited and challenged to learn more about the lands they inhabit, the history of those lands, and how to actively be part of a better future going forward together."
-
 ### Tribal Census Tract 2021
 
 Layer showing Tribal areas identified by the U.S. Census Bureau. Symbology for this layer is shown on the right hand side. You can zoom in further to see specific areas more closely. **Note of limitation**:
@@ -50,44 +36,44 @@ Contact: [Cal OES](https://www.caloes.ca.gov/office-of-the-director/policy-admin
 
 The American Indians Reservations/Federally Recognized Tribal Entities data set depicts feature location, selected demographics and other associated data for the 561 Federally Recognized Tribal entities in the contiguous U.S. and Alaska. Categories included are: American Indian Reservations (AIR), Federally Recognized Tribal Entities (FRTE) and Alaska Native Villages (ANV).
 
-## CA Water Boards Layers
+### Indigenous Territories
 
-### Regional Water Board Boundaries
+Layer displaying historic Indigenous Territories within California.
 
-Layer showing the boundaries of the nine Regional Water Quality Control Boards in California.
+![](images/layer-guide_indigenous-territories%20(2).png)
 
-![](images/layer-guide_regional-board-boundaries.png)
-
-Source: [California State Water Resources Control Board (SWRCB)](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/0)
+Source: [native-land.ca](https://native-land.ca/)
 
 Data Update Frequency: As needed
 
-### Regulated Wastewater Treatment & Discharge Facilities
+Contact: [Native Land Digital](https://native-land.ca/contact)
 
-Layer showing National Pollutant Discharge Elimination System (NPDES) and Waste Discharge Requirements (WDR) facilities regulated by State Water Board programs, as reflected in the California Integrated Water Quality System (CIWQS) project.
+[Native Land Digital](https://native-land.ca/about/why-it-matters) "strives to create and foster conversations about the history of colonialism, Indigenous ways of knowing, and settler-Indigenous relations, through educational resources such as our map and Territory Acknowledgement Guide. We strive to go beyond old ways of talking about Indigenous people and to develop a platform where Indigenous communities can represent themselves and their histories on their own terms. In doing so, Native Land Digital creates spaces where non-Indigenous people can be invited and challenged to learn more about the lands they inhabit, the history of those lands, and how to actively be part of a better future going forward together."
 
-![](images/layer-guide_regulated_facilities.png)
-
-These facilities are mandated to hold active permits to discharge into or alter the surface or ground water. More information about these permits can be found in the CIWQS database.
-
-Source: [California Integrated Water Quality System (CIWQS)](https://www.waterboards.ca.gov/ciwqs/publicreports.html)
-
-Data Update Frequency: Nightly
-
-### Sanitary Sewer System Spills
-
-Layer showing locations with XXXXXXXX
-
-![](images/layer-guide_sanitary-sewer-spills.png)
-
-Source:
-
-Data Update Frequency:
+## Integrated Report and Beneficial Use Layers
 
 ### 2024 Integrated Report
 
-::: callout-warning
-add links or more text to make it so that if anyone who has never heard of IR can understand this layer
+::: callout-important
+**What is the Integrated Report?**
+
+Waterbodies assessed in the Integrated Report (IR) include surface waterbodies, such as rivers, lakes, and beaches.
+
+Assessed waterbodies are placed into one of five Integrated Report Condition Categories based on the waterbody's ability to support beneficial use(s).
+
+The 303(d) list consists of the waterbodies in Categories 4a, 4b, and 5. These waterbodies can be referred to as "listed" or "impaired".
+
+-   The 303(d) list is based off of Section 303(d) of the Clean Water Act, which requires each state to identify waters that do not meet water quality standards and to prioritize those waters for development of total maximum daily load (TMDL)
+
+-   The Clean Water Act also requires each state to report on the overall condition of its surface waterbodies, which is Section 305(b).
+
+California combines its 303(d) lists and 305(b) reports into a single "California Integrated Report".
+
+For more information see:
+
+[CEDEN - California Environmental Data Exchange Network](https://ceden.org/303d_list.shtml)
+
+[2024 Integrated Report \| California State Water Resources Control Board](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/2024-integrated-report.html)
 :::
 
 #### State Water Bodies (rivers, streams, and beaches)
@@ -130,13 +116,85 @@ Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov
 
 ### Basin Plan Beneficial Uses
 
+::: callout-important
+**What are Beneficial Uses?**
+:::
+
 #### State Water Bodies (rivers, streams, and beaches)
 
 ![](images/layer-guide_basin-use.png)
 
 #### State Water Bodies (bays, lakes and reservoirs)
 
-## Environmental Data Layers
+## CalEnviroScreen
+
+### CalEnviroScreen 4.0
+
+This layer shows the CalEnviroScreen (CES) 4.0 based on the CES Score percentile.
+
+CalEnviroScreen is a screening methodology that can be used to help identify California communities that are disproportionately burdened by multiple sources of pollution. CI score ranges from 10 to 100. For more information on CalEnviroScreen scoring, see Practice Examples page.
+
+![](images/layer-guide_cal-enviro-screen.png)
+
+Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+
+Data Update Frequency: As needed
+
+Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
+
+### Disadvantaged Communities
+
+This map shows the disadvantaged communities designated by CalEPA for the purpose of SB 535. These areas represent the 25% highest scoring census tracts in CalEnviroScreen 4.0, census tracts previously identified in the top 25% in CalEnviroScreen 3.0, census tracts with high amounts of pollution and low populations, and federally recognized tribal areasas identified by the Census in the 2021 American Indian Areas Related National Geodatabase.
+
+![](images/layer-guide_disadvantaged-communities.png)
+
+Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+
+Data Update Frequency: As needed
+
+Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
+
+## Pollution Indicators
+
+### Agricultural Pesticides
+
+This indicator represents the reported use of 132 hazardous and volatile pesticides in 2017-2019. Only pesticides used on agricultural commodities are included in the indicator. The data is averaged over the census tract area, and some application may be adjacent to (instead of within) the census tract.
+
+![](images/layer-guide_agricultural-pesticides.png)
+
+Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+
+Data Update Frequency: As needed
+
+Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
+
+### Superfund Sites
+
+This layer shows Superfund Site locations and data on the inventory of active and archived hazardous waste sites evaluated by the EPA's Superfund program.
+
+![](images/layer-guide_superfund-sites.png)
+
+This data provides location and attribute information on Facilities regulated under the Superfund Enterprise Management System (SEMS). It contains sites that are either proposed to be, or are on, the National Priorities List (NPL) as well as sites that are in the screening and assessment phase for possible inclusion on the NPL.
+
+Source: [U.S. Environmental Protection Agency (EPA)](https://gispub.epa.gov/arcgis/rest/services/OEI/FRS_INTERESTS/MapServer/21)
+
+Data Update Frequency: As needed
+
+Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
+
+### NPL Superfund Site Boundaries
+
+This layer shows entire Superfund Site boundaries.
+
+![](images/layer-guide_npl-superfund-boundaries.png)
+
+U.S. EPA Superfund Site boundaries are polygons representing the footprint of a whole site, defined for purposes of this effort as the sum of all of the Operable Units and the current understanding of the full extent of contamination.
+
+Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/organization/epa-gov)
+
+Data Update Frequency: As needed
+
+Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
 
 ### Oil and Gas Wells
 
@@ -194,6 +252,46 @@ Contact: [SAFER Program](https://www.waterboards.ca.gov/safer/)
 
 #### Uranium
 
+### Regulated Wastewater Treatment & Discharge Facilities
+
+Layer showing National Pollutant Discharge Elimination System (NPDES) and Waste Discharge Requirements (WDR) facilities regulated by State Water Board programs, as reflected in the California Integrated Water Quality System (CIWQS) project.
+
+![](images/layer-guide_regulated_facilities.png)
+
+These facilities are mandated to hold active permits to discharge into or alter the surface or ground water. More information about these permits can be found in the CIWQS database.
+
+Source: [California Integrated Water Quality System (CIWQS)](https://www.waterboards.ca.gov/ciwqs/publicreports.html)
+
+Data Update Frequency: Nightly
+
+### Sanitary Sewer System Spills
+
+Layer showing locations with XXXXXXXX
+
+![](images/layer-guide_sanitary-sewer-spills.png)
+
+Source:
+
+Data Update Frequency:
+
+### Household Plumbing Adequacy
+
+This layer shows the ratio of households that do *not* have access to adequate plumbing.
+
+![](images/layer-guide-plumbing-adequacy.png)
+
+This statistic is what determines a household as "livable" according to source California Healthy Places Index (HPI).
+
+Source: [California Healthy Places Index (HPI)](https://www.healthyplacesindex.org/)
+
+Data Update Frequency: Dependent on HPI's component indicators, typically annually
+
+## Water Quality
+
+*New layers coming soon*
+
+## Climate Change Indicators
+
 ### Drought Intensity
 
 Drought Outlook: This layer shows regions in California impacted by drought.
@@ -208,87 +306,45 @@ Data Update Frequency: Weekly, on Thursdays
 
 Contact: [National Drought Mitigation Center (NDMC)](https://drought.unl.edu/)
 
-## Environmental Justice Layers
+## Hydrology
 
-### Superfund Sites
+### Groundwater Basins
 
-This layer shows Superfund Site locations and data on the inventory of active and archived hazardous waste sites evaluated by the EPA's Superfund program.
+This layer shows the boundaries of 515 groundwater basins and subbasins as defined by the California Department of Water Resources.
 
-![](images/layer-guide_superfund-sites.png)
+![](images/layer-guide-groundwater-basins.png)
 
-This data provides location and attribute information on Facilities regulated under the Superfund Enterprise Management System (SEMS). It contains sites that are either proposed to be, or are on, the National Priorities List (NPL) as well as sites that are in the screening and assessment phase for possible inclusion on the NPL.
-
-Source: [U.S. Environmental Protection Agency (EPA)](https://gispub.epa.gov/arcgis/rest/services/OEI/FRS_INTERESTS/MapServer/21)
+Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e)
 
 Data Update Frequency: As needed
 
-Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
+### Hydrography, Water Boundaries
 
-### NPL Superfund Site Boundaries
+## Geopolitical Boundaries
 
-This layer shows entire Superfund Site boundaries.
+### Regional Water Board Boundaries
 
-![](images/layer-guide_npl-superfund-boundaries.png)
+Layer showing the boundaries of the nine Regional Water Quality Control Boards in California.
 
-U.S. EPA Superfund Site boundaries are polygons representing the footprint of a whole site, defined for purposes of this effort as the sum of all of the Operable Units and the current understanding of the full extent of contamination.
+![](images/layer-guide_regional-board-boundaries.png)
 
-Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/organization/epa-gov)
-
-Data Update Frequency: As needed
-
-Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
-
-### CalEnviroScreen 4.0
-
-This layer shows the CalEnviroScreen (CES) 4.0 based on the CES Score percentile.
-
-CalEnviroScreen is a screening methodology that can be used to help identify California communities that are disproportionately burdened by multiple sources of pollution. CI score ranges from 10 to 100, with
-
-![](images/layer-guide_cal-enviro-screen.png)
-
-Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+Source: [California State Water Resources Control Board (SWRCB)](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/0)
 
 Data Update Frequency: As needed
 
-Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
+### Census Tracts
 
-### Disadvantaged Communities
+### County Boundaries
 
-This map shows the disadvantaged communities designated by CalEPA for the purpose of SB 535. These areas represent the 25% highest scoring census tracts in CalEnviroScreen 4.0, census tracts previously identified in the top 25% in CalEnviroScreen 3.0, census tracts with high amounts of pollution and low populations, and federally recognized tribal areasas identified by the Census in the 2021 American Indian Areas Related National Geodatabase.
+This layer shows County boundaries within California.
 
-![](images/layer-guide_disadvantaged-communities.png)
+![](images/layer-guide_california-counties.png)
 
-Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+In this dataset, all bays (plus bay islands and constructed features) are merged into the mainland, and coastal features (such as islands and constructed features) are not included, with the exception of the Channel Islands which ARE included.
 
-Data Update Frequency: As needed
-
-Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
-
-### Agricultural Pesticides
-
-This indicator represents the reported use of 132 hazardous and volatile pesticides in 2017-2019. Only pesticides used on agricultural commodities are included in the indicator. The data is averaged over the census tract area, and some application may be adjacent to (instead of within) the census tract.
-
-![](images/layer-guide_agricultural-pesticides.png)
-
-Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://hub.arcgis.com/datasets/CALFIRE-Forestry::california-counties/about)
 
 Data Update Frequency: As needed
-
-Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
-
-### Household Plumbing Adequacy
-
-This layer shows the ratio of households that do *not* have access to adequate plumbing.
-
-![](images/layer-guide-plumbing-adequacy.png)
-
-This statistic is what determines a household as "livable" according to source California Healthy Places Index (HPI).
-
-Source: [California Healthy Places Index (HPI)](https://www.healthyplacesindex.org/)
-
-Data Update Frequency: Dependent on HPI's component indicators, typically annually
-
-## Land Use Layers
 
 ### Non-private Land Holders
 
@@ -312,32 +368,6 @@ Source: [California Dept. of Pesticides Regulation (DPR)](https://www.parks.ca.g
 
 Data Update Frequency: As needed
 
-### County Boundaries
-
-This layer shows County boundaries within California.
-
-![](images/layer-guide_california-counties.png)
-
-In this dataset, all bays (plus bay islands and constructed features) are merged into the mainland, and coastal features (such as islands and constructed features) are not included, with the exception of the Channel Islands which ARE included.
-
-Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://hub.arcgis.com/datasets/CALFIRE-Forestry::california-counties/about)
-
-Data Update Frequency: As needed
-
-### Census Tracts
-
-## Groundwater Layers
-
-### Groundwater Basins
-
-This layer shows the boundaries of 515 groundwater basins and subbasins as defined by the California Department of Water Resources.
-
-![](images/layer-guide-groundwater-basins.png)
-
-Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e)
-
-Data Update Frequency: As needed
-
 ### Groundwater Sustainability Agencies
 
 This layer shows the boundaries of California's Groundwater Sustainability Agencies as defined on the DWR SGMA Data Viewer.
@@ -347,3 +377,5 @@ This layer shows the boundaries of California's Groundwater Sustainability Agenc
 Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e), for use by [Groundwater Ambient Monitoring and Assessment (GAMA) Program](https://www.waterboards.ca.gov/gama/)
 
 Data Update Frequency: As needed
+
+### Marine Protected Areas
