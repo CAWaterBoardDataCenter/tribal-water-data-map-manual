@@ -5,50 +5,100 @@ This guide serves to provide greater detail about each layer included in the Tri
 ::: callout-note
 ## Note on default map settings
 
-When opening the map in Map Viewer, the **default** layers that will be displayed include the Indigenous Territories layer (at 50% transparency) and the California Regional Boards Boundaries. To see more details about these layers, read below or click on the layer in the [Layer Dictionary](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=16e2736dbf924effbbab3c771bf569fd) (see instructions on [Map Guide](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/map-guide.html) page)
+When opening the map in Map Viewer, the **default** layers that will be displayed include all 7 (seven) of the Bureau of Indian Affairs layers and the California Regional Boards Boundaries. To see more details about these layers, read below or click on the layer in the [Layer Dictionary](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=16e2736dbf924effbbab3c771bf569fd) (see instructions on [Map Guide](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/map-guide.html) page)
 :::
 
 ## Tribal Land Layers
 
-### Tribal Census Tract 2021
+### Bureau of Indian Affairs (BIA)
 
-Layer showing Tribal areas identified by the U.S. Census Bureau. Symbology for this layer is shown on the right hand side. You can zoom in further to see specific areas more closely. **Note of limitation**:
+Layer displaying areas of XXXX .
 
-![](images/layer-guide_tribal-census-tract.png)
-
-Source: [U.S. Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2021&layergroup=American+Indian+Area+Geography)
-
-Data Update Frequency: Every 10 years
-
-Contact: [U.S Census Bureau](https://www.census.gov/about/contact-us.html)
-
-### American Indian Lands and Tribal Entities
-
-Layer showing American Indians Reservations/Federally Recognized Tribal Entities.
-
-![](images/layer-guide_indian-lands-native-entities.png)
-
-Source: [California Governor's Office of Emergency Services (Cal OES)](https://calema.maps.arcgis.com/home/item.html?id=0b6c3f61f0c04168b2de56ac321ab76d)
+Source: [Bureau of Indian Affairs](https://www.bia.gov/sites/default/files/dup/assets/bia/pacreg/PRO_Indian_Lands.gdb_.zip), from the [Pacific Regional Office](https://www.bia.gov/regional-offices/pacific) (PRO)
 
 Data Update Frequency: As needed
 
-Contact: [Cal OES](https://www.caloes.ca.gov/office-of-the-director/policy-administration/tribal-coordination/)
+Last Updated: June 29th, 2021, added to Tribal Water Data Map in May 2025
 
-The American Indians Reservations/Federally Recognized Tribal Entities data set depicts feature location, selected demographics and other associated data for the 561 Federally Recognized Tribal entities in the contiguous U.S. and Alaska. Categories included are: American Indian Reservations (AIR), Federally Recognized Tribal Entities (FRTE) and Alaska Native Villages (ANV).
+Contact: [BIA](https://www.bia.gov/bia)
+
+[BIA's](https://www.bia.gov/bia) mission is to "enhance the quality of life, promote economic opportunities, and to carry out the federal responsibilities entrusted to us to protect and improve the trust assets of American Indians and Alaska Natives. We accomplish this by directly empowering Tribal governments through self-governance agreements."
+
+#### Bureau_of_Land_Management_Lots
+
+This sublayers includes data about Bureau of Land Management (BLM) lands that are managed within the boundaries of BIA lands.
+
+*screenshot here*
+
+#### Indian_Lands
+
+"The term “Indian land” means: (A) Any land located within the boundaries of an Indian reservation, pueblo, or rancheria; (B) Any land not located within the boundaries of an Indian reservation, pueblo, or rancheria, the title to which is help: (i) In trust by the United States for the benefit of an Indian tribe or an individual Indian; (ii) By an Indian tribe or an individual Indian, subject to restriction against alienation under laws of the United States Definition: Indian land from 25 USC § 3501(2) \| LII / Legal Information Institute", [BIA Tract Viewer - Catalog](https://catalog.data.gov/dataset/bia-tract-viewer-ca86a)
+
+*screenshot here*
+
+#### Land_Grants
+
+*screenshot here*
+
+#### Public_Domain_Allotment_Tracts
+
+These are parcels of Tribal lands, typically up to 160 acres, that were divided up and "allotted" to individual Tribal members, see: [Allotment Act of 1887](https://www.bia.gov/bia/history/history-indian-land-consolidation#:~:text=In%201887%2C%20Congress%20enacted%20the,allotted%E2%80%9D%20to%20individual%20Tribal%20members.). 
+
+*screenshot here*
+
+#### Reservation_Boundary
+
+This sublayer refers to the outer limits or perimeter of federal American Indian reservations. These boundaries are established by treaties, agreements, executive orders, or other federal actions and define the land reserved for a Tribe or Tribes.
+
+#### Reservation_Tracts
+
+*screenshot here*
+
+#### All_Tracts
+
+*screenshot here*
 
 ### Indigenous Territories
 
 Layer displaying historic Indigenous Territories within California.
 
-![](images/layer-guide_indigenous-territories%20(2).png)
-
-Source: [native-land.ca](https://native-land.ca/)
+Source: [Water Boards ArcGIS Portal](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=c21e3128ad4b4f68b041420c3f19c4c8), data used in this layer was accessed and downloaded from [native-land.ca](https://native-land.ca/)
 
 Data Update Frequency: As needed
+
+Last Updated: May 2024
 
 Contact: [Native Land Digital](https://native-land.ca/contact)
 
 [Native Land Digital](https://native-land.ca/about/why-it-matters) "strives to create and foster conversations about the history of colonialism, Indigenous ways of knowing, and settler-Indigenous relations, through educational resources such as our map and Territory Acknowledgement Guide. We strive to go beyond old ways of talking about Indigenous people and to develop a platform where Indigenous communities can represent themselves and their histories on their own terms. In doing so, Native Land Digital creates spaces where non-Indigenous people can be invited and challenged to learn more about the lands they inhabit, the history of those lands, and how to actively be part of a better future going forward together."
+
+### Other Sources of American Indian and Tribal Land
+
+#### Tribal Census Tract 2021
+
+Layer showing Tribal areas identified by the U.S. Census Bureau. You can zoom in further to see specific areas more closely.
+
+Source: [U.S. Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=American+Indian+Area+Geography), [TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
+
+Data Update Frequency: Every 10 years
+
+Last updated: 2024
+
+Contact: [U.S Census Bureau](https://www.census.gov/about/contact-us.html)
+
+#### American Indian Lands and Tribal Entities
+
+Layer showing American Indians Reservations/Federally Recognized Tribal Entities.
+
+Source: [California Governor's Office of Emergency Services (Cal OES)](https://calema.maps.arcgis.com/home/item.html?id=0b6c3f61f0c04168b2de56ac321ab76d)
+
+Data Update Frequency: As needed
+
+Last updated: 2019
+
+Contact: [Cal OES](https://www.caloes.ca.gov/office-of-the-director/policy-administration/tribal-coordination/)
+
+The American Indians Reservations/Federally Recognized Tribal Entities data set depicts feature location, selected demographics and other associated data for the 561 Federally Recognized Tribal entities in the contiguous U.S. and Alaska. Categories included are: American Indian Reservations (AIR), Federally Recognized Tribal Entities (FRTE) and Alaska Native Villages (ANV).
 
 ## Integrated Report and Beneficial Use Layers
 
@@ -252,6 +302,18 @@ Contact: [SAFER Program](https://www.waterboards.ca.gov/safer/)
 
 #### Uranium
 
+### Cleanup Program Sites
+
+::: callout-note
+The Cleanup Program Sites have 36 different classifications. For ease of viewing on this map, we have combined similar classifications into groups. You can find the specific classification if you click on the individual point of interest, or you can refer here for the full list.
+:::
+
+Source: [GeoTracker](https://geotracker.waterboards.ca.gov/datadownload)
+
+Data Update Frequency: Daily
+
+Last Updated: downloaded 2025/05/21
+
 ### Regulated Wastewater Treatment & Discharge Facilities
 
 Layer showing National Pollutant Discharge Elimination System (NPDES) and Waste Discharge Requirements (WDR) facilities regulated by State Water Board programs, as reflected in the California Integrated Water Quality System (CIWQS) project.
@@ -320,6 +382,16 @@ Data Update Frequency: As needed
 
 ### Hydrography, Water Boundaries
 
+The California Interagency Watershed Map is the State of California's working definition of watershed boundaries. Previous Calwater versions described California watersheds, beginning with the division of the State's 101 million acres into ten **Hydrologic Regions** (HR). Each HR is progressively subdivided into six smaller, nested levels: the **Hydrologic Unit** (HU, major rivers), **Hydrologic Area** (HA, major tributaries), **Hydrologic Sub-Area** (HSA), Super Planning Watershed (**SPW**), and Planning Watershed (**PW**), with the Planning Watershed as the most detailed level. See [metadata](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=6f85ec66bc004820a00de6f5ac8be24d) for more information.
+
+*Screenshot here*
+
+Source: [CalWater Watersheds - Overview](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=816893ddab33434989eda92dbc0e126f)
+
+Data Update Frequency: As needed
+
+Last Updated: September 7th, 2023
+
 ## Geopolitical Boundaries
 
 ### Regional Water Board Boundaries
@@ -379,3 +451,25 @@ Source: [California Department of Water Resources](https://data.ca.gov/dataset/i
 Data Update Frequency: As needed
 
 ### Marine Protected Areas
+
+California's MPA Network includes different types of MPAs as well as other designations. Each designation is unique in its purpose and allowed uses - [CDFW](https://wildlife.ca.gov/Conservation/Marine/MPAs/About)
+
+[State Marine Reserve (SMP):]{.underline} An MPA where no take, damage, injury, or possession of any living, geologic, or cultural marine resource is allowed.
+
+[No-Take State Marine Conservation Area (NoTake SMCA):]{.underline} An MPA where no take of any living, geologic, or cultural resource is allowed, EXCEPT for take incidental to specified activities permitted by other agencies (e.g. infrastructure maintenance, sand renourishment).
+
+[State Marine Park (SMP)]{.underline}: An MPA that allows some recreational take but does not allow commerical take.
+
+[State Marine Conservation Area (SMCA)]{.underline}: An MPA where some recreational and/or commercial take of marine resources may be allowed (restrictions vary)
+
+[State Marine Recreational Management Area (SMRMA)]{.underline}: A marine managed area where some take of marine resources may be allowed and legal waterfowl hunting is allowed (restrictions vary)
+
+[Special Closure]{.underline}: Prohibits or restricts access in waters adjacent to seabird rookeries or marine mammal haul-out sites.
+
+*Screenshot here*
+
+Source: [WaterBoards Hosted ArcGIS REST Services](https://gispublic.waterboards.ca.gov/portalserver/rest/services/California_MPAs/MapServer/0)
+
+Data Update Frequency: As needed
+
+Last Updated: 2019
