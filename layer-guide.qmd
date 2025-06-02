@@ -86,11 +86,11 @@ Last updated: 2024
 
 Contact: [U.S Census Bureau](https://www.census.gov/about/contact-us.html)
 
-#### American Indian Lands and Tribal Entities
+#### Tribal and Native Entities
 
 Layer showing American Indians Reservations/Federally Recognized Tribal Entities.
 
-Source: [California Governor's Office of Emergency Services (Cal OES)](https://calema.maps.arcgis.com/home/item.html?id=0b6c3f61f0c04168b2de56ac321ab76d)
+Source: [California Governor's Office of Emergency Services (Cal OES)](https://calema.maps.arcgis.com/apps/mapviewer/index.html?layers=0b6c3f61f0c04168b2de56ac321ab76d)
 
 Data Update Frequency: As needed
 
@@ -226,7 +226,7 @@ This layer shows Superfund Site locations and data on the inventory of active an
 
 This data provides location and attribute information on Facilities regulated under the Superfund Enterprise Management System (SEMS). It contains sites that are either proposed to be, or are on, the National Priorities List (NPL) as well as sites that are in the screening and assessment phase for possible inclusion on the NPL.
 
-Source: [U.S. Environmental Protection Agency (EPA)](https://gispub.epa.gov/arcgis/rest/services/OEI/FRS_INTERESTS/MapServer/21)
+Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/dataset/epa-facility-registry-service-frs-sems8)
 
 Data Update Frequency: As needed
 
@@ -240,9 +240,11 @@ This layer shows entire Superfund Site boundaries.
 
 U.S. EPA Superfund Site boundaries are polygons representing the footprint of a whole site, defined for purposes of this effort as the sum of all of the Operable Units and the current understanding of the full extent of contamination.
 
-Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/organization/epa-gov)
+Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/dataset/npl-superfund-site-boundaries-epa10)
 
-Data Update Frequency: As needed
+Data Update Frequency: Monthly
+
+Last updated: May 25th, 2025
 
 Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
 
