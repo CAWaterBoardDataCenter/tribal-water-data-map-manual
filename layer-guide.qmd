@@ -338,18 +338,6 @@ Source:
 
 Data Update Frequency:
 
-### Household Plumbing Adequacy
-
-This layer shows the ratio of households that do *not* have access to adequate plumbing.
-
-![](images/layer-guide-plumbing-adequacy.png)
-
-This statistic is what determines a household as "livable" according to source California Healthy Places Index (HPI).
-
-Source: [California Healthy Places Index (HPI)](https://www.healthyplacesindex.org/)
-
-Data Update Frequency: Dependent on HPI's component indicators, typically annually
-
 ## Water Quality
 
 *New layers coming soon*
