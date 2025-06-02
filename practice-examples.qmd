@@ -1,0 +1,215 @@
+# Guided Practice for Map Functions
+
+::: callout-important
+Workshop the title for this at next SWAMP co-working
+
+what are your ideas for helpful GIS tools
+:::
+
+New to GIS or looking for a refresher? This chapter will walk you through several example questions for various ways you can interact with and use the Tribal Water Data Map. These questions are primarily centered around providing tools to help you answer monitoring questions and learn more about the environmental pollutants nearest your area of interest.
+
+For consistency, each of these examples will use the Clear Lake area as the denoted "land of interest"; however, you can easily follow each of these steps by replacing Clear Lake with any other region or area of interest.
+
+## What are the 5 groups of tools you can select from for map analysis?
+
+*Hint*: Navigate to the map properties bar on the right hand side of the map and find the analysis button
+
+::: {.callout-tip collapse="true"}
+*Answer*:
+
+1.  Summarize data
+    1.  Aggregate Points
+    2.  Join Features
+    3.  Summarize Center and Dispersion
+    4.  Summarize Nearby
+    5.  Summarize Within
+2.  Find locations
+    1.  Find by Attributes and Location
+    2.  Find Centroids
+    3.  Find Similar Locations
+    4.  Geocode Locations from Table
+3.  Analyze patterns
+    1.  Calculate Composite Index
+    2.  Find Hot Spots
+    3.  Find Outliers
+    4.  Find Point Clusters
+4.  Use proximity
+    1.  Calculate Travel Cost
+    2.  Create Buffers
+    3.  Find Closest
+5.  Manage data
+    1.  Dissolve Boundaries
+    2.  Extract Data
+    3.  Generate Tessellations
+    4.  Merge Layers
+    5.  Overlay Layers
+:::
+
+## What is the distance between my land of interest and the nearest 3 SuperFund sites?
+
+*Steps*:
+
+::: {.callout-tip collapse="true"}
+*Answer:*
+:::
+
+## How many mines are within 5 miles from my land of interest?
+
+*Steps:*
+
+-   Walk through setting up a buffer
+
+::: {.callout-tip collapse="true"}
+*Answer:*
+:::
+
+## Understanding Information from the Integrated Report:
+
+::: callout-note
+**What is the Integrated Report?**
+
+See [Layer Guide](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/layer-guide.html), Integrated Report section for more information
+:::
+
+### Which waterbodies are on the 303(d) list near my land of interest? And for which pollutants?
+
+*Steps:*
+
+-   In this case, near will be referring to 10 miles from specified land of interest
+
+::: {.callout-tip collapse="true"}
+*Answer:*
+:::
+
+### Which waterbodies are NOT on the 303(d) list near my land of interest?
+
+*Steps:*
+
+::: {.callout-tip collapse="true"}
+*Answer:*
+:::
+
+### Which waterbodies do not have enough data to be assessed?
+
+*Steps:*
+
+::: {.callout-tip collapse="true"}
+*Answer:*
+:::
+
+## Interpreting CalEnviroScreen Layer:
+
+::: callout-note
+**What is CalEnviroScreen?**
+
+CalEnviroScreen is a science-based screening tool that is used to evaluate communities on pollution burdens and the vulnerability of people living in the communities in order to help identify communities that are disproportionately burdened by cumulative impacts of multiple pollutants and the related health effects.
+
+Results of CalEnviroScreen can be used to help direct resources to those disproportionately affected communities. Darker colors represent higher CalEnviroScreen Scores.
+
+If you are curious to learn more about CalEnviroScreen beyond the questions below, you can access the Office of Environmental Health Hazard Assessment training videos [here](https://oehha.ca.gov/calenviroscreen/calenviroscreen-training-videos).
+:::
+
+### What is considered when calculating the CalEnviroScreen score?
+
+::: {.callout-tip collapse="true"}
+*Answer:*
+
+Uses Census Tract information and compares levels of exposure, environmental effects, sensitive populations, and socioeconomic factors across tracts.
+
+OEHHA converts raw data values for each indicator into a percentile to be able to compare results across the state.
+
+After each indicator is assigned a percentage, OEHHA calculates the average of the exposure indicator percentiles and the average of the environmental effect percentiles. These two averages are then combined and divided by 10 to calculate the Pollution Burden score, which ranges from 0-10.
+
+This same process is completed for the Population Characteristics, which combines the averages of the indicators for sensitive populations and socioeconomic factors.
+
+The **overall CalEnviroScreen score** is calculated by multiplying the pollution burden by the population characteristics, and ranges from 0-100. This method allows scores from across all census tracts in the state to be compared. A higher score means that a tract has greater overall population vulnerability and pollution burdens. A CalEnviroScreen score is calculated for 8,000 Census Tracts.
+
+See Training [Module 6](https://www.youtube.com/watch?v=zqFETEZ9lFM&t=599s) for more information and detailed examples
+:::
+
+### What is the ranking for my area of interest?
+
+*Steps:*
+
+::: {.callout-tip collapse="true"}
+*Answer:*
+:::
+
+## Analyze Hot Spots for Lead
+
+::: callout-note
+**What is a hotspot?**
+
+An analyses that looks at a feature (city block, census tract, water quality) within the context of its neighbors and the larger dataset, and identifies areas where values are clustered together significantly higher (hotspot) or lower (coldspot) than expected by chance
+:::
+
+### Steps:
+
+1.  Navigate to the Analysis tab in the Map Properties menu
+2.  Scroll down to the Analyze patterns group and click Find Hot Spots
+3.  Choose "3.4.3 CalEnviroScreen 4.0 - 3.3.3 Cal_Enviroscreen_40" as the input layer
+    -   Note: In future analyses, you can select any layer of interest for the input layer
+4.  Select "Lead_P" as the Analysis field
+5.  For this example, leave the Divide by field empty
+6.  Under the Result layer tab, write "test_analysis" under the Output name
+    -   Save it to whichever folder you are working with for GIS
+7.  Wait for the analysis to complete and then view the new layer
+
+### Questions:
+
+1.  What do the different colors represent in this layer?
+
+### Answers:
+
+::: {.callout-tip collapse="true"}
+1.  Hotspots with 90%, 95%, and 99% confidence (red scale)
+
+    Not significant (white/light gray)
+
+    Cold spots with 90%, 95%, and 99% confidence (blue scale)
+
+2.  What does XXX ID show as a hotspot?
+:::
+
+# OLD QUESTIONS
+
+## How many mines were reported in 2019?
+
+*Steps*:
+
+1.  Find the Mines layer under Environmental Data Layers and select it.
+2.  Under the Map Properties bar on the right hand side of the map, find the Analysis button
+    -   Hint: to see the full names of each map property, you can click the two left-pointing arrows on the bottom right hand corner of the map to expand the bar
+3.  Under the Find locations group, choose Find by Attributes and Location
+4.  For the Criteria box, click + Build new query
+5.  Attribute expression should be automatically selected, if it is not, choose that box
+6.  From the drop down menu under Find features from, choose "Environmental Data Layers - 3.3.2 Mines"
+7.  Under the Where section, in the second row of drop down boxes, choose "ReportYear" for the first column and "2019" for the third column
+8.  When you are done, click Add.
+9.  Under the Result layer tab, where it says Output name, enter a name that makes sense to you for this new layer. Save to the default folder.
+10. Click run at the bottom of the window and wait for the new layer to load.
+11. Count how many points are highlighted for mines that were reported in 2019.
+
+Note: One benefit of using this analysis tool compared to filtering is that you can still see the rest of the points in the layer on your map, with those that meet the specified requirements highlighted on top of the rest of the points in the layer.
+
+*Answer*: 21
+
+## 
+
+## How many Superfund Sites are in Humboldt County?
+
+*Steps*:
+
+1.  Navigate to the Filter tab on the Map Properties bar on the right hand side of the map
+2.  Click "Add New"
+3.  Expand the drop down menu under Condition to select "COUNTY_NAME"
+    -   Note: For this question we will keep the second box as "is", though for other questions you can expand the drop down menu and explore other options
+4.  Find Humboldt County in the list of counties in the third drop down box and record the number that is on the right
+
+*Additional Practice:* You can add more filters if you want to get even more specific than just county.
+
+-   For example, you can add another filter and select "all of the following are true" and choose a specific zip code within Humboldt county to see Superfund Sites just within that zip code in Humboldt county.
+
+::: {.callout-tip collapse="true"}
+*Answer*: 13
+:::
