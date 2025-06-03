@@ -1,6 +1,6 @@
 # Workflow Guide
 
-This guide compiles some (hopefully) helpful information about the workflow for adding layers to the map.
+This guide compiles information about the workflow for adding/editing/sharing layers to the map.
 
 ## Setup
 
@@ -21,6 +21,12 @@ This guide compiles some (hopefully) helpful information about the workflow for 
 
     -   **GIS VDI FAQ Doc:** Explains best practices for virtual desktop and ArcGIS usage
 
+### ArcGIS Pro vs ArcMap Viewer/ArcGIS Online
+
+You can think of ArcGIS Pro as the back end application where you make substantive changes or edits to a map, i.e adding new layers, and ArcGIS Online is where you nicely view those substantive changes. ArcGIS Pro is an actual desktop software application, whereas ArcGIS Online is a cloud-based platform.
+
+ArcGIS Pro is better suited for data manipulation, geoprocessing, and analysis while ArcGIS Online works better for web mapping, sharing, and collaboration.
+
 ### Accessing ArcGIS Pro
 
 1.  Open the ArcGIS Pro application. 
@@ -33,7 +39,7 @@ This guide compiles some (hopefully) helpful information about the workflow for 
 
 ## Layer Workflow
 
-From my experience, it was easiest to use ArcGIS to edit/manipulate data and layers, and MapViewer (via the GIS Portal) to consolidate and edit the Map itself.
+From my experience, it was easiest to use ArcGIS Pro to edit/manipulate data and layers, and MapViewer (via the ArcGIS Online Portal) to consolidate and edit the Map itself.
 
 ### Researching Data Layers
 
@@ -42,6 +48,7 @@ From my experience, it was easiest to use ArcGIS to edit/manipulate data and lay
     -   [California Open Data Portal](https://data.ca.gov/)
     -   [California State Geoportal](https://gis.data.ca.gov/)
     -   ArcGIS Online
+    -   Living Atlas (in ArcGIS Pro)
     -   Organization search within the SWRCB GIS Portal
 
 2.  Assess the quality of the data. Some things to consider include publication source and date, completeness, and scope.
@@ -61,6 +68,16 @@ If you found a data download hosted beyond internal agencies:
 5.  Add or drag & drop the data file you want to add --- or, paste in the URL. 
 
 6.  When prompted, host it as a feature layer (both file and feature layer, not just file).
+
+    ::: callout-note
+    #### **What is a Hosted Feature Layer?**
+
+    It is feature data that is stored and managed by the hosting server. So if you downloaded data from the Bureau of Indian Affairs, for example, you'd want to then import the data files onto the map, and then convert them to
+    :::
+
+### Adding a Layer to Map (via ArcGIS Pro)
+
+1.  In the Tribal Water Data Initiatives Map
 
 ### Adding a Layer to Map (via MapViewer)
 
@@ -83,8 +100,6 @@ If you found a data download hosted beyond internal agencies:
 7.  Use the eye button to make only the new layer visible, and **screenshot the map** for future use. This photo will be used to make a thumbnail and user guide entry.
 
 ![](workflow-guide-images/layer-editing.png){fig-align="center" width="304"}
-
-## Working with ArcGIS Pro
 
 ### Editing a Layer
 

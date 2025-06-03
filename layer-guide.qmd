@@ -458,7 +458,7 @@ California's MPA Network includes different types of MPAs as well as other desig
 
 *Screenshot here*
 
-Source: [WaterBoards Hosted ArcGIS REST Services](https://gispublic.waterboards.ca.gov/portalserver/rest/services/California_MPAs/MapServer/0)
+Source: [California Marine Protected Areas \[ds582\] GIS Dataset](https://map.dfg.ca.gov/metadata/ds0582.html)
 
 Data Update Frequency: As needed
 
