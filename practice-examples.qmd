@@ -1,9 +1,9 @@
 # Guided Practice for Map Functions
 
 ::: callout-important
-Workshop the title for this at next SWAMP co-working
+**\^\^ Workshop the title for this at next SWAMP co-working on 6/18**
 
-what are your ideas for helpful GIS tools
+and also what are your ideas for helpful GIS tools for basic exploratory analyses
 :::
 
 New to GIS or looking for a refresher? This chapter will walk you through several example questions for various ways you can interact with and use the Tribal Water Data Map. These questions are primarily centered around providing tools to help you answer monitoring questions and learn more about the environmental pollutants nearest your area of interest.

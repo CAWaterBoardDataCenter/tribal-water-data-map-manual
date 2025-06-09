@@ -29,17 +29,27 @@ ArcGIS Pro is better suited for data manipulation, geoprocessing, and analysis w
 
 ### Accessing ArcGIS Pro
 
-1.  Open the ArcGIS Pro application. 
+1.  Open the ArcGIS Pro application. If you are not working from within the CalEPA building, you must be connected to your VPN in order for ArcPro to open.
 
-2.  Login with the OIMA credentials - (you will need to get the login and password from Anna Holder)
+2.  Login with the same credentials you use to log-in to your computer (username: FirstLetterFirstNameLastname\@EPA, password: same as login)
+
+    -   Example: AHolder\@EPA
+
+    -   There used to be a shared OIMA account with separate credentials, but the Water Boards has since switched away from shared accounts and everything is now in "Groups" but on your own personal account (see Accessing ArcGIS Online section below).
 
     -   You may have to switch your active portal to [gispublic.waterboards.ca.gov/portal/](http://gispublic.waterboards.ca.gov/portal/), which you can do by clicking the "Sign in" option in the upper right.
 
 ![](workflow-guide-images/portal-switch.png){fig-align="center" width="230"}
 
+### Accessing ArcGIS Online
+
+1.  Log in to your personal EPA account at [California Water Resources Control Board Portal](https://gispublic.waterboards.ca.gov/portal/home/index.html)
+2.  Navigate to your Content and Groups tabs on the top of the page in the toolbar to the left of your log-in/profile.
+3.  Make sure you are added to the OIMA Tribal Water Data Map group
+
 ## Layer Workflow
 
-From my experience, it was easiest to use ArcGIS Pro to edit/manipulate data and layers, and MapViewer (via the ArcGIS Online Portal) to consolidate and edit the Map itself.
+From experience, it seems easiest to use ArcGIS Pro to add/edit/manipulate data and layers, and MapViewer (via the ArcGIS Online Portal) to consolidate and edit the Map itself.
 
 ### Researching Data Layers
 
@@ -53,73 +63,51 @@ From my experience, it was easiest to use ArcGIS Pro to edit/manipulate data and
 
 2.  Assess the quality of the data. Some things to consider include publication source and date, completeness, and scope.
 
-### Creating a Data Layer
+3.  If you find data layers outside of internal or public sources such as the sources above, you will need to download the data and "Host" it as a hosted data layer on the State Water Resources Control Board GIS portal (see below for more information).
+
+### Adding a Layer to Map (via ArcGIS Pro)
 
 If you found a data download hosted beyond internal agencies:
 
 1.  Locate the relevant data download (ideally in GeoJSON, Shapefile, or CSV format), or URL to the data source.
 
-2.  Login (upper right hand corner) to the ArcGIS Creator Portal with the OIMA credentials account (you will need to get the login and password from Anna Holder).
+    -   You may need to use Geoprocessing tools in ArcGIS Pro to convert GeoJSON files into shapefile so that ArcGIS Pro can read the spatial data and pull the layer into the map.
 
-3.  In the top navigation bar, click "Content."
+2.  Download and save the file to OIMA's Tribal Water Data Map [SharePoint folder](https://cawaterboards.sharepoint.com/sites/OIMA/SitePages/Home.aspx?RootFolder=%2Fsites%2FOIMA%2FDocuments%2FTribal%20Projects%2FTribal%20Water%20Data%20Map&FolderCTID=0x01200051F666D80ED9754499D62B7070CDE239&View=%7B3E32EC24%2D9389%2D4EFC%2D8E8C%2D2B955608EA8A%7D).
 
-4.  In the top left, click the "+ New item" button. 
+3.  Make sure you are logged in to your account and open the Tribal Water Data Map project file.
 
-5.  Add or drag & drop the data file you want to add --- or, paste in the URL. 
+4.  Navigate to the Catalog Pane on the right side of your screen.
 
-6.  When prompted, host it as a feature layer (both file and feature layer, not just file).
+5.  If saved to the [SharePoint folder](https://cawaterboards.sharepoint.com/sites/OIMA/SitePages/Home.aspx?RootFolder=%2Fsites%2FOIMA%2FDocuments%2FTribal%20Projects%2FTribal%20Water%20Data%20Map&FolderCTID=0x01200051F666D80ED9754499D62B7070CDE239&View=%7B3E32EC24%2D9389%2D4EFC%2D8E8C%2D2B955608EA8A%7D), navigate to the "Computer" tab right below Catalog and search for the correct folder/path for the downloaded file. From there you can right click on the data layer, and choose "Add to Current Map"
+
+6.  If saved as a hosted layer, you can navigate to the "Portal" tab and search for your saved layer either in the OIMA 'Group' or the wider 'Organization'
 
     ::: callout-note
-    #### **What is a Hosted Feature Layer?**
+    **What is a Hosted Feature Layer?**
 
-    It is feature data that is stored and managed by the hosting server. So if you downloaded data from the Bureau of Indian Affairs, for example, you'd want to then import the data files onto the map, and then convert them to
+    1.  It is feature data that is stored and managed by the hosting server. So if you downloaded data from the Bureau of Indian Affairs, for example, you'd want to then import the data files onto the map, and then convert them to hosted data layers. This essentially creates a copy of the data and hosts it on the Water Boards online portal, but still allows you the functionality to edit the layer as you like.
     :::
 
-### Adding a Layer to Map (via ArcGIS Pro)
-
-1.  In the Tribal Water Data Initiatives Map
-
-### Adding a Layer to Map (via MapViewer)
-
-1.  Click on the Tribal Water Data Initiatives Map to open it.
-
-2.  On the right, click "Open in Map Viewer." 
-
-3.  At the bottom of the list of layers on the left, there will be a button to **Add a layer**. 
-
-4.  You can add layers from a variety of sources, including **My Content** (if you created a layer as above), **My Organizations** (you found an internal layer to add), and **My Favorites**. 
-
-5.  Organize the new layer.
-
-    -   Organize/reorder it appropriately by clicking and dragging it.
-    -   Rename it with the correct number and an appropriate title by pressing the three dots → rename. 
-    -   If applicable, adjust its properties (how it'll show up visually on the map) by pressing the three dots → properties. 
-
-6.  **Make sure to save!** If you created a new layer, you will likely be prompted to update sharing permissions, which you should go ahead and do. 
-
-7.  Use the eye button to make only the new layer visible, and **screenshot the map** for future use. This photo will be used to make a thumbnail and user guide entry.
-
-![](workflow-guide-images/layer-editing.png){fig-align="center" width="304"}
-
-### Editing a Layer
+#### Editing a Layer
 
 1.  Open a downloaded data file with ArcGIS Pro. 
 
 2.  Key features include:
 
-    -   *Catalog pane (right):* If not visible, go to View → Windows. Here, you can link a folder to create and save new shapefiles, layers, etc.
+    -   *Catalog pane (right):* If not visible, go to View → Windows. Here, you can link a folder to create and save new shapefiles, layers, etc. This should be the SharePoint folder from above.
     -   *Portal tab:* Access items from the SWRCB GIS Portal, including the Map itself!
     -   Transformation warnings are OK, just ignore. 
 
 After editing a layer, find it in the list of layers on the left and right click it. Select **Share as Web Layer** if possible, and it will save to the portal.
 
-### Clipping a Layer
+#### Clipping a Layer
 
-While you would typically want to find data downloads whose scope is only California as this data is more robust, this isn't always possible! There is a simple way to clip California from a layer.
+While you would typically want to find data downloads whose scope is only California as this data is more robust, this isn't always possible. There is a simple way to clip California from a layer.
 
 1.  Open the data layer in ArcGIS Pro. 
 
-2.  Make sure you're logged into the OIMA credentials. Then, under "Catalog", on the right hand side, click the subheading "Portal," and find "California_State_Boundary_shp" in the "Misc" folder (This is a shapefile of California's border). Add it as a layer to the current map. 
+2.  Make sure you're logged with your credentials. Then, under "Catalog", on the right hand side, click the subheading "Portal," then click "My Groups", make sure to change the toggle button to Groups rather than Content, and then find "California_State_Boundary_shp" in the "OIMA Tribal Water Data Map" folder (This is a shapefile of California's border). Add it as a layer to the current map. 
 
 3.  On the top row of the ribbon toolbar, find the Analysis tab. From there, go to "Tools." Search for "Clip."
 
@@ -127,17 +115,45 @@ While you would typically want to find data downloads whose scope is only Califo
 
 5.  This new clipping should appear as a layer. Save it as a web layer if possible.
 
-## Wrapping Up
+### Adding a Layer to Map (via MapViewer)
 
-### Edit the Layer Page
+1.  In the top navigation bar, click "Content."
 
-1.  Navigate to the layer that you created. This can be through My Content, or by clicking on the layer from the Tribal Water Data Initiatives Map (scroll down). 
+2.  In the top left, click the "+ New item" button. 
+
+3.  Add or drag & drop the data file you want to add --- or, paste in the URL. 
+
+4.  When prompted, host it as a feature layer (both file and feature layer, not just file).
+
+5.  Navigate back to the Tribal Water Data Map, and on the right, click "Open in Map Viewer"
+
+6.  At the bottom of the list of layers on the left, there will be a button to **Add a layer**. 
+
+7.  You can add layers from a variety of sources, including **My Content** (if you created a layer as above), **My Organizations** (you found an internal layer to add), and **My Favorites**. 
+
+8.  Organize the new layer.
+
+    -   Organize/reorder it appropriately by clicking and dragging it.
+    -   Rename it with the correct number and an appropriate title by pressing the three dots → rename. 
+    -   If applicable, adjust its properties (how it'll show up visually on the map) by pressing the three dots → properties. 
+
+9.  **Make sure to save!** If you created a new layer, you will likely be prompted to update sharing permissions, which you should go ahead and do. 
+
+10. Use the eye button to make only the new layer visible, and **screenshot the map** for future use. This photo will be used to make a thumbnail and user guide entry.
+
+![](workflow-guide-images/layer-editing.png){fig-align="center" width="304"}
+
+## Additional Web Map editing 
+
+### Add/Edit the Layer Metadata
+
+1.  Navigate to the layer that you created in ArcGIS Online. This can be through My Content, or by clicking on the layer from the Tribal Water Data Map. 
 
 2.  Edit the layer page, filling in the fields with an appropriate title, description, header, etc. **Make sure to cite data if it is taken from an external source** --- these sources will often have specific instructions on how to cite, or additional agencies they want cited. 
 
 ### Creating a Thumbnail
 
-1.  Access the [thumbnails guide](https://drive.google.com/drive/u/0/folders/1wS0ZZgf3x0yTxnt5Y-Lz9dB1XKxui7-L), which houses the templates to create standardized thumbnails for Waterboards GIS content.
+1.  Access the [thumbnails guide](https://cawaterboards.sharepoint.com/:p:/g/dit/BusinessOps/GIS/EdVXD63cIclHo7xjjjw7Hc0BZQ688ahZLylM8JvM82gdYA?e=geQkI8), which houses the templates to create standardized thumbnails for Waterboards GIS content.
 2.  Find the appropriate **overlay** --- i.e. "Image Layer," "Point Feature Layer," etc.
 3.  Add your screenshot to the slide and resize it such that it fits within the exposed area of the overlay. Right-click the map screenshot and "Send to back" to see the overlay over the image.
 4.  Once the thumbnail looks good, **screenshot it** and save it.
@@ -145,15 +161,15 @@ While you would typically want to find data downloads whose scope is only Califo
 
 ### Sharing Layers Publicly
 
-Waterboards GIS content must be approved by the GIS team before being publicly shared. Since the Tribal Water Data Initiatives map is public, any content or layers that you add must also be publicly shared --- otherwise, the **entire map will not be visible publicly.**
+Waterboards GIS content must be approved by the GIS team before being publicly shared. Since the Tribal Water Data Map is public, any content or layers that you add must also be publicly shared --- otherwise, the **entire map will not be visible publicly.**
 
-1.  Navigate to the [GIS Wiki](https://gispublic.waterboards.ca.gov/portal/apps/experiencebuilder/experience/?id=f95bb914c05c4abe91013b78894182e1&page=GIS-Data#layout_1016_block_13) and scroll down on this page to access the Public Publishing Request form. Fill out the fields and submit.
+1.  Navigate to the [GIS Wiki](https://wiki.waterboards.ca.gov/gis/doku.php?id#gis_portalswater_board_portal_and_state_geoportal) to review general best practices. You need to submit a [Public Publishing Request form](https://survey123.arcgis.com/share/5674de4a29804c738e6da1e41d7c948c?portalUrl=https://gispublic.waterboards.ca.gov/portal) if any substantive changes are made to the map. Fill out the all the fields and submit.
     -   *Data Steward:* Your supervisor
     -   *Program:* OIMA
-    -   *Username / Folder:* OIMA_Mapper / Whatever folder you put the content in in the portal
+    -   *Username / Folder:* your log-in username / Whatever folder you put the content in in the portal
 2.  **This step only applicable if your content includes data that is not already public:** This is unlikely, unless you've sourced data yourself. The Information Security Officer (ISO) requires that you submit a Data Categorization Package (Data Cat). [Check the Data Cat instructions document here](https://cawaterboards.sharepoint.com/sites/RiskManagement/DataCategorizationLibrary/Forms/AllItems.aspx).
 
-### Edit the User Manual
+## Edit the User Manual
 
 1.  Copy the GitHub repo with RStudio. (Anna can help you with this initial setup!)
 
@@ -180,7 +196,7 @@ Waterboards GIS content must be approved by the GIS team before being publicly s
 
 ![](workflow-guide-images/git-workflow.png){fig-align="center" width="523"}
 
-### Update GitHub Issue Board
+## Update GitHub Issue Board
 
 1.  Self-explanatory! Comment & close the issue.
 
@@ -189,3 +205,5 @@ Waterboards GIS content must be approved by the GIS team before being publicly s
 And that's it! Have a great fellowship.
 
 *Written by [Kevin Song](https://github.com/kevinjsong)*
+
+*Updated by Hannah Merges*
