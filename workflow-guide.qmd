@@ -143,7 +143,7 @@ While you would typically want to find data downloads whose scope is only Califo
 
 ![](workflow-guide-images/layer-editing.png){fig-align="center" width="304"}
 
-## Additional Web Map editing 
+## Additional Web Map editing
 
 ### Add/Edit the Layer Metadata
 

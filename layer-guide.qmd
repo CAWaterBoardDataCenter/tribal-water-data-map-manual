@@ -134,7 +134,7 @@ This layer shows linear waterbodies in California, such as rivers, streams, and 
 
 Note, these are not the final assessments. 
 
-Source: [California State Water Resources Control Board (SWRCB)](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/5)
+Source:
 
 Data Update Frequency: Every two years
 
@@ -148,7 +148,7 @@ This layer shows non-linear (polygon) waterbodies in California, such as bays, l
 
 Note, these are not the final assessments. 
 
-Source: [California State Water Resources Control Board (SWRCB)](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/6)
+Source:
 
 Data Update Frequency: Every 2 years
 
@@ -212,7 +212,7 @@ This indicator represents the reported use of 132 hazardous and volatile pestici
 
 ![](images/layer-guide_agricultural-pesticides.png)
 
-Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://experience.arcgis.com/experience/ed5953d89038431dbf4f22ab9abfe40d/page/Indicators?views=Pesticide-Use#data_s=id%3AdataSource_40-17c3dec6ede-layer-2%3A2935)
 
 Data Update Frequency: As needed
 
@@ -414,7 +414,7 @@ This layer shows boundaries for non-private land holders in California.
 
 ![](images/layer-guide_non-private-land-holders.png)
 
-Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fgispublic.waterboards.ca.gov%2Fportalserver%2Frest%2Fservices%2FHosted%2FNonPrivate_California_Land_Ownership%2FFeatureServer%2F0&source=sd)
+Source: [California Land Ownership \| California State Geoportal](https://gis.data.ca.gov/datasets/CALFIRE-Forestry::california-land-ownership/about)
 
 Data Update Frequency: As needed
 
