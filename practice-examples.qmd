@@ -3,12 +3,12 @@
 ::: callout-important
 **\^\^ Workshop the title for this at next SWAMP co-working on 6/18**
 
-and also what are your ideas for helpful GIS tools for basic exploratory analyses
+and also what are other ideas for helpful GIS tools for basic exploratory analyses
 :::
 
 New to GIS or looking for a refresher? This chapter will walk you through several example questions for various ways you can interact with and use the Tribal Water Data Map. These questions are primarily centered around providing tools to help you answer monitoring questions and learn more about the environmental pollutants nearest your area of interest.
 
-For consistency, each of these examples will use the Clear Lake area as the denoted "land of interest"; however, you can easily follow each of these steps by replacing Clear Lake with any other region or area of interest.
+For consistency, each of these examples will use the Big Valley Band of Pomo Indians Rancheria as the denoted "land of interest" in these examples; however, you can easily follow each of these steps by replacingthe Big Valley Band of Pomo Indians Rancheria with any other region or area of interest.
 
 ## What are the 5 groups of tools you can select from for map analysis?
 
@@ -49,8 +49,32 @@ For consistency, each of these examples will use the Clear Lake area as the deno
 
 *Steps*:
 
+1.  Navigate to the "Find Closest" tool in the Use proximity group (see above for groupings)
+
+2.  For the "Input Layer", you would select the Bureau of Indian Affairs layer. You can select which specific sublayer you are interested in using (BLM Lots, Indian Lands, PDA Tracts, etc)
+
+3.  For the "Near layer", you would select the Superfund Enterprise Management System layer from USEPA.
+
+    -   *Tip*: When clicking the box to add/choose a layer for both the input and near layers, it is helpful to select "Browse Layers" to see which one you specifically want to add.
+
+4.  Under the Analysis Settings, you want to click "Limit the number of closest locations" to make sure it is on and then enter "3" for the "Max number of closest locations to find per input"
+
+5.  You can specify what units you want the distances reported in. Here we used miles.
+
+6.  This analysis will result in a new layer being established. You can keep the layer and name it whatever makes the most sense for you.
+
+7.  *TIP*: You can use this tool to answer any similar type of question
+
 ::: {.callout-tip collapse="true"}
 *Answer:*
+
+In order from closest to farthest in straight line distance
+
+11.54 miles
+
+15.04 miles
+
+15.25 miles
 :::
 
 ## How many mines are within 5 miles from my land of interest?
