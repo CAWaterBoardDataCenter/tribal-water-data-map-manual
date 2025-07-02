@@ -28,37 +28,41 @@ Contact: [BIA](https://www.bia.gov/bia)
 
 This sublayers includes data about Bureau of Land Management (BLM) lands that are managed within the boundaries of BIA lands.
 
-*screenshot here*
+*screenshot here - layer not appearing*
 
 #### Indian_Lands
 
-"The term “Indian land” means: (A) Any land located within the boundaries of an Indian reservation, pueblo, or rancheria; (B) Any land not located within the boundaries of an Indian reservation, pueblo, or rancheria, the title to which is help: (i) In trust by the United States for the benefit of an Indian tribe or an individual Indian; (ii) By an Indian tribe or an individual Indian, subject to restriction against alienation under laws of the United States Definition: Indian land from 25 USC § 3501(2) \| LII / Legal Information Institute", [BIA Tract Viewer - Catalog](https://catalog.data.gov/dataset/bia-tract-viewer-ca86a)
+"The term "Indian land" means: (A) Any land located within the boundaries of an Indian reservation, pueblo, or rancheria; (B) Any land not located within the boundaries of an Indian reservation, pueblo, or rancheria, the title to which is help: (i) In trust by the United States for the benefit of an Indian tribe or an individual Indian; (ii) By an Indian tribe or an individual Indian, subject to restriction against alienation under laws of the United States Definition: Indian land from 25 USC § 3501(2) \| LII / Legal Information Institute", [BIA Tract Viewer - Catalog](https://catalog.data.gov/dataset/bia-tract-viewer-ca86a)
 
-*screenshot here*
+![](images/layer-guide_indian-lands.png)
 
 #### Land_Grants
 
-*screenshot here*
+![](images/layer-guide_land-grants.png)
 
 #### Public_Domain_Allotment_Tracts
 
 These are parcels of Tribal lands, typically up to 160 acres, that were divided up and "allotted" to individual Tribal members, see: [Allotment Act of 1887](https://www.bia.gov/bia/history/history-indian-land-consolidation#:~:text=In%201887%2C%20Congress%20enacted%20the,allotted%E2%80%9D%20to%20individual%20Tribal%20members.). 
 
-*screenshot here*
+![](images/layer-guide_public-domain-allotment-tracts.png)
 
 #### Reservation_Boundary
+
+![](images/layer-guide_reservation-boundary.png)
 
 This sublayer refers to the outer limits or perimeter of federal American Indian reservations. These boundaries are established by treaties, agreements, executive orders, or other federal actions and define the land reserved for a Tribe or Tribes.
 
 #### Reservation_Tracts
 
-*screenshot here*
+![](images/layer-guide_reservation-tracts.png)
 
 #### All_Tracts
 
-*screenshot here*
+![](images/layer-guide_all-tracts.png)
 
 ### Indigenous Territories
+
+![](images/layer-guide_indigenous-territories-native-land.png)
 
 Layer displaying historic Indigenous Territories within California.
 
@@ -130,6 +134,8 @@ For more information see:
 
 This layer shows linear waterbodies in California, such as rivers, streams, and beaches, which were assessed for 305(b) in the 2022-2024 California Integrated Report. Blue waterbodies are listed in Category 1, 2, or 3. Orange waterbodies represent those placed on the 303(d) list of impaired waters.
 
+*screenshot here, layer not appearing*
+
 ![](images/layer-guide_integrated-report-linear.png)
 
 Note, these are not the final assessments. 
@@ -143,6 +149,8 @@ Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov
 #### State Water Bodies (bays, lakes and reservoirs)
 
 This layer shows non-linear (polygon) waterbodies in California, such as bays, lakes, and reservoirs, which were assessed for 305(b) in the 2020-2022 California Integrated Report. Blue waterbodies are listed in Category 1, 2, or 3. Orange waterbodies represent those placed on the 303(d) list of impaired waters.
+
+*screenshot here, layer not appearing*
 
 ![](images/layer-guide_integrated-report-non-linear.png)
 
@@ -158,11 +166,11 @@ Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov
 
 #### State Water Bodies (rivers, streams, and beaches)
 
-![](images/layer-guide_unassessedwaterbodies_rivers.png)
+![](images/layer-guide_unassessed-waterbodies.png)
 
 #### State Water Bodies (bays, lakes and reservoirs)
 
-![](images/layer-guide-unassessedwaterbodies-bays.png)
+*this layer appears to now be in a combined rivers/streams/beaches + bays/lakes etc. layer*
 
 ### Basin Plan Beneficial Uses
 
@@ -172,7 +180,7 @@ Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov
 
 #### State Water Bodies (rivers, streams, and beaches)
 
-![](images/layer-guide_basin-use.png)
+![](images/layer-guide_basin-plan-beneficial-uses-swrcb.png)
 
 #### State Water Bodies (bays, lakes and reservoirs)
 
@@ -184,7 +192,7 @@ This layer shows the CalEnviroScreen (CES) 4.0 based on the CES Score percentile
 
 CalEnviroScreen is a screening methodology that can be used to help identify California communities that are disproportionately burdened by multiple sources of pollution. CI score ranges from 10 to 100. For more information on CalEnviroScreen scoring, see Practice Examples page.
 
-![](images/layer-guide_cal-enviro-screen.png)
+![](images/layer-guide_calenviroscreen.png)
 
 Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
 
@@ -222,7 +230,7 @@ Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenvir
 
 This layer shows Superfund Site locations and data on the inventory of active and archived hazardous waste sites evaluated by the EPA's Superfund program.
 
-![](images/layer-guide_superfund-sites.png)
+![](images/layer-guide_superfund-enterprise-management-system-usaepa.png)
 
 This data provides location and attribute information on Facilities regulated under the Superfund Enterprise Management System (SEMS). It contains sites that are either proposed to be, or are on, the National Priorities List (NPL) as well as sites that are in the screening and assessment phase for possible inclusion on the NPL.
 
@@ -236,7 +244,7 @@ Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowser
 
 This layer shows entire Superfund Site boundaries.
 
-![](images/layer-guide_npl-superfund-boundaries.png)
+![](images/layer-guide_npl-superfund-site-boundaries.png)
 
 U.S. EPA Superfund Site boundaries are polygons representing the footprint of a whole site, defined for purposes of this effort as the sum of all of the Operable Units and the current understanding of the full extent of contamination.
 
@@ -252,7 +260,7 @@ Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowser
 
 This layer shows oil and gas well locations (and their associated records) across California.
 
-![](images/layer-guide-oil-gas-wells.png)
+![](images/layer-guide_oil-and-gas-wells.png)
 
 Source: [WellFinder](https://www.conservation.ca.gov/calgem/Pages/WellFinder.aspx), published by the California Department of Conservation and Geologic Energy Management Division
 
@@ -262,7 +270,7 @@ Data Update Frequency: As needed
 
 This layer shows all mines in California.
 
-![](images/layer-guide-mines.png)
+![](images/layer-guide_mines.png)
 
 This data is published with the intent to aid mine reclamation and is gathered via annual reports under Public Resources Code section 2207.
 
@@ -274,15 +282,17 @@ Data Update Frequency: As needed
 
 #### State Small Water Systems
 
-![](images/layer-guide_small-water-systems.png)
+![](images/layer-guide_state-small-water-systems.png)
 
 #### Source Data (All Contaminants)
 
-![](images/layer-guide_source-contaminants.png)
+![](images/layer-guide_source-data.png)
 
 #### Water Quality Risk by Section (All Contaminants)
 
 This layer shows estimated water quality risk for domestic wells and state small water systems for a variety of contaminants.
+
+*screenshot here, layer not appearing*
 
 ![](images/layer-guide-aquifer-water-quality.png)
 
@@ -296,13 +306,23 @@ Contact: [SAFER Program](https://www.waterboards.ca.gov/safer/)
 
 #### Arsenic
 
+![](images/layer-guide_arsenic.png)
+
 #### Hexavalent Chromium
+
+![](images/layer-guide_hexavalent-chromium.png)
 
 #### Nitrate
 
+![](images/layer-guide_nitrate.png)
+
 #### Tricholoropropane
 
+![](images/layer-guide_1,2,3-trichloropropane.png)
+
 #### Uranium
+
+![](images/layer-guide_uranium.png)
 
 ### Cleanup Program Sites
 
@@ -320,7 +340,7 @@ Last Updated: downloaded 2025/05/21
 
 Layer showing National Pollutant Discharge Elimination System (NPDES) and Waste Discharge Requirements (WDR) facilities regulated by State Water Board programs, as reflected in the California Integrated Water Quality System (CIWQS) project.
 
-![](images/layer-guide_regulated_facilities.png)
+![](images/layer-guide_regulated-wastewater-treatment-and-discharge-facilities.png)
 
 These facilities are mandated to hold active permits to discharge into or alter the surface or ground water. More information about these permits can be found in the CIWQS database.
 
@@ -332,7 +352,7 @@ Data Update Frequency: Nightly
 
 Layer showing locations with XXXXXXXX
 
-![](images/layer-guide_sanitary-sewer-spills.png)
+![](images/layer-guide_sanitary-sewer-system-spills.png)
 
 Source:
 
@@ -348,7 +368,7 @@ Data Update Frequency:
 
 Drought Outlook: This layer shows regions in California impacted by drought.
 
-![](images/layer-guide_drought_intensity_layer.png)
+![](images/layer-guide_drought-intensity.png)
 
 Drought severity is determined by precipitation deviation, stream flow, soil moisture content, subjective observation, and reported impact.
 
@@ -364,6 +384,8 @@ Contact: [National Drought Mitigation Center (NDMC)](https://drought.unl.edu/)
 
 This layer shows the boundaries of 515 groundwater basins and subbasins as defined by the California Department of Water Resources.
 
+*screenshot here, layer not appearing*
+
 ![](images/layer-guide-groundwater-basins.png)
 
 Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e)
@@ -374,7 +396,7 @@ Data Update Frequency: As needed
 
 The California Interagency Watershed Map is the State of California's working definition of watershed boundaries. Previous Calwater versions described California watersheds, beginning with the division of the State's 101 million acres into ten **Hydrologic Regions** (HR). Each HR is progressively subdivided into six smaller, nested levels: the **Hydrologic Unit** (HU, major rivers), **Hydrologic Area** (HA, major tributaries), **Hydrologic Sub-Area** (HSA), Super Planning Watershed (**SPW**), and Planning Watershed (**PW**), with the Planning Watershed as the most detailed level. See [metadata](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=6f85ec66bc004820a00de6f5ac8be24d) for more information.
 
-*Screenshot here*
+![](images/layer-guide_watershed-boundaries-calfire.png)
 
 Source: [CalWater Watersheds - Overview](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=816893ddab33434989eda92dbc0e126f)
 
@@ -388,7 +410,7 @@ Last Updated: September 7th, 2023
 
 Layer showing the boundaries of the nine Regional Water Quality Control Boards in California.
 
-![](images/layer-guide_regional-board-boundaries.png)
+![](images/layer-guide_regional-water-board-boundaries.png)
 
 Source: [California State Water Resources Control Board (SWRCB)](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/0)
 
@@ -400,7 +422,7 @@ Data Update Frequency: As needed
 
 This layer shows County boundaries within California.
 
-![](images/layer-guide_california-counties.png)
+![](images/layer-guide_county-boundaries-calfire.png)
 
 In this dataset, all bays (plus bay islands and constructed features) are merged into the mainland, and coastal features (such as islands and constructed features) are not included, with the exception of the Channel Islands which ARE included.
 
@@ -412,7 +434,7 @@ Data Update Frequency: As needed
 
 This layer shows boundaries for non-private land holders in California.
 
-![](images/layer-guide_non-private-land-holders.png)
+![](images/layer-guide_non-private-land-holders-calfire.png)
 
 Source: [California Land Ownership \| California State Geoportal](https://gis.data.ca.gov/datasets/CALFIRE-Forestry::california-land-ownership/about)
 
@@ -424,7 +446,7 @@ Data Update Frequency: As needed
 
 This layer shows the State Parks in California.
 
-![](images/layer-guide_statepark-boundaries-01.png)
+![](images/layer-guide_state-park-boundaries.png)
 
 Source: [California Dept. of Pesticides Regulation (DPR)](https://www.parks.ca.gov/?page_id=29682)
 
@@ -434,7 +456,7 @@ Data Update Frequency: As needed
 
 This layer shows the boundaries of California's Groundwater Sustainability Agencies as defined on the DWR SGMA Data Viewer.
 
-![](images/layer-guide-gsa-boundaries.png)
+![](images/layer-guide_groundwater-sustainability-agencies.png)
 
 Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e), for use by [Groundwater Ambient Monitoring and Assessment (GAMA) Program](https://www.waterboards.ca.gov/gama/)
 
@@ -444,19 +466,19 @@ Data Update Frequency: As needed
 
 California's MPA Network includes different types of MPAs as well as other designations. Each designation is unique in its purpose and allowed uses - [CDFW](https://wildlife.ca.gov/Conservation/Marine/MPAs/About)
 
-[State Marine Reserve (SMP):]{.underline} An MPA where no take, damage, injury, or possession of any living, geologic, or cultural marine resource is allowed.
+[State Marine Reserve (SMP):]{.ul} An MPA where no take, damage, injury, or possession of any living, geologic, or cultural marine resource is allowed.
 
-[No-Take State Marine Conservation Area (NoTake SMCA):]{.underline} An MPA where no take of any living, geologic, or cultural resource is allowed, EXCEPT for take incidental to specified activities permitted by other agencies (e.g. infrastructure maintenance, sand renourishment).
+[No-Take State Marine Conservation Area (NoTake SMCA):]{.ul} An MPA where no take of any living, geologic, or cultural resource is allowed, EXCEPT for take incidental to specified activities permitted by other agencies (e.g. infrastructure maintenance, sand renourishment).
 
-[State Marine Park (SMP)]{.underline}: An MPA that allows some recreational take but does not allow commerical take.
+[State Marine Park (SMP)]{.ul}: An MPA that allows some recreational take but does not allow commerical take.
 
-[State Marine Conservation Area (SMCA)]{.underline}: An MPA where some recreational and/or commercial take of marine resources may be allowed (restrictions vary)
+[State Marine Conservation Area (SMCA)]{.ul}: An MPA where some recreational and/or commercial take of marine resources may be allowed (restrictions vary)
 
-[State Marine Recreational Management Area (SMRMA)]{.underline}: A marine managed area where some take of marine resources may be allowed and legal waterfowl hunting is allowed (restrictions vary)
+[State Marine Recreational Management Area (SMRMA)]{.ul}: A marine managed area where some take of marine resources may be allowed and legal waterfowl hunting is allowed (restrictions vary)
 
-[Special Closure]{.underline}: Prohibits or restricts access in waters adjacent to seabird rookeries or marine mammal haul-out sites.
+[Special Closure]{.ul}: Prohibits or restricts access in waters adjacent to seabird rookeries or marine mammal haul-out sites.
 
-*Screenshot here*
+![](images/layer-guide_marine-protected-areas.png)
 
 Source: [California Marine Protected Areas \[ds582\] GIS Dataset](https://map.dfg.ca.gov/metadata/ds0582.html)
 
