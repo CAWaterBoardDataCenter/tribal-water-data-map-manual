@@ -5,14 +5,14 @@ This guide serves to provide greater detail about each layer included in the Tri
 ::: callout-note
 ## Note on default map settings
 
-When opening the map in Map Viewer, the **default** layers that will be displayed include all 7 (seven) of the Bureau of Indian Affairs layers and the California Regional Boards Boundaries. To see more details about these layers, read below or click on the layer in the [Layer Dictionary](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=16e2736dbf924effbbab3c771bf569fd) (see instructions on [Map Guide](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/map-guide.html) page)
+When opening the map in Map Viewer, the **default** layers that will be displayed include all 6 (six) of the Bureau of Indian Affairs layers and the California Regional Boards Boundaries. To see more details about these layers, read below or click on the layer in the [Layer Dictionary](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=16e2736dbf924effbbab3c771bf569fd) (see instructions on [Map Guide](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/map-guide.html) page)
 :::
 
 ## Tribal Land Layers
 
 ### Bureau of Indian Affairs (BIA)
 
-Layer displaying areas of XXXX .
+Layer displaying different classifications of land allotments from BIA. The Bureau of Land Management Lots layer is included when downloading the zip file of data layers, however, it does not appear on the GIS map and has thus been removed from our map. Please see the contact information below for directing any additional questions.
 
 Source: [Bureau of Indian Affairs](https://www.bia.gov/sites/default/files/dup/assets/bia/pacreg/PRO_Indian_Lands.gdb_.zip), from the [Pacific Regional Office](https://www.bia.gov/regional-offices/pacific) (PRO)
 
@@ -23,12 +23,6 @@ Last Updated: June 29th, 2021, added to Tribal Water Data Map in May 2025
 Contact: [BIA](https://www.bia.gov/bia)
 
 [BIA's](https://www.bia.gov/bia) mission is to "enhance the quality of life, promote economic opportunities, and to carry out the federal responsibilities entrusted to us to protect and improve the trust assets of American Indians and Alaska Natives. We accomplish this by directly empowering Tribal governments through self-governance agreements."
-
-#### Bureau_of_Land_Management_Lots
-
-This sublayers includes data about Bureau of Land Management (BLM) lands that are managed within the boundaries of BIA lands.
-
-*screenshot here - layer not appearing*
 
 #### Indian_Lands
 
@@ -142,6 +136,8 @@ Source:
 
 Data Update Frequency: Every two years
 
+Last Updated:
+
 Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
 
 #### State Water Bodies (bays, lakes and reservoirs)
@@ -156,6 +152,8 @@ Source:
 
 Data Update Frequency: Every 2 years
 
+Last Updated:
+
 Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
 
 ### Waterbodies that haven't been assessed
@@ -163,6 +161,14 @@ Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov
 #### State Water Bodies (rivers, streams, and beaches)
 
 ![](images/layer-guide_unassessed-waterbodies.png)
+
+Source:
+
+Data Update Frequency:
+
+Last Updated:
+
+Contact:
 
 #### State Water Bodies (bays, lakes and reservoirs)
 
@@ -172,27 +178,75 @@ Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov
 
 ::: callout-important
 **What are Beneficial Uses?**
+
+Waters that are used for specific purposes (see codes below or in layer properties on the map). These beneficial use waters are designated in regional water board water quality control plans.
+
+Some examples of beneficial uses include: protection and propagation of fish, recreation, agriculture, etc. Waters are often designated with more than one beneficial use.
+
+To ensure the protection of these waters and their beneficial uses, state and regional water quality control plans establish maximum levels of pollutants. When these maximum levels are exceeded and waters cannot support their designated beneficial uses, that is when they are listed as 303(d) or impaired waters.
 :::
 
 #### State Water Bodies (rivers, streams, and beaches)
 
-![](images/layer-guide_basin-plan-beneficial-uses-swrcb.png)
+Source:
+
+Data Update Frequency:
+
+Last Updated:
+
+Contact:
 
 #### State Water Bodies (bays, lakes and reservoirs)
 
+Source:
+
+Data Update Frequency:
+
+Last Updated:
+
+Contact:
+
 ## CalEnviroScreen
+
+::: callout-important
+## What is CalEnviroScreen?
+
+CalEnviroScreen is a science-based screening tool that is used to evaluate communities on pollution burdens and the vulnerability of people living in the communities in order to help identify areas that are disproportionately burdened by cumulative impacts of multiple pollutants and the related health effects.
+
+Results of CalEnviroScreen can be used to help direct resources to those disproportionately affected communities. Darker colors represent higher CalEnviroScreen Scores.
+
+If you are curious to learn more about CalEnviroScreen beyond the questions below, you can access the Office of Environmental Health Hazard Assessment training videos [here](https://oehha.ca.gov/calenviroscreen/calenviroscreen-training-videos).
+:::
+
+::: callout-important
+## How is the CalEnviroScreen Score calculated?
+
+The CalEnviroScreen score uses Census Tract information and compares levels of exposure, environmental effects, sensitive populations, and socioeconomic factors across tracts.
+
+OEHHA converts raw data values for each indicator into a percentile to be able to compare results across the state.
+
+After each indicator is assigned a percentage, OEHHA calculates the average of the exposure indicator percentiles and the average of the environmental effect percentiles. These two averages are then combined and divided by 10 to calculate the Pollution Burden score, which ranges from 0-10.
+
+This same process is completed for the Population Characteristics, which combines the averages of the indicators for sensitive populations and socioeconomic factors.
+
+The **overall CalEnviroScreen score** is calculated by multiplying the pollution burden by the population characteristics, and ranges from 0-100. This method allows scores from across all census tracts in the state to be compared. A higher score means that a tract has greater overall population vulnerability and pollution burdens. A CalEnviroScreen score is calculated for 8,000 Census Tracts.
+
+See Training [Module 6](https://www.youtube.com/watch?v=zqFETEZ9lFM&t=599s) for more information and detailed examples
+:::
 
 ### CalEnviroScreen 4.0
 
 This layer shows the CalEnviroScreen (CES) 4.0 based on the CES Score percentile.
 
-CalEnviroScreen is a screening methodology that can be used to help identify California communities that are disproportionately burdened by multiple sources of pollution. CI score ranges from 10 to 100. For more information on CalEnviroScreen scoring, see Practice Examples page.
+CalEnviroScreen is a screening methodology that can be used to help identify California communities that are disproportionately burdened by multiple sources of pollution. CI score ranges from 10 to 100. For more information on CalEnviroScreen scoring, see above.
 
 ![](images/layer-guide_calenviroscreen.png)
 
 Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
 
 Data Update Frequency: As needed
+
+Last Updated:
 
 Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
@@ -205,6 +259,8 @@ This map shows the disadvantaged communities designated by CalEPA for the purpos
 Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
 
 Data Update Frequency: As needed
+
+Last Updated:
 
 Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
@@ -220,6 +276,8 @@ Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](ht
 
 Data Update Frequency: As needed
 
+Last Updated:
+
 Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
 ### Superfund Sites
@@ -233,6 +291,8 @@ This data provides location and attribute information on Facilities regulated un
 Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/dataset/epa-facility-registry-service-frs-sems8)
 
 Data Update Frequency: As needed
+
+Last Updated:
 
 Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
 
@@ -262,6 +322,10 @@ Source: [WellFinder](https://www.conservation.ca.gov/calgem/Pages/WellFinder.asp
 
 Data Update Frequency: As needed
 
+Last Updated:
+
+Contact:
+
 ### Mines
 
 This layer shows all mines in California.
@@ -274,7 +338,19 @@ Source: California Department of Conservation Division of Mine Reclamation
 
 Data Update Frequency: As needed
 
+Last Updated:
+
+Contact:
+
 ### Aquifer Water Quality Risk
+
+Source:
+
+Data Update Frequency:
+
+Last Updated:
+
+Contact:
 
 #### State Small Water Systems
 
@@ -330,6 +406,8 @@ Data Update Frequency: Daily
 
 Last Updated: downloaded 2025/05/21
 
+Contact:
+
 ### Regulated Wastewater Treatment & Discharge Facilities
 
 Layer showing National Pollutant Discharge Elimination System (NPDES) and Waste Discharge Requirements (WDR) facilities regulated by State Water Board programs, as reflected in the California Integrated Water Quality System (CIWQS) project.
@@ -342,6 +420,10 @@ Source: [California Integrated Water Quality System (CIWQS)](https://www.waterbo
 
 Data Update Frequency: Nightly
 
+Last Updated:
+
+Contact:
+
 ### Sanitary Sewer System Spills
 
 Layer showing locations with XXXXXXXX
@@ -351,6 +433,10 @@ Layer showing locations with XXXXXXXX
 Source:
 
 Data Update Frequency:
+
+Last Updated:
+
+Contact:
 
 ## Water Quality
 
@@ -370,6 +456,8 @@ Source: [U.S. Drought Monitor](https://droughtmonitor.unl.edu/)
 
 Data Update Frequency: Weekly, on Thursdays
 
+Last Updated:
+
 Contact: [National Drought Mitigation Center (NDMC)](https://drought.unl.edu/)
 
 ## Hydrology
@@ -384,6 +472,10 @@ Source: [California Department of Water Resources](https://data.ca.gov/dataset/i
 
 Data Update Frequency: As needed
 
+Last updated:
+
+Contact:
+
 ### Hydrography, Water Boundaries
 
 The California Interagency Watershed Map is the State of California's working definition of watershed boundaries. Previous Calwater versions described California watersheds, beginning with the division of the State's 101 million acres into ten **Hydrologic Regions** (HR). Each HR is progressively subdivided into six smaller, nested levels: the **Hydrologic Unit** (HU, major rivers), **Hydrologic Area** (HA, major tributaries), **Hydrologic Sub-Area** (HSA), Super Planning Watershed (**SPW**), and Planning Watershed (**PW**), with the Planning Watershed as the most detailed level. See [metadata](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=6f85ec66bc004820a00de6f5ac8be24d) for more information.
@@ -396,6 +488,8 @@ Data Update Frequency: As needed
 
 Last Updated: September 7th, 2023
 
+Contact:
+
 ## Geopolitical Boundaries
 
 ### Regional Water Board Boundaries
@@ -407,6 +501,10 @@ Layer showing the boundaries of the nine Regional Water Quality Control Boards i
 Source: [California State Water Resources Control Board (SWRCB)](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/0)
 
 Data Update Frequency: As needed
+
+Last Updated:
+
+Contact:
 
 ### Census Tracts
 
@@ -422,6 +520,10 @@ Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://hub
 
 Data Update Frequency: As needed
 
+Last Updated:
+
+Contact:
+
 ### Non-private Land Holders
 
 This layer shows boundaries for non-private land holders in California.
@@ -432,7 +534,9 @@ Source: [California Land Ownership \| California State Geoportal](https://gis.da
 
 Data Update Frequency: As needed
 
-### California National Parks
+Last Updated:
+
+Contact:
 
 ### State Park Boundaries
 
@@ -440,9 +544,15 @@ This layer shows the State Parks in California.
 
 ![](images/layer-guide_state-park-boundaries.png)
 
+![](images/clipboard-1621901700.png)
+
 Source: [California Dept. of Pesticides Regulation (DPR)](https://www.parks.ca.gov/?page_id=29682)
 
 Data Update Frequency: As needed
+
+Last Updated:
+
+Contact:
 
 ### Groundwater Sustainability Agencies
 
@@ -454,21 +564,25 @@ Source: [California Department of Water Resources](https://data.ca.gov/dataset/i
 
 Data Update Frequency: As needed
 
+Last Updated:
+
+Contact:
+
 ### Marine Protected Areas
 
 California's MPA Network includes different types of MPAs as well as other designations. Each designation is unique in its purpose and allowed uses - [CDFW](https://wildlife.ca.gov/Conservation/Marine/MPAs/About)
 
-[State Marine Reserve (SMP):]{.ul} An MPA where no take, damage, injury, or possession of any living, geologic, or cultural marine resource is allowed.
+[State Marine Reserve (SMP):]{.underline} An MPA where no take, damage, injury, or possession of any living, geologic, or cultural marine resource is allowed.
 
-[No-Take State Marine Conservation Area (NoTake SMCA):]{.ul} An MPA where no take of any living, geologic, or cultural resource is allowed, EXCEPT for take incidental to specified activities permitted by other agencies (e.g. infrastructure maintenance, sand renourishment).
+[No-Take State Marine Conservation Area (NoTake SMCA):]{.underline} An MPA where no take of any living, geologic, or cultural resource is allowed, EXCEPT for take incidental to specified activities permitted by other agencies (e.g. infrastructure maintenance, sand renourishment).
 
-[State Marine Park (SMP)]{.ul}: An MPA that allows some recreational take but does not allow commerical take.
+[State Marine Park (SMP)]{.underline}: An MPA that allows some recreational take but does not allow commerical take.
 
-[State Marine Conservation Area (SMCA)]{.ul}: An MPA where some recreational and/or commercial take of marine resources may be allowed (restrictions vary)
+[State Marine Conservation Area (SMCA)]{.underline}: An MPA where some recreational and/or commercial take of marine resources may be allowed (restrictions vary)
 
-[State Marine Recreational Management Area (SMRMA)]{.ul}: A marine managed area where some take of marine resources may be allowed and legal waterfowl hunting is allowed (restrictions vary)
+[State Marine Recreational Management Area (SMRMA)]{.underline}: A marine managed area where some take of marine resources may be allowed and legal waterfowl hunting is allowed (restrictions vary)
 
-[Special Closure]{.ul}: Prohibits or restricts access in waters adjacent to seabird rookeries or marine mammal haul-out sites.
+[Special Closure]{.underline}: Prohibits or restricts access in waters adjacent to seabird rookeries or marine mammal haul-out sites.
 
 ![](images/layer-guide_marine-protected-areas.png)
 
@@ -477,3 +591,5 @@ Source: [California Marine Protected Areas \[ds582\] GIS Dataset](https://map.df
 Data Update Frequency: As needed
 
 Last Updated: 2019
+
+Contact:
