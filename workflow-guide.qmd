@@ -56,12 +56,20 @@ From experience, it seems easiest to use ArcGIS Pro to add/edit/manipulate data 
 1.  Identify data layers specifically requested by Tribal partners, or data that you feel would be a benefit to have access to. Helpful sources include:
 
     -   [California Open Data Portal](https://data.ca.gov/)
+
     -   [California State Geoportal](https://gis.data.ca.gov/)
+
     -   ArcGIS Online
+
     -   Living Atlas (in ArcGIS Pro)
+
     -   Organization search within the SWRCB GIS Portal
 
-2.  Assess the quality of the data. Some things to consider include publication source and date, completeness, and scope.
+2.  Assess the quality of the data. Some things to consider include publication source and date, completeness, and scope. Benefits to using the resources above for adding data layers include:
+
+    1.  The metadata for the data layer is already included, and it can be added as simple as adding the URL of the data source in ArcPro (Map –\> Layer –\> "Add Data" –\> "From Path")
+
+    2.   When those data layers are updated by the host, they will be automatically be updated in the Tribal Water Data Map as well.
 
 3.  If you find data layers outside of internal or public sources such as the sources above, you will need to download the data and "Host" it as a hosted data layer on the State Water Resources Control Board GIS portal (see below for more information).
 
@@ -86,7 +94,7 @@ If you found a data download hosted beyond internal agencies:
     ::: callout-note
     **What is a Hosted Feature Layer?**
 
-    1.  It is feature data that is stored and managed by the hosting server. So if you downloaded data from the Bureau of Indian Affairs, for example, you'd want to then import the data files onto the map, and then convert them to hosted data layers. This essentially creates a copy of the data and hosts it on the Water Boards online portal, but still allows you the functionality to edit the layer as you like.
+    It is feature data that is stored and managed by the hosting server. So if you downloaded data from the Bureau of Indian Affairs, for example, you'd want to then import the data files onto the map, and then convert them to hosted data layers. This essentially creates a copy of the data and hosts it on the Water Boards online portal, but still allows you the functionality to edit the layer as you like.
     :::
 
 #### Editing a Layer
@@ -168,6 +176,20 @@ Waterboards GIS content must be approved by the GIS team before being publicly s
     -   *Program:* OIMA
     -   *Username / Folder:* your log-in username / Whatever folder you put the content in in the portal
 2.  **This step only applicable if your content includes data that is not already public:** This is unlikely, unless you've sourced data yourself. The Information Security Officer (ISO) requires that you submit a Data Categorization Package (Data Cat). [Check the Data Cat instructions document here](https://cawaterboards.sharepoint.com/sites/RiskManagement/DataCategorizationLibrary/Forms/AllItems.aspx).
+
+### Updating Layers:
+
+If the data layers are added directly from one of the public sources above, then the data should update automatically whenever it is updated by the host. However, if the data layer is downloaded from another source and added manually to ArcPro (as with the Bureau of Indian Affairs layers), you will need update these layers manually.
+
+To do this:
+
+1.  Log in to your portal using your EPA log-in
+2.  Go to Groups –\> OIMA Tribal Water Data Map
+3.  Select one of the hosted layers that requires updating and click on "View Details"
+4.  On the right side of the screen you should see a list of options (Open in Map Viewer, Open in Scene Viewer, Publish, Export Data, etc)
+    -   Click on Update Data
+5.  Click on "Overwrite entire feature layer"
+    -   Make sure that when you are doing this, you have downloaded and saved the updated shapefile and zip file under the **exact same name** as the previous shapefile and zip file!
 
 ## Edit the User Manual
 

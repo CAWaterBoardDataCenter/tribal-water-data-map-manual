@@ -102,7 +102,7 @@ The American Indians Reservations/Federally Recognized Tribal Entities data set 
 
 ### 2024 Integrated Report
 
-::: callout-important
+::: callout-note
 **What is the Integrated Report?**
 
 Waterbodies assessed in the Integrated Report (IR) include surface waterbodies, such as rivers, lakes, and beaches.
@@ -125,6 +125,12 @@ For more information see:
 :::
 
 #### State Water Bodies (rivers, streams, and beaches)
+
+::: callout-note
+## Add new IR layer info
+
+Update information to match map updates
+:::
 
 This layer shows linear waterbodies in California, such as rivers, streams, and beaches, which were assessed for 305(b) in the 2022-2024 California Integrated Report. Blue waterbodies are listed in Category 1, 2, or 3. Orange waterbodies represent those placed on the 303(d) list of impaired waters.
 
