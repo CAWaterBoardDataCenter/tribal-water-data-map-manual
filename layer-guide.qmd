@@ -138,11 +138,11 @@ This layer shows linear waterbodies in California, such as rivers, streams, and 
 
 Note, these are not the final assessments. 
 
-Source:
+Source: [2024 California Integrated Report](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/2024-integrated-report.html)
 
-Data Update Frequency: Every two years
+Data Update Frequency: Every 2 years
 
-Last Updated:
+Last Updated: 2024
 
 Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
 
@@ -150,15 +150,15 @@ Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov
 
 This layer shows non-linear (polygon) waterbodies in California, such as bays, lakes, and reservoirs, which were assessed for 305(b) in the 2020-2022 California Integrated Report. Blue waterbodies are listed in Category 1, 2, or 3. Orange waterbodies represent those placed on the 303(d) list of impaired waters.
 
-*screenshot here, layer not appearing*
+*screenshot here, layer not present*
 
 Note, these are not the final assessments. 
 
-Source:
+Source: [2024 California Integrated Report](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/2024-integrated-report.html)
 
 Data Update Frequency: Every 2 years
 
-Last Updated:
+Last Updated: 2024
 
 Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
 
@@ -182,7 +182,7 @@ Contact:
 
 ### Basin Plan Beneficial Uses
 
-::: callout-important
+::: callout-note
 **What are Beneficial Uses?**
 
 Waters that are used for specific purposes (see codes below or in layer properties on the map). These beneficial use waters are designated in regional water board water quality control plans.
@@ -192,29 +192,19 @@ Some examples of beneficial uses include: protection and propagation of fish, re
 To ensure the protection of these waters and their beneficial uses, state and regional water quality control plans establish maximum levels of pollutants. When these maximum levels are exceeded and waters cannot support their designated beneficial uses, that is when they are listed as 303(d) or impaired waters.
 :::
 
-#### State Water Bodies (rivers, streams, and beaches)
+![](images/layer-guide_basin-plan-beneficial-uses-swrcb.png)
 
-Source:
+Source: [CA State Water Resources Control Board - Basin Plan Portal](https://www.waterboards.ca.gov/resources/data_databases/basin_plan_portal.html)
 
-Data Update Frequency:
+Data Update Frequency: ?
 
-Last Updated:
+Last Updated: 2020
 
-Contact:
-
-#### State Water Bodies (bays, lakes and reservoirs)
-
-Source:
-
-Data Update Frequency:
-
-Last Updated:
-
-Contact:
+Contact: [CA State Water Resources Control Board - Basin Plan Portal](https://www.waterboards.ca.gov/resources/data_databases/basin_plan_portal.html)
 
 ## CalEnviroScreen
 
-::: callout-important
+::: callout-note
 ## What is CalEnviroScreen?
 
 CalEnviroScreen is a science-based screening tool that is used to evaluate communities on pollution burdens and the vulnerability of people living in the communities in order to help identify areas that are disproportionately burdened by cumulative impacts of multiple pollutants and the related health effects.
@@ -224,7 +214,7 @@ Results of CalEnviroScreen can be used to help direct resources to those disprop
 If you are curious to learn more about CalEnviroScreen beyond the questions below, you can access the Office of Environmental Health Hazard Assessment training videos [here](https://oehha.ca.gov/calenviroscreen/calenviroscreen-training-videos).
 :::
 
-::: callout-important
+::: callout-note
 ## How is the CalEnviroScreen Score calculated?
 
 The CalEnviroScreen score uses Census Tract information and compares levels of exposure, environmental effects, sensitive populations, and socioeconomic factors across tracts.
@@ -252,7 +242,7 @@ Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](ht
 
 Data Update Frequency: As needed
 
-Last Updated:
+Last Updated: 2021
 
 Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
@@ -406,6 +396,8 @@ Contact: [SAFER Program](https://www.waterboards.ca.gov/safer/)
 The Cleanup Program Sites have 36 different classifications. For ease of viewing on this map, we have combined similar classifications into groups. You can find the specific classification if you click on the individual point of interest, or you can refer here for the full list.
 :::
 
+![](images/layer-guide_cleanup-program-sites-geotracker.png)
+
 Source: [GeoTracker](https://geotracker.waterboards.ca.gov/datadownload)
 
 Data Update Frequency: Daily
@@ -494,7 +486,7 @@ Data Update Frequency: As needed
 
 Last Updated: September 7th, 2023
 
-Contact:
+Contact: California Interagency Watershed Mapping Group
 
 ## Geopolitical Boundaries
 
@@ -504,13 +496,13 @@ Layer showing the boundaries of the nine Regional Water Quality Control Boards i
 
 ![](images/layer-guide_regional-water-board-boundaries.png)
 
-Source: [California State Water Resources Control Board (SWRCB)](https://gispublic.waterboards.ca.gov/portalserver/rest/services/Tribal_Water_Data_Initiatives_Map_MIL1/MapServer/0)
+Source: [California State Water Resources Control Board (SWRCB)](https://gis-california.opendata.arcgis.com/maps/5692f02f7c9a47e384522dfb496f522a/about)
 
 Data Update Frequency: As needed
 
-Last Updated:
+Last Updated: May 7, 2025
 
-Contact:
+Contact: [CA State Water Resources Control Board](https://www.waterboards.ca.gov/)
 
 ### Census Tracts
 
@@ -522,13 +514,13 @@ This layer shows County boundaries within California.
 
 In this dataset, all bays (plus bay islands and constructed features) are merged into the mainland, and coastal features (such as islands and constructed features) are not included, with the exception of the Channel Islands which ARE included.
 
-Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://hub.arcgis.com/datasets/CALFIRE-Forestry::california-counties/about)
+Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://hub-calfire-forestry.hub.arcgis.com/datasets/california-county-boundaries/about)
 
 Data Update Frequency: As needed
 
-Last Updated:
+Last Updated: December 11, 2024
 
-Contact:
+Contact: [CAL FIRE eGIS](https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/gis-mapping-and-data-analytics)
 
 ### Non-private Land Holders
 
@@ -540,9 +532,9 @@ Source: [California Land Ownership \| California State Geoportal](https://gis.da
 
 Data Update Frequency: As needed
 
-Last Updated:
+Last Updated: May 15, 2024
 
-Contact:
+Contact: [CAL FIRE eGIS](https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/gis-mapping-and-data-analytics)
 
 ### State Park Boundaries
 
@@ -552,13 +544,13 @@ This layer shows the State Parks in California.
 
 ![](images/clipboard-1621901700.png)
 
-Source: [California Dept. of Pesticides Regulation (DPR)](https://www.parks.ca.gov/?page_id=29682)
+Source: [California State Parks](https://www.parks.ca.gov/?page_id=29682)
 
 Data Update Frequency: As needed
 
-Last Updated:
+Last Updated: March 2025
 
-Contact:
+Contact: [Department of Parks and Recreation](https://www.parks.ca.gov/?page_id=29682)
 
 ### Groundwater Sustainability Agencies
 
@@ -566,29 +558,29 @@ This layer shows the boundaries of California's Groundwater Sustainability Agenc
 
 ![](images/layer-guide_groundwater-sustainability-agencies.png)
 
-Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e), for use by [Groundwater Ambient Monitoring and Assessment (GAMA) Program](https://www.waterboards.ca.gov/gama/)
+Source: [California Department of Water Resources](https://data.ca.gov/dataset/i03-groundwater-sustainability-agencies), for use by [Groundwater Ambient Monitoring and Assessment (GAMA) Program](https://www.waterboards.ca.gov/gama/)
 
 Data Update Frequency: As needed
 
-Last Updated:
+Last Updated: July 7, 2025
 
-Contact:
+Contact: [Department of Water Resources GIS](https://data.ca.gov/dataset/i03-groundwater-sustainability-agencies)
 
 ### Marine Protected Areas
 
 California's MPA Network includes different types of MPAs as well as other designations. Each designation is unique in its purpose and allowed uses - [CDFW](https://wildlife.ca.gov/Conservation/Marine/MPAs/About)
 
-[State Marine Reserve (SMP):]{.underline} An MPA where no take, damage, injury, or possession of any living, geologic, or cultural marine resource is allowed.
+[State Marine Reserve (SMP):]{.ul} An MPA where no take, damage, injury, or possession of any living, geologic, or cultural marine resource is allowed.
 
-[No-Take State Marine Conservation Area (NoTake SMCA):]{.underline} An MPA where no take of any living, geologic, or cultural resource is allowed, EXCEPT for take incidental to specified activities permitted by other agencies (e.g. infrastructure maintenance, sand renourishment).
+[No-Take State Marine Conservation Area (NoTake SMCA):]{.ul} An MPA where no take of any living, geologic, or cultural resource is allowed, EXCEPT for take incidental to specified activities permitted by other agencies (e.g. infrastructure maintenance, sand renourishment).
 
-[State Marine Park (SMP)]{.underline}: An MPA that allows some recreational take but does not allow commerical take.
+[State Marine Park (SMP)]{.ul}: An MPA that allows some recreational take but does not allow commerical take.
 
-[State Marine Conservation Area (SMCA)]{.underline}: An MPA where some recreational and/or commercial take of marine resources may be allowed (restrictions vary)
+[State Marine Conservation Area (SMCA)]{.ul}: An MPA where some recreational and/or commercial take of marine resources may be allowed (restrictions vary)
 
-[State Marine Recreational Management Area (SMRMA)]{.underline}: A marine managed area where some take of marine resources may be allowed and legal waterfowl hunting is allowed (restrictions vary)
+[State Marine Recreational Management Area (SMRMA)]{.ul}: A marine managed area where some take of marine resources may be allowed and legal waterfowl hunting is allowed (restrictions vary)
 
-[Special Closure]{.underline}: Prohibits or restricts access in waters adjacent to seabird rookeries or marine mammal haul-out sites.
+[Special Closure]{.ul}: Prohibits or restricts access in waters adjacent to seabird rookeries or marine mammal haul-out sites.
 
 ![](images/layer-guide_marine-protected-areas.png)
 
@@ -598,4 +590,4 @@ Data Update Frequency: As needed
 
 Last Updated: 2019
 
-Contact:
+Contact: [California Department of Fish and Wildlife - Marine Protected Areas](https://wildlife.ca.gov/Conservation/Marine/MPAs)
