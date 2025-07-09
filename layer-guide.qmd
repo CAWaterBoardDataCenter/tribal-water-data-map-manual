@@ -360,9 +360,9 @@ Contact:
 
 This layer shows estimated water quality risk for domestic wells and state small water systems for a variety of contaminants.
 
-*screenshot here, layer not appearing*
-
 This layer was developed for use by the State Water Boards SAFER Program to help prioritize areas where domestic wells and state small water systems may be accessing groundwater that does not meet primary drinking water standards.
+
+![](images/layer-guide_water-quality-risk-by-section.png)
 
 Source: [Groundwater Ambient Monitoring and Assessment (GAMA) Program](https://www.waterboards.ca.gov/gama/)
 
