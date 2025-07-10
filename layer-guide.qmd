@@ -478,7 +478,17 @@ Contact:
 
 The California Interagency Watershed Map is the State of California's working definition of watershed boundaries. Previous Calwater versions described California watersheds, beginning with the division of the State's 101 million acres into ten **Hydrologic Regions** (HR). Each HR is progressively subdivided into six smaller, nested levels: the **Hydrologic Unit** (HU, major rivers), **Hydrologic Area** (HA, major tributaries), **Hydrologic Sub-Area** (HSA), Super Planning Watershed (**SPW**), and Planning Watershed (**PW**), with the Planning Watershed as the most detailed level. See [metadata](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=6f85ec66bc004820a00de6f5ac8be24d) for more information.
 
-![Screenshot of interactive map showing watershed boundaries](images/layer-guide_watershed-boundaries-calfire.png)
+![Screenshot of interactive map showing watershed boundaries at the region level](images/layer-guide_watershed-region.png)
+
+![Screenshot of interactive map showing watershed boundaries at the unit level](images/layer-guide_watershed-unit.png)
+
+![Screenshot of interactive map showing watershed boundaries at the area level](images/layer-guide_watershed-area.png)
+
+![Screenshot of interactive map showing watershed boundaries at the subarea level](images/layer-guide_watershed-subarea.png)
+
+![Screenshot of interactive map showing watershed boundaries at the super planning level](images/layer-guide_watershed-super-planning.png)
+
+![Screenshot of interactive map showing watershed boundaries at the planning level](images/layer-guide_watershed-planning.png)
 
 Source: [CalWater Watersheds - Overview](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=816893ddab33434989eda92dbc0e126f)
 
