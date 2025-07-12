@@ -60,7 +60,7 @@ This sublayer refers to the outer limits or perimeter of federal American Indian
 
 Layer displaying historic Indigenous Territories within California.
 
-Source: [Water Boards ArcGIS Portal](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=c21e3128ad4b4f68b041420c3f19c4c8), data used in this layer was accessed and downloaded from [native-land.ca](https://native-land.ca/)
+Source: [Native Land Digital](https://api-docs.native-land.ca/)
 
 Source data update frequency: As needed
 
@@ -83,20 +83,6 @@ Source data update frequency: Every 10 years
 Last updated here: 2024
 
 Contact: [U.S Census Bureau](https://www.census.gov/about/contact-us.html)
-
-#### Tribal and Native Entities
-
-Layer showing American Indians Reservations/Federally Recognized Tribal Entities.
-
-Source: [California Governor's Office of Emergency Services (Cal OES)](https://calema.maps.arcgis.com/apps/mapviewer/index.html?layers=0b6c3f61f0c04168b2de56ac321ab76d)
-
-Source data update frequency: As needed
-
-Last updated here: 2019
-
-Contact: [Cal OES](https://www.caloes.ca.gov/office-of-the-director/policy-administration/tribal-coordination/)
-
-The American Indians Reservations/Federally Recognized Tribal Entities data set depicts feature location, selected demographics and other associated data for the 561 Federally Recognized Tribal entities in the contiguous U.S. and Alaska. Categories included are: American Indian Reservations (AIR), Federally Recognized Tribal Entities (FRTE) and Alaska Native Villages (ANV).
 
 ## Integrated Report and Beneficial Use Layers
 
@@ -168,13 +154,13 @@ Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov
 
 ![Screenshot of interactive map showing unassessed rivers, streams, and beaches](images/layer-guide_unassessed-waterbodies.png)
 
-Source:
+Source: [2024 California Integrated Report](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/2024-integrated-report.html)
 
-Source data update frequency:
+Source data update frequency: Every 2 years
 
-Last updated here:
+Last updated here: ?
 
-Contact:
+Contact: [California State Water Resources Control Board](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
 
 #### State Water Bodies (bays, lakes and reservoirs)
 
@@ -304,7 +290,7 @@ Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/da
 
 Source data update frequency: Monthly
 
-Last updated here: May 25th, 2025
+Last updated here:
 
 Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
 
@@ -320,7 +306,7 @@ Source data update frequency: As needed
 
 Last updated here:
 
-Contact:
+Contact: [WellFinder](https://www.conservation.ca.gov/calgem/Pages/WellFinder.aspx)
 
 ### Mines
 
@@ -336,17 +322,17 @@ Source data update frequency: As needed
 
 Last updated here:
 
-Contact:
+Contact: [California Department of Conservation - Division of Mine Reclamation](https://www.conservation.ca.gov/dmr)
 
 ### Aquifer Water Quality Risk
 
-Source:
+Source: [California State Water Resources Control Board](https://www.arcgis.com/home/item.html?id=18c7d253f0a44fd2a5c7bcfb42cc158d)
 
-Source data update frequency:
+Source data update frequency: Every year
 
 Last updated here:
 
-Contact:
+Contact: [California State Water Resources Control Board](https://www.arcgis.com/home/item.html?id=18c7d253f0a44fd2a5c7bcfb42cc158d)
 
 #### State Small Water Systems
 
@@ -402,9 +388,9 @@ Source: [GeoTracker](https://geotracker.waterboards.ca.gov/datadownload)
 
 Source data update frequency: Daily
 
-Last updated here: downloaded 2025/05/21
+Last updated here: May 5, 2025
 
-Contact:
+Contact: [GeoTracker](https://geotracker.waterboards.ca.gov/contactus)
 
 ### Regulated Wastewater Treatment & Discharge Facilities
 
@@ -416,11 +402,11 @@ These facilities are mandated to hold active permits to discharge into or alter 
 
 Source: [California Integrated Water Quality System (CIWQS)](https://www.waterboards.ca.gov/ciwqs/publicreports.html)
 
-Source data update frequency: Nightly
+Source data update frequency: Daily
 
 Last updated here:
 
-Contact:
+Contact: [California Integrated Water Quality System (CIWQS)](https://www.waterboards.ca.gov/ciwqs/publicreports.html)
 
 ### Sanitary Sewer System Spills
 
@@ -428,13 +414,13 @@ Layer showing locations with sanitary sewer system spills.
 
 ![Screenshot of interactive map showing sanitary sewer system spills](images/layer-guide_sanitary-sewer-system-spills.png)
 
-Source:
+Source: [California Integrated Water Quality System (CIWQS)](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=9ccddf54ef614ae9b311998e85922a9a)
 
-Source data update frequency:
+Source data update frequency: Daily
 
 Last updated here:
 
-Contact:
+Contact: [California Integrated Water Quality System (CIWQS)](https://www.waterboards.ca.gov/ciwqs/publicreports.html)
 
 ## Water Quality
 
