@@ -154,11 +154,17 @@ Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov
 
 ![Screenshot of interactive map showing unassessed rivers, streams, and beaches](images/layer-guide_unassessed-waterbodies.png)
 
-Source: [2024 California Integrated Report](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/2024-integrated-report.html)
+Source: [National Hydrography Dataset](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=3e716b8c87bd4f60b97f73f65dba770d)
 
 Source data update frequency: Every 2 years
 
-Last updated here: ?
+:::: callout-note
+::: callout-note
+This layer has not been updated since 2024 and therefore does not accurately reflect all waterbodies that have not been assessed. There are some waterbodies in the NHD layer that are not assessed in the IR layers. If you have further questions, please refer to the contact information below.
+:::
+::::
+
+Last updated here: 2024
 
 Contact: [California State Water Resources Control Board](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
 
@@ -262,13 +268,25 @@ Last updated here:
 
 Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
-### Superfund Sites
+### Superfund Enterprise Management System Sites
 
-This layer shows Superfund Site locations and data on the inventory of active and archived hazardous waste sites evaluated by the EPA's Superfund program.
+This layer shows location and attribute information on facilities regulated under the Superfund Enterprise Management System (SEMS). Data includes the inventory of active and archived hazardous waste sites evaluated by the EPA's Superfund program.
 
 ![Screenshot of interactive map showing EPA Superfund sites](images/layer-guide_superfund-enterprise-management-system-usaepa.png)
 
-This data provides location and attribute information on Facilities regulated under the Superfund Enterprise Management System (SEMS). It contains sites that are either proposed to be, or are on, the National Priorities List (NPL) as well as sites that are in the screening and assessment phase for possible inclusion on the NPL.
+Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/dataset/epa-facility-registry-service-frs-sems8)
+
+Source data update frequency: As needed
+
+Last updated here:
+
+Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
+
+### Superfund Enterprise Management System National Priority List (NPL) Sites
+
+This layer shows sites that are listed on the Superfund NPL. The NPL lists national priorities among the known releases or threatened releases of hazardous substances, pollutants, or contaminants throughout the United States.
+
+*screenshot coming soon*
 
 Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/dataset/epa-facility-registry-service-frs-sems8)
 
@@ -280,7 +298,7 @@ Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowser
 
 ### NPL Superfund Site Boundaries
 
-This layer shows entire Superfund Site boundaries.
+This layer shows entire Superfund site boundaries.
 
 ![Screenshot of interactive map showing NPL Superfund Site boundaries](images/layer-guide_npl-superfund-site-boundaries.png)
 
@@ -564,17 +582,17 @@ Contact: [Department of Water Resources GIS](https://data.ca.gov/dataset/i03-gro
 
 California's MPA Network includes different types of MPAs as well as other designations. Each designation is unique in its purpose and allowed uses - [CDFW](https://wildlife.ca.gov/Conservation/Marine/MPAs/About)
 
-[State Marine Reserve (SMP):]{.ul} An MPA where no take, damage, injury, or possession of any living, geologic, or cultural marine resource is allowed.
+[State Marine Reserve (SMP):]{.underline} An MPA where no take, damage, injury, or possession of any living, geologic, or cultural marine resource is allowed.
 
-[No-Take State Marine Conservation Area (NoTake SMCA):]{.ul} An MPA where no take of any living, geologic, or cultural resource is allowed, EXCEPT for take incidental to specified activities permitted by other agencies (e.g. infrastructure maintenance, sand renourishment).
+[No-Take State Marine Conservation Area (NoTake SMCA):]{.underline} An MPA where no take of any living, geologic, or cultural resource is allowed, EXCEPT for take incidental to specified activities permitted by other agencies (e.g. infrastructure maintenance, sand renourishment).
 
-[State Marine Park (SMP)]{.ul}: An MPA that allows some recreational take but does not allow commerical take.
+[State Marine Park (SMP)]{.underline}: An MPA that allows some recreational take but does not allow commerical take.
 
-[State Marine Conservation Area (SMCA)]{.ul}: An MPA where some recreational and/or commercial take of marine resources may be allowed (restrictions vary)
+[State Marine Conservation Area (SMCA)]{.underline}: An MPA where some recreational and/or commercial take of marine resources may be allowed (restrictions vary)
 
-[State Marine Recreational Management Area (SMRMA)]{.ul}: A marine managed area where some take of marine resources may be allowed and legal waterfowl hunting is allowed (restrictions vary)
+[State Marine Recreational Management Area (SMRMA)]{.underline}: A marine managed area where some take of marine resources may be allowed and legal waterfowl hunting is allowed (restrictions vary)
 
-[Special Closure]{.ul}: Prohibits or restricts access in waters adjacent to seabird rookeries or marine mammal haul-out sites.
+[Special Closure]{.underline}: Prohibits or restricts access in waters adjacent to seabird rookeries or marine mammal haul-out sites.
 
 ![Screenshot of interactive map showing Marine Protected Areas along the coast](images/layer-guide_marine-protected-areas.png)
 

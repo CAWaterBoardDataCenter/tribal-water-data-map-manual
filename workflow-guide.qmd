@@ -69,7 +69,7 @@ From experience, it seems easiest to use ArcGIS Pro to add/edit/manipulate data 
 
     1.  The metadata for the data layer is already included, and it can be added as simple as adding the URL of the data source in ArcPro (Map –\> Layer –\> "Add Data" –\> "From Path")
 
-    2.   When those data layers are updated by the host, they will be automatically be updated in the Tribal Water Data Map as well.
+    2.  When those data layers are updated by the host, they will be automatically be updated in the Tribal Water Data Map as well.
 
 3.  If you find data layers outside of internal or public sources such as the sources above, you will need to download the data and "Host" it as a hosted data layer on the State Water Resources Control Board GIS portal (see below for more information).
 
