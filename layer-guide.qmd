@@ -120,7 +120,7 @@ Update information to match map updates
 
 This layer shows linear waterbodies in California, such as rivers, streams, and beaches, which were assessed for 305(b) in the 2022-2024 California Integrated Report. Blue waterbodies are listed in Category 1, 2, or 3. Orange waterbodies represent those placed on the 303(d) list of impaired waters.
 
-*screenshot here, layer not appearing*
+![Screenshot of interactive map showing the rivers and streams in the Integrated Report](images/layer-guide_integrated-report-rivers-streams.png)
 
 Note, these are not the final assessments. 
 
@@ -136,7 +136,7 @@ Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov
 
 This layer shows non-linear (polygon) waterbodies in California, such as bays, lakes, and reservoirs, which were assessed for 305(b) in the 2020-2022 California Integrated Report. Blue waterbodies are listed in Category 1, 2, or 3. Orange waterbodies represent those placed on the 303(d) list of impaired waters.
 
-*screenshot here, layer not present*
+![Screenshot of interactive map showing the bays, lakes, and reservoirs in the Integrated Report](images/layer-guide_integrated-report-lakes-reservoirs.png)
 
 Note, these are not the final assessments. 
 
@@ -158,11 +158,11 @@ Source: [National Hydrography Dataset](https://gispublic.waterboards.ca.gov/port
 
 Source data update frequency: Every 2 years
 
-:::: callout-note
+::: callout-note
 ::: callout-note
 This layer has not been updated since 2024 and therefore does not accurately reflect all waterbodies that have not been assessed. There are some waterbodies in the NHD layer that are not assessed in the IR layers. If you have further questions, please refer to the contact information below.
 :::
-::::
+:::
 
 Last updated here: 2024
 
@@ -468,7 +468,7 @@ Contact: [National Drought Mitigation Center (NDMC)](https://drought.unl.edu/)
 
 This layer shows the boundaries of 515 groundwater basins and subbasins as defined by the California Department of Water Resources.
 
-*screenshot here, layer not appearing*
+![Screenshot of interactive map showing groundwater basins and boundaries](images/layer-guide_groundwater-basins.png)
 
 Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e)
 
@@ -582,17 +582,17 @@ Contact: [Department of Water Resources GIS](https://data.ca.gov/dataset/i03-gro
 
 California's MPA Network includes different types of MPAs as well as other designations. Each designation is unique in its purpose and allowed uses - [CDFW](https://wildlife.ca.gov/Conservation/Marine/MPAs/About)
 
-[State Marine Reserve (SMP):]{.underline} An MPA where no take, damage, injury, or possession of any living, geologic, or cultural marine resource is allowed.
+[State Marine Reserve (SMP):]{.ul} An MPA where no take, damage, injury, or possession of any living, geologic, or cultural marine resource is allowed.
 
-[No-Take State Marine Conservation Area (NoTake SMCA):]{.underline} An MPA where no take of any living, geologic, or cultural resource is allowed, EXCEPT for take incidental to specified activities permitted by other agencies (e.g. infrastructure maintenance, sand renourishment).
+[No-Take State Marine Conservation Area (NoTake SMCA):]{.ul} An MPA where no take of any living, geologic, or cultural resource is allowed, EXCEPT for take incidental to specified activities permitted by other agencies (e.g. infrastructure maintenance, sand renourishment).
 
-[State Marine Park (SMP)]{.underline}: An MPA that allows some recreational take but does not allow commerical take.
+[State Marine Park (SMP)]{.ul}: An MPA that allows some recreational take but does not allow commerical take.
 
-[State Marine Conservation Area (SMCA)]{.underline}: An MPA where some recreational and/or commercial take of marine resources may be allowed (restrictions vary)
+[State Marine Conservation Area (SMCA)]{.ul}: An MPA where some recreational and/or commercial take of marine resources may be allowed (restrictions vary)
 
-[State Marine Recreational Management Area (SMRMA)]{.underline}: A marine managed area where some take of marine resources may be allowed and legal waterfowl hunting is allowed (restrictions vary)
+[State Marine Recreational Management Area (SMRMA)]{.ul}: A marine managed area where some take of marine resources may be allowed and legal waterfowl hunting is allowed (restrictions vary)
 
-[Special Closure]{.underline}: Prohibits or restricts access in waters adjacent to seabird rookeries or marine mammal haul-out sites.
+[Special Closure]{.ul}: Prohibits or restricts access in waters adjacent to seabird rookeries or marine mammal haul-out sites.
 
 ![Screenshot of interactive map showing Marine Protected Areas along the coast](images/layer-guide_marine-protected-areas.png)
 
