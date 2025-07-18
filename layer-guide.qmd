@@ -16,9 +16,9 @@ Layer displaying different classifications of land allotments from BIA. The Bure
 
 Source: [Bureau of Indian Affairs](https://www.bia.gov/sites/default/files/dup/assets/bia/pacreg/PRO_Indian_Lands.gdb_.zip), from the [Pacific Regional Office](https://www.bia.gov/regional-offices/pacific) (PRO)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here: June 29th, 2021, added to Tribal Water Data Map in May 2025
+*manually updated here June 2025*
 
 Contact: [BIA](https://www.bia.gov/bia)
 
@@ -62,9 +62,9 @@ Layer displaying historic Indigenous Territories within California.
 
 Source: [Native Land Digital](https://api-docs.native-land.ca/)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here: May 2024
+*manually updated here June 2025*
 
 Contact: [Native Land Digital](https://native-land.ca/contact)
 
@@ -78,9 +78,9 @@ Layer showing Tribal areas identified by the U.S. Census Bureau. You can zoom in
 
 Source: [U.S. Census Bureau](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=American+Indian+Area+Geography), [TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
 
-Source data update frequency: Every 10 years
+Source update frequency: Every 10 years
 
-Last updated here: 2024
+*automatically synced here*
 
 Contact: [U.S Census Bureau](https://www.census.gov/about/contact-us.html)
 
@@ -126,9 +126,9 @@ Note, these are not the final assessments. 
 
 Source: [2024 California Integrated Report](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/2024-integrated-report.html)
 
-Source data update frequency: Every 2 years
+Source update frequency: Every 2 years
 
-Last updated here: 2024
+*automatically synced here*
 
 Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
 
@@ -142,9 +142,9 @@ Note, these are not the final assessments. 
 
 Source: [2024 California Integrated Report](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/2024-integrated-report.html)
 
-Source data update frequency: Every 2 years
+Source update frequency: Every 2 years
 
-Last updated here: 2024
+*automatically synced here*
 
 Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
 
@@ -156,7 +156,7 @@ Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov
 
 Source: [National Hydrography Dataset](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=3e716b8c87bd4f60b97f73f65dba770d)
 
-Source data update frequency: Every 2 years
+Source update frequency: Every 2 years
 
 ::: callout-note
 ::: callout-note
@@ -164,7 +164,7 @@ This layer has not been updated since 2024 and therefore does not accurately ref
 :::
 :::
 
-Last updated here: 2024
+*automatically synced here*
 
 Contact: [California State Water Resources Control Board](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
 
@@ -188,9 +188,9 @@ To ensure the protection of these waters and their beneficial uses, state and re
 
 Source: [CA State Water Resources Control Board - Basin Plan Portal](https://www.waterboards.ca.gov/resources/data_databases/basin_plan_portal.html)
 
-Source data update frequency: ?
+Source update frequency: ?
 
-Last updated here: 2020
+*automatically synced here*
 
 Contact: [CA State Water Resources Control Board - Basin Plan Portal](https://www.waterboards.ca.gov/resources/data_databases/basin_plan_portal.html)
 
@@ -232,9 +232,9 @@ CalEnviroScreen is a screening methodology that can be used to help identify Cal
 
 Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here: 2021
+*automatically synced here*
 
 Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
@@ -246,9 +246,9 @@ This map shows the disadvantaged communities designated by CalEPA for the purpos
 
 Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here:
+*automatically synced here*
 
 Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
@@ -262,9 +262,9 @@ This indicator represents the reported use of 132 hazardous and volatile pestici
 
 Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://experience.arcgis.com/experience/ed5953d89038431dbf4f22ab9abfe40d/page/Indicators?views=Pesticide-Use#data_s=id%3AdataSource_40-17c3dec6ede-layer-2%3A2935)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here:
+*automatically synced here*
 
 Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
@@ -276,9 +276,9 @@ This layer shows location and attribute information on facilities regulated unde
 
 Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/dataset/epa-facility-registry-service-frs-sems8)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here:
+*manually updated here June 2025*
 
 Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
 
@@ -290,9 +290,9 @@ This layer shows sites that are listed on the Superfund NPL. The NPL lists natio
 
 Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/dataset/epa-facility-registry-service-frs-sems8)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here:
+*manually updated here June 2025*
 
 Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
 
@@ -306,9 +306,9 @@ U.S. EPA Superfund Site boundaries are polygons representing the footprint of a 
 
 Source: [U.S. Environmental Protection Agency (EPA)](https://catalog.data.gov/dataset/npl-superfund-site-boundaries-epa10)
 
-Source data update frequency: Monthly
+Source update frequency: Monthly
 
-Last updated here:
+*manually updated here June 2025*
 
 Contact: [U.S Environmental Protection Agency (EPA)](https://usepa.servicenowservices.com/ecss?id=ecss_csm_get_help_1&sys_id=d696a9f51ba9581013bdb913cc4bcbbe)
 
@@ -320,9 +320,9 @@ This layer shows oil and gas well locations (and their associated records) acros
 
 Source: [WellFinder](https://www.conservation.ca.gov/calgem/Pages/WellFinder.aspx), published by the California Department of Conservation and Geologic Energy Management Division
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here:
+*automatically synced here*
 
 Contact: [WellFinder](https://www.conservation.ca.gov/calgem/Pages/WellFinder.aspx)
 
@@ -336,9 +336,9 @@ This data is published with the intent to aid mine reclamation and is gathered v
 
 Source: California Department of Conservation Division of Mine Reclamation
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here:
+*automatically synced here*
 
 Contact: [California Department of Conservation - Division of Mine Reclamation](https://www.conservation.ca.gov/dmr)
 
@@ -346,9 +346,9 @@ Contact: [California Department of Conservation - Division of Mine Reclamation](
 
 Source: [California State Water Resources Control Board](https://www.arcgis.com/home/item.html?id=18c7d253f0a44fd2a5c7bcfb42cc158d)
 
-Source data update frequency: Every year
+Source update frequency: Every year
 
-Last updated here:
+*automatically synced here*
 
 Contact: [California State Water Resources Control Board](https://www.arcgis.com/home/item.html?id=18c7d253f0a44fd2a5c7bcfb42cc158d)
 
@@ -370,7 +370,9 @@ This layer was developed for use by the State Water Boards SAFER Program to help
 
 Source: [Groundwater Ambient Monitoring and Assessment (GAMA) Program](https://www.waterboards.ca.gov/gama/)
 
-Source data update frequency: As needed
+Source update frequency: As needed
+
+*automatically synced here*
 
 Contact: [SAFER Program](https://www.waterboards.ca.gov/safer/)
 
@@ -404,9 +406,9 @@ The Cleanup Program Sites have 36 different classifications. For ease of viewing
 
 Source: [GeoTracker](https://geotracker.waterboards.ca.gov/datadownload)
 
-Source data update frequency: Daily
+Source update frequency: Daily
 
-Last updated here: May 5, 2025
+*manually updated here June 2025*
 
 Contact: [GeoTracker](https://geotracker.waterboards.ca.gov/contactus)
 
@@ -420,9 +422,9 @@ These facilities are mandated to hold active permits to discharge into or alter 
 
 Source: [California Integrated Water Quality System (CIWQS)](https://www.waterboards.ca.gov/ciwqs/publicreports.html)
 
-Source data update frequency: Daily
+Source update frequency: Daily
 
-Last updated here:
+*automatically synced here*
 
 Contact: [California Integrated Water Quality System (CIWQS)](https://www.waterboards.ca.gov/ciwqs/publicreports.html)
 
@@ -434,9 +436,9 @@ Layer showing locations with sanitary sewer system spills.
 
 Source: [California Integrated Water Quality System (CIWQS)](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=9ccddf54ef614ae9b311998e85922a9a)
 
-Source data update frequency: Daily
+Source update frequency: Daily
 
-Last updated here:
+*automatically synced here*
 
 Contact: [California Integrated Water Quality System (CIWQS)](https://www.waterboards.ca.gov/ciwqs/publicreports.html)
 
@@ -456,9 +458,9 @@ Drought severity is determined by precipitation deviation, stream flow, soil moi
 
 Source: [U.S. Drought Monitor](https://droughtmonitor.unl.edu/)
 
-Source data update frequency: Weekly, on Thursdays
+Source update frequency: Weekly, on Thursdays
 
-Last updated here:
+*automatically synced here*
 
 Contact: [National Drought Mitigation Center (NDMC)](https://drought.unl.edu/)
 
@@ -470,13 +472,13 @@ This layer shows the boundaries of 515 groundwater basins and subbasins as defin
 
 ![Screenshot of interactive map showing groundwater basins and boundaries](images/layer-guide_groundwater-basins.png)
 
-Source: [California Department of Water Resources](https://data.ca.gov/dataset/i08-b118-ca-groundwaterbasins/resource/0bb7282a-e0b1-452f-a364-da785911843e)
+Source: [California Department of Water Resources](https://data.ca.gov/dataset/californias-groundwater-basin-boundary-descriptions)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here:
+*automatically synced here*
 
-Contact:
+Contact: [California Department of Water Resources](https://data.ca.gov/dataset/californias-groundwater-basin-boundary-descriptions)
 
 ### Hydrography, Water Boundaries
 
@@ -496,9 +498,9 @@ The California Interagency Watershed Map is the State of California's working de
 
 Source: [CalWater Watersheds - Overview](https://gispublic.waterboards.ca.gov/portal/home/item.html?id=816893ddab33434989eda92dbc0e126f)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here: September 7th, 2023
+*automatically synced here*
 
 Contact: California Interagency Watershed Mapping Group
 
@@ -512,9 +514,9 @@ Layer showing the boundaries of the nine Regional Water Quality Control Boards i
 
 Source: [California State Water Resources Control Board (SWRCB)](https://gis-california.opendata.arcgis.com/maps/5692f02f7c9a47e384522dfb496f522a/about)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here: May 7, 2025
+*automatically synced here*
 
 Contact: [CA State Water Resources Control Board](https://www.waterboards.ca.gov/)
 
@@ -530,9 +532,9 @@ In this dataset, all bays (plus bay islands and constructed features) are merged
 
 Source: [California Dept. of Forestry and Fire Protection (CalFIRE)](https://hub-calfire-forestry.hub.arcgis.com/datasets/california-county-boundaries/about)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here: December 11, 2024
+*automatically synced here*
 
 Contact: [CAL FIRE eGIS](https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/gis-mapping-and-data-analytics)
 
@@ -544,9 +546,9 @@ This layer shows boundaries for non-private land holders in California.
 
 Source: [California Land Ownership \| California State Geoportal](https://gis.data.ca.gov/datasets/CALFIRE-Forestry::california-land-ownership/about)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here: May 15, 2024
+*automatically synced here*
 
 Contact: [CAL FIRE eGIS](https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/gis-mapping-and-data-analytics)
 
@@ -558,9 +560,9 @@ This layer shows the State Parks in California.
 
 Source: [California State Parks](https://www.parks.ca.gov/?page_id=29682)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here: March 2025
+*automatically synced here*
 
 Contact: [Department of Parks and Recreation](https://www.parks.ca.gov/?page_id=29682)
 
@@ -572,9 +574,9 @@ This layer shows the boundaries of California's Groundwater Sustainability Agenc
 
 Source: [California Department of Water Resources](https://data.ca.gov/dataset/i03-groundwater-sustainability-agencies), for use by [Groundwater Ambient Monitoring and Assessment (GAMA) Program](https://www.waterboards.ca.gov/gama/)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here: July 7, 2025
+*automatically synced here*
 
 Contact: [Department of Water Resources GIS](https://data.ca.gov/dataset/i03-groundwater-sustainability-agencies)
 
@@ -598,8 +600,8 @@ California's MPA Network includes different types of MPAs as well as other desig
 
 Source: [California Marine Protected Areas \[ds582\] GIS Dataset](https://map.dfg.ca.gov/metadata/ds0582.html)
 
-Source data update frequency: As needed
+Source update frequency: As needed
 
-Last updated here: 2019
+*manually updated here June 2025*
 
 Contact: [California Department of Fish and Wildlife - Marine Protected Areas](https://wildlife.ca.gov/Conservation/Marine/MPAs)
