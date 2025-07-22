@@ -176,6 +176,11 @@ Waterboards GIS content must be approved by the GIS team before being publicly s
     -   *Program:* OIMA
     -   *Username / Folder:* your log-in username / Whatever folder you put the content in in the portal
 2.  **This step only applicable if your content includes data that is not already public:** This is unlikely, unless you've sourced data yourself. The Information Security Officer (ISO) requires that you submit a Data Categorization Package (Data Cat). [Check the Data Cat instructions document here](https://cawaterboards.sharepoint.com/sites/RiskManagement/DataCategorizationLibrary/Forms/AllItems.aspx).
+3.  It is important to note that if you have made substantive changes to the map and therefore need to overwrite the existing map and re-publish through ArcPro, you will first need to fill out the Publishing Request Form, but also as of July, 2025 the map ONLY publishes successfully if layers are not grouped. This means that you will need to manually group the layers into their respective "chapters" and "subchapters"/subheadings according to the Layer Guide in Map Viewer.
+
+::: callout-note
+Also as of July, 2025 the layer "3.7.1_Groundwater-Basins_DWR" will not load on the map if it is in ArcPro when the map is published. Therefore, if you have overwitten the map and re-published it from ArcPro then once the map is published, before it is made public, you need to manually add the groundwater basins layer into ArcMap Viewer. You can add it using this specific URL: https://utility.arcgis.com/usrsvcs/servers/49807a1fbc584631bdf88d9ca71dd083/rest/services/Geoscientific/i08_B118_CA_GroundwaterBasins/MapServer/0
+:::
 
 ### Updating Layers:
 
