@@ -8,21 +8,11 @@ All Water Boards authors are **bolded** below.
 
 [Water Boards' Tribal Water Data Initiatives](https://www.waterboards.ca.gov/resources/oima/tribal_water_data_initiatives/)
 
-## SWAMP Information
-
--   The Surface Water Ambient Monitoring Program (SWAMP) unit falls within the OIMA at the State Water Resources Control Board
-
--   Below are resources directly from the SWAMP website that may be useful in addition to this map:
-
-    -   [SWAMP Data Dashboard](https://gispublic.waterboards.ca.gov/swamp-data/)
-
-    -   [Safe to Swim Map](https://mywaterquality.ca.gov/safe-to-swim/content/interactive_map/index.html)
-
-    -   [Freshwater Harmful Algal Bloom (FHAB) Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/freshwater_cyanobacteria.html)
-
 ## Presentations
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [Using California Water Board's Tribal Water Data Map to Understand Pollution & Climate in your Area](https://drive.google.com/file/d/1fJSZywbhhlgFK6H-LSwDVOmc_iJZEErZ/view?usp=sharing). Jan 2025. **Anna Holder**. [National Tribal Data Resilience Workgroup](https://tribalclimatehealth.org/tools-resources/data-development/). [Recording](https://youtu.be/im4xqnCkJ90?si=j6hubFR5mtjhcI7y&t=793)
+![](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg){height="20"}[Using California Water Board’s Tribal Water Data Map to Understand Pollution in your Area](https://drive.google.com/file/d/16Zgw-Tbi_n13WkbG2Ikj3-jnUSw5ZBEb/view?usp=sharing). Jul 2025. **Anna Holder**. [CA Native American Tribal GIS Summit](https://catribalgis.org/gis-summit-1). Recording coming soon!
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [Using California Water Board's Tribal Water Data Map to Understand Pollution & Climate in your Area](https://drive.google.com/file/d/1fJSZywbhhlgFK6H-LSwDVOmc_iJZEErZ/view?usp=sharing). Jan 2025. **Anna Holder**, Sarah Ryan, **Hannah Merges**. [National Tribal Data Resilience Workgroup](https://tribalclimatehealth.org/tools-resources/data-development/). [Recording](https://youtu.be/im4xqnCkJ90?si=j6hubFR5mtjhcI7y&t=793)
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-powerpoint.svg" height="20"/> [Using California Water Board's Tribal Water Data Map to Understand Pollution in your Area](https://drive.google.com/file/d/11xj_Bj4m9MeaVkGYySrKZOR-KEZCJh9x/view?usp=sharing). Oct 2023 ([Fall Tribal Conference](https://tribalepa.com/2023-conference/)). **Anna Holder**, Sarah Ryan. Tribal EPA & US EPA Region 9 Annual Conference. [Recording](https://youtu.be/5s0AfEzw2_s?si=HAj_03DC3PDUnfHp&t=185)
 
@@ -37,3 +27,13 @@ All Water Boards authors are **bolded** below.
 [Healthy Places Index (HPI)](https://map.healthyplacesindex.org/?) - The HPI maps data on social conditions that drive health — like education, job opportunities, clean air and water, and other indicators that are positively associated with life expectancy at birth. The HPI is a project of the Public Health Alliance of Southern California, with the aim of supporting efforts to prioritize equitable community investments and policy.
 
 [Social Vulnerability Index (SVI)](https://www.atsdr.cdc.gov/placeandhealth/svi/interactive_map.html) - The SVI is designed to identify and quantify communities experiencing social vulnerability and help public health officials and local planners better prepare for and respond to emergency events. It is developed by the US Centers for Disease Control and Prevention and Agency for Toxic Substances and Disease Registry.
+
+### SWAMP Information
+
+The Surface Water Ambient Monitoring Program (SWAMP) unit falls within the OIMA at the State Water Resources Control Board. Below are resources directly from the SWAMP website that may be useful in addition to this map:
+
+-   [SWAMP Data Dashboard](https://gispublic.waterboards.ca.gov/swamp-data/)
+
+-   [Safe to Swim Map](https://mywaterquality.ca.gov/safe-to-swim/content/interactive_map/index.html)
+
+-   [Freshwater Harmful Algal Bloom (FHAB) Incident Reports Map](https://mywaterquality.ca.gov/habs/resources/reports-map/)
