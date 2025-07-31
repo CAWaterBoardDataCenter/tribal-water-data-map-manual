@@ -200,21 +200,11 @@
     ]
   },
   {
-    "objectID": "resources.html#swamp-information",
-    "href": "resources.html#swamp-information",
-    "title": "4  Resources",
-    "section": "4.2 SWAMP Information",
-    "text": "4.2 SWAMP Information\n\nThe Surface Water Ambient Monitoring Program (SWAMP) unit falls within the OIMA at the State Water Resources Control Board\nBelow are resources directly from the SWAMP website that may be useful in addition to this map:\n\nSWAMP Data Dashboard\nSafe to Swim Map\nFreshwater Harmful Algal Bloom (FHAB) Program",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resources</span>"
-    ]
-  },
-  {
     "objectID": "resources.html#presentations",
     "href": "resources.html#presentations",
     "title": "4  Resources",
-    "section": "4.3 Presentations",
-    "text": "4.3 Presentations\n Using California Water Board’s Tribal Water Data Map to Understand Pollution & Climate in your Area. Jan 2025. Anna Holder. National Tribal Data Resilience Workgroup. Recording\n Using California Water Board’s Tribal Water Data Map to Understand Pollution in your Area. Oct 2023 (Fall Tribal Conference). Anna Holder, Sarah Ryan. Tribal EPA & US EPA Region 9 Annual Conference. Recording\n CA Water Boards’ Tribal Water Data Resources Update. Aug 2023 (Summer Meeting). Badhia Yunes Katz, Anna Holder. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).\n Introduction to CA Water Boards’ Tribal Water Data Resources. Feb 2023 (Winter Meeting). Badhia Yunes Katz, Anna Holder. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).",
+    "section": "4.2 Presentations",
+    "text": "4.2 Presentations\nUsing California Water Board’s Tribal Water Data Map to Understand Pollution in your Area. Jul 2025. Anna Holder. CA Native American Tribal GIS Summit. Recording coming soon!\nUsing California Water Board’s Tribal Water Data Map to Understand Pollution & Climate in your Area. Jan 2025. Anna Holder, Sarah Ryan, Hannah Merges. National Tribal Data Resilience Workgroup. Recording\nUsing California Water Board’s Tribal Water Data Map to Understand Pollution in your Area. Oct 2023 (Fall Tribal Conference). Anna Holder, Sarah Ryan. Tribal EPA & US EPA Region 9 Annual Conference. Recording\nCA Water Boards’ Tribal Water Data Resources Update. Aug 2023 (Summer Meeting). Badhia Yunes Katz, Anna Holder. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).\nIntroduction to CA Water Boards’ Tribal Water Data Resources. Feb 2023 (Winter Meeting). Badhia Yunes Katz, Anna Holder. California Issues Workgroup - US EPA Region 9 Regional Tribal Operations Committee (RTOC).",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resources</span>"
     ]
@@ -223,8 +213,8 @@
     "objectID": "resources.html#other-data-visualization-tools",
     "href": "resources.html#other-data-visualization-tools",
     "title": "4  Resources",
-    "section": "4.4 Other Data Visualization Tools",
-    "text": "4.4 Other Data Visualization Tools\nTribal Drinking Water - This tool is intended to compile and display information that can inform and help prioritize outreach related to drinking water issues in tribal areas within California. It is a work in progress, and is not intended to be a comprehensive source of tribal-related water data.\nHealthy Places Index (HPI) - The HPI maps data on social conditions that drive health — like education, job opportunities, clean air and water, and other indicators that are positively associated with life expectancy at birth. The HPI is a project of the Public Health Alliance of Southern California, with the aim of supporting efforts to prioritize equitable community investments and policy.\nSocial Vulnerability Index (SVI) - The SVI is designed to identify and quantify communities experiencing social vulnerability and help public health officials and local planners better prepare for and respond to emergency events. It is developed by the US Centers for Disease Control and Prevention and Agency for Toxic Substances and Disease Registry.",
+    "section": "4.3 Other Data Visualization Tools",
+    "text": "4.3 Other Data Visualization Tools\nTribal Drinking Water - This tool is intended to compile and display information that can inform and help prioritize outreach related to drinking water issues in tribal areas within California. It is a work in progress, and is not intended to be a comprehensive source of tribal-related water data.\nHealthy Places Index (HPI) - The HPI maps data on social conditions that drive health — like education, job opportunities, clean air and water, and other indicators that are positively associated with life expectancy at birth. The HPI is a project of the Public Health Alliance of Southern California, with the aim of supporting efforts to prioritize equitable community investments and policy.\nSocial Vulnerability Index (SVI) - The SVI is designed to identify and quantify communities experiencing social vulnerability and help public health officials and local planners better prepare for and respond to emergency events. It is developed by the US Centers for Disease Control and Prevention and Agency for Toxic Substances and Disease Registry.\n\n4.3.1 SWAMP Information\nThe Surface Water Ambient Monitoring Program (SWAMP) unit falls within the OIMA at the State Water Resources Control Board. Below are resources directly from the SWAMP website that may be useful in addition to this map:\n\nSWAMP Data Dashboard\nSafe to Swim Map\nFreshwater Harmful Algal Bloom (FHAB) Incident Reports Map",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resources</span>"
     ]
