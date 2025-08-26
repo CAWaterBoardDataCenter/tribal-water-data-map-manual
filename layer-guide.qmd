@@ -448,21 +448,7 @@ Contact: [California Integrated Water Quality System (CIWQS)](https://www.waterb
 
 ## Climate Change Indicators
 
-### Drought Intensity
-
-Drought Outlook: This layer shows regions in California impacted by drought.
-
-![Screenshot of interactive map showing drought intensity in California](images/layer-guide_drought-intensity.png)
-
-Drought severity is determined by precipitation deviation, stream flow, soil moisture content, subjective observation, and reported impact.
-
-Source: [U.S. Drought Monitor](https://droughtmonitor.unl.edu/)
-
-Source update frequency: Weekly, on Thursdays
-
-*automatically synced here*
-
-Contact: [National Drought Mitigation Center (NDMC)](https://drought.unl.edu/)
+*New layers coming soon*
 
 ## Hydrology
 
