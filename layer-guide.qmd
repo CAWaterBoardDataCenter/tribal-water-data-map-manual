@@ -238,6 +238,30 @@ Source update frequency: As needed
 
 Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
+#### Pollution Burden 
+
+*screenshot coming soon*
+
+Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+
+Source update frequency: As needed
+
+*automatically synced here*
+
+Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
+
+#### Population Characteristics 
+
+*screenshot coming soon*
+
+Source: [California Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40)
+
+Source update frequency: As needed
+
+*automatically synced here*
+
+Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
+
 ### Disadvantaged Communities
 
 This map shows the disadvantaged communities designated by CalEPA for the purpose of SB 535. These areas represent the 25% highest scoring census tracts in CalEnviroScreen 4.0, census tracts previously identified in the top 25% in CalEnviroScreen 3.0, census tracts with high amounts of pollution and low populations, and federally recognized tribal areasas identified by the Census in the 2021 American Indian Areas Related National Geodatabase.

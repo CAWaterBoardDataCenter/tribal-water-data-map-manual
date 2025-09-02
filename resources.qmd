@@ -28,6 +28,8 @@ All Water Boards authors are **bolded** below.
 
 [Social Vulnerability Index (SVI)](https://www.atsdr.cdc.gov/placeandhealth/svi/interactive_map.html) - The SVI is designed to identify and quantify communities experiencing social vulnerability and help public health officials and local planners better prepare for and respond to emergency events. It is developed by the US Centers for Disease Control and Prevention and Agency for Toxic Substances and Disease Registry.
 
+[Mining in California](https://www.arcgis.com/apps/Cascade/index.html?appid=00b3e73e2a11459588a6cd7a55524a9d) - The Mining in California ArcGIS storymap was created by California Department of Conservation, Division of Mine Reclamation to provide more information on the history of mining, abandoned mines, the life cycle of a mine, and the importance of mining.
+
 ### SWAMP Information
 
 The Surface Water Ambient Monitoring Program (SWAMP) unit falls within the OIMA at the State Water Resources Control Board. Below are resources directly from the SWAMP website that may be useful in addition to this map:
