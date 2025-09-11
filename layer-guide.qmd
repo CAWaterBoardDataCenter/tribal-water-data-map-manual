@@ -238,7 +238,7 @@ Source update frequency: As needed
 
 Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
-#### Pollution Burden 
+#### Pollution Burden
 
 *screenshot coming soon*
 
@@ -250,7 +250,7 @@ Source update frequency: As needed
 
 Contact: [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen/contact-calenviroscreen)
 
-#### Population Characteristics 
+#### Population Characteristics
 
 *screenshot coming soon*
 
@@ -352,13 +352,29 @@ Contact: [WellFinder](https://www.conservation.ca.gov/calgem/Pages/WellFinder.as
 
 ### Mines
 
-This layer shows all mines in California.
+This layer shows all mines in California labeled by mine status (color) and type (shape).
 
-![Screenshot of interactive map showing mine locations](images/layer-guide_mines.png)
+This data includes location, status, and other information regarding mine operations regulated under the Surface Mining and Reclamation Act of 1975 (SMARA) in California. The data presented is reported my mine operators in annual reports provided to CA Division of Mine Reclamation under Public Resources Code section 2207.
 
-This data is published with the intent to aid mine reclamation and is gathered via annual reports under Public Resources Code section 2207.
+Additional information about commodities and resources/minerals from mines in California can be found [here](https://mrdata.usgs.gov/mrds/).
 
-Source: California Department of Conservation Division of Mine Reclamation
+#### Mine Status
+
+*screenshot coming soon*
+
+Source: California Department of Conservation Division of Mine Reclamation, Mines Online
+
+Source update frequency: As needed
+
+*automatically synced here*
+
+Contact: [California Department of Conservation - Division of Mine Reclamation](https://www.conservation.ca.gov/dmr)
+
+#### Mine Type
+
+*screenshot coming soon*
+
+Source: California Department of Conservation Division of Mine Reclamation, Mines Online
 
 Source update frequency: As needed
 
@@ -475,6 +491,24 @@ Contact: [California Integrated Water Quality System (CIWQS)](https://www.waterb
 *New layers coming soon*
 
 ## Hydrology
+
+### Wetlands
+
+The National Wetlands Inventory (NWI) was established by the US Fish and Wildlife Service (FWS) to conduct a nationwide inventory of U.S. wetlands to provide biologists and others with information on the distribution and type of wetlands to aid in conservation efforts. This layer has been clipped to just show the extent, approximate location and type of wetlands and surface water habitats in California.
+
+Navigate [here](https://www.fws.gov/program/national-wetlands-inventory/metadata) for more historic information regarding vegetation, regional and temporal conditions, and geographic features.
+
+*screenshot coming soon*
+
+Source: [Wetlands Mapper \| U.S. Fish & Wildlife Service](https://www.fws.gov/program/national-wetlands-inventory/wetlands-mapper)
+
+Metadata: [Wetlands Metadata \| U.S. Fish & Wildlife Service](https://www.fws.gov/program/national-wetlands-inventory/metadata)
+
+Source update frequency: As needed
+
+*manually updated here September 2025*
+
+Contact: Wetlands_Team\@fws.gov\
 
 ### Groundwater Basins
 
