@@ -382,6 +382,18 @@ Source update frequency: As needed
 
 Contact: [California Department of Conservation - Division of Mine Reclamation](https://www.conservation.ca.gov/dmr)
 
+#### Primary Mine Products
+
+*screenshot coming soon*
+
+Source: California Department of Conservation Division of Mine Reclamation, Mines Online
+
+Source update frequency: As needed
+
+*automatically synced here*
+
+Contact: [California Department of Conservation - Division of Mine Reclamation](https://www.conservation.ca.gov/dmr)
+
 ### Aquifer Water Quality Risk
 
 Source: [California State Water Resources Control Board](https://www.arcgis.com/home/item.html?id=18c7d253f0a44fd2a5c7bcfb42cc158d)
