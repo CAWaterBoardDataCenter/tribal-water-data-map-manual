@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="./map-guide.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1ad078d55c2b9f56110df192234ad9e0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4e7cde53563f1827c8faf696c0ed3493.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -97,7 +98,8 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
       <a href="./index.html" class="sidebar-logo-link">
-      <img src="./images/WaterBoards_logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      <img src="./images/WaterBoards_logo.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="./images/WaterBoards_logo.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
       </a>
     <div class="sidebar-title mb-0 py-0">
       <a href="./">User Manual for CA Water Board’s Tribal Water Data Map</a> 
@@ -279,7 +281,7 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Note on default map settings
+<span class="screen-reader-only">Note</span>Note on default map settings
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -417,7 +419,7 @@ Note
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Add new IR layer info
+<span class="screen-reader-only">Note</span>Add new IR layer info
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -536,7 +538,7 @@ Note
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-What is CalEnviroScreen?
+<span class="screen-reader-only">Note</span>What is CalEnviroScreen?
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -551,7 +553,7 @@ What is CalEnviroScreen?
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-How is the CalEnviroScreen Score calculated?
+<span class="screen-reader-only">Note</span>How is the CalEnviroScreen Score calculated?
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -692,6 +694,14 @@ How is the CalEnviroScreen Score calculated?
 </section>
 <section id="mine-type" class="level4" data-number="3.4.6.2">
 <h4 data-number="3.4.6.2" class="anchored" data-anchor-id="mine-type"><span class="header-section-number">3.4.6.2</span> Mine Type</h4>
+<p><em>screenshot coming soon</em></p>
+<p>Source: California Department of Conservation Division of Mine Reclamation, Mines Online</p>
+<p>Source update frequency: As needed</p>
+<p><em>automatically synced here</em></p>
+<p>Contact: <a href="https://www.conservation.ca.gov/dmr">California Department of Conservation - Division of Mine Reclamation</a></p>
+</section>
+<section id="primary-mine-products" class="level4" data-number="3.4.6.3">
+<h4 data-number="3.4.6.3" class="anchored" data-anchor-id="primary-mine-products"><span class="header-section-number">3.4.6.3</span> Primary Mine Products</h4>
 <p><em>screenshot coming soon</em></p>
 <p>Source: California Department of Conservation Division of Mine Reclamation, Mines Online</p>
 <p>Source update frequency: As needed</p>
@@ -1073,13 +1083,14 @@ Note
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
