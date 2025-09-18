@@ -10,9 +10,9 @@ All Water Boards authors are **bolded** below.
 
 ## Presentations
 
-[Using California Water Board’s Tribal Water Data Map to Understand Pollution in your Area](https://drive.google.com/file/d/16Zgw-Tbi_n13WkbG2Ikj3-jnUSw5ZBEb/view?usp=sharing). Jul 2025. **Anna Holder**. [CA Native American Tribal GIS Summit](https://catribalgis.org/gis-summit-1). Recording coming soon!
+[Using California Water Board’s Tribal Water Data Map to Understand Pollution in your Area](https://drive.google.com/file/d/16Zgw-Tbi_n13WkbG2Ikj3-jnUSw5ZBEb/view?usp=sharing). Jul 2025. **Anna Holder**, Sarah Ryan, **Hannah Merges**. [CA Native American Tribal GIS Summit](https://catribalgis.org/gis-summit-1).
 
-[Using California Water Board's Tribal Water Data Map to Understand Pollution & Climate in your Area](https://drive.google.com/file/d/1fJSZywbhhlgFK6H-LSwDVOmc_iJZEErZ/view?usp=sharing). Jan 2025. **Anna Holder**, Sarah Ryan, **Hannah Merges**. [National Tribal Data Resilience Workgroup](https://tribalclimatehealth.org/tools-resources/data-development/). [Recording](https://youtu.be/im4xqnCkJ90?si=j6hubFR5mtjhcI7y&t=793)
+[Using California Water Board's Tribal Water Data Map to Understand Pollution & Climate in your Area](https://drive.google.com/file/d/1fJSZywbhhlgFK6H-LSwDVOmc_iJZEErZ/view?usp=sharing). Jan 2025. **Anna Holder**. [National Tribal Data Resilience Workgroup](https://tribalclimatehealth.org/tools-resources/data-development/). [Recording](https://youtu.be/im4xqnCkJ90?si=j6hubFR5mtjhcI7y&t=793)
 
 [Using California Water Board's Tribal Water Data Map to Understand Pollution in your Area](https://drive.google.com/file/d/11xj_Bj4m9MeaVkGYySrKZOR-KEZCJh9x/view?usp=sharing). Oct 2023 ([Fall Tribal Conference](https://tribalepa.com/2023-conference/)). **Anna Holder**, Sarah Ryan. Tribal EPA & US EPA Region 9 Annual Conference. [Recording](https://youtu.be/5s0AfEzw2_s?si=HAj_03DC3PDUnfHp&t=185)
 
