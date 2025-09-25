@@ -148,7 +148,7 @@ Source update frequency: Every 2 years
 
 Contact: [SWRCB Water Quality Assessment Program](https://www.waterboards.ca.gov/water_issues/programs/water_quality_assessment/)
 
-### Waterbodies that haven't been assessed
+### Waterbodies with insufficient data
 
 #### State Water Bodies (rivers, streams, and beaches)
 
