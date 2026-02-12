@@ -14,11 +14,11 @@ When opening the map in Map Viewer, the **default** layers that will be displaye
 
 Layer displaying different classifications of land allotments from BIA. The Bureau of Land Management Lots layer is included when downloading the zip file of data layers, however, it does not appear on the GIS map and has thus been removed from our map. Please see the contact information below for directing any additional questions.
 
-Source: [Bureau of Indian Affairs](https://www.bia.gov/sites/default/files/dup/assets/bia/pacreg/PRO_Indian_Lands.gdb_.zip), from the [Pacific Regional Office](https://www.bia.gov/regional-offices/pacific) (PRO)
+Source: Bureau of Indian Affairs, from the [Pacific Regional Office](https://www.bia.gov/regional-offices/pacific) (PRO)
 
 Source update frequency: As needed
 
-*manually updated here June 2025*
+*The data from BIA was downloaded and manually updated here in June 2025 and will be updated if/when BIA makes the data publicly available again.*
 
 Contact: [BIA](https://www.bia.gov/bia)
 
@@ -158,11 +158,9 @@ Source: [National Hydrography Dataset](https://gispublic.waterboards.ca.gov/port
 
 Source update frequency: Every 2 years
 
-:::: callout-note
 ::: callout-note
 This layer has not been updated since 2024 and therefore does not accurately reflect all waterbodies that have not been assessed. There are some waterbodies in the NHD layer that are not assessed in the IR layers. If you have further questions, please refer to the contact information below.
 :::
-::::
 
 *automatically synced here*
 
