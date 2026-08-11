@@ -1,12 +1,8 @@
 # Resources
 
-Here you will find a curated list of presentations, webpages and other resources related to the development, implementation and scaling of the Water Board's Tribal Data Mapping Tool.
+Here you will find a curated list of presentations and other resources related to the development, implementation and scaling of the Water Board's Tribal Data Mapping Tool.
 
 All Water Boards authors are **bolded** below.
-
-## Websites
-
-[Water Boards' Tribal Water Data Initiatives](https://www.waterboards.ca.gov/resources/oima/tribal_water_data_initiatives/)
 
 ## Presentations
 
@@ -43,3 +39,7 @@ The Surface Water Ambient Monitoring Program (SWAMP) unit falls within the OIMA 
 -   [SWAMP Data Dashboard](https://gispublic.waterboards.ca.gov/swamp-data/)
 -   [Safe to Swim Map](https://mywaterquality.ca.gov/safe-to-swim/content/interactive_map/index.html)
 -   [Freshwater Harmful Algal Bloom (FHAB) Incident Reports Map](https://mywaterquality.ca.gov/habs/resources/reports-map/)
+
+## Websites
+
+[Water Boards' Tribal Water Data Initiatives](https://www.waterboards.ca.gov/resources/oima/tribal_water_data_initiatives/)
